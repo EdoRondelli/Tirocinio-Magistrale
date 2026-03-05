@@ -25,3 +25,15 @@ This created a file with the structure containing the protein name followed by t
 ```bash
 awk '/^OG/{files=(files?files","$0:$0); next} {if(name) print name "\t" files; name=$0; files=""} END{if(name) print name "\t" files}' <(sed 's-../../../../../PERSONALE/mirko.martini3/00_Mitochondrial_aves/01_analyses/04_orthology/00_OrthoFinder/Results_Mar17/Orthogroup_Sequences/--' found_OG_missing_nucOXPHOS.tsv) > tempmissoxphos.tsv
 ```
+
+Subsetted solely the names of the orthologue files from that file, creating a list of names --> produced (separated_og_names.txt)
+```bash
+```
+
+For each name, checked if the number of species it was represented in was more or less than 129, by checking, for each, its corresponding FASTA (residing in the Orthogroups_Sequences folder), and counting the ">" present, which correspond to unique species. In this process they were also labelled based on if they were supposedly eliminated by DISCO processing (because <129 species) or by trimming. --> Produced file (lost_fasta.tsv)
+
+```bash
+for unsureOG in $(cat separated_og_names.txt); do count=$(grep -c ">" /home/SHARED/00_Mitochondrial_aves/01_analyses/04_orthology/00_OrthoFinder/Results_Mar17/Orthogroup_Sequences/${unsureOG}); if [ "$count" -gt 128 ]; then echo -e "$unsureOG\tEliminated by trimming, has over 129 species associated"; else echo -e "$unsureOG\tEliminated by disco, has less than 129 species associated"; fi; done > lost_fasta.tsv
+```
+
+Discovered that some files with over 129 species were however eliminated by DISCO processing because they were not present in the DISCO product folder, so now we checked why and how.
