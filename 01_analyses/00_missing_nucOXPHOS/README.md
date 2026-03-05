@@ -1,6 +1,6 @@
 # Searching for orthogroups of proteins with no assigned orthogroups
 
-##I used the following dataset [nome file](https://github.com/MirkMart/Mitochondrial_aves/blob/main/01_analyses/06_annotation/annotated_nucOXP.tsv) to subset
+##I used the following dataset [annotate nucOXP](https://github.com/MirkMart/Mitochondrial_aves/blob/main/01_analyses/06_annotation/annotated_nucOXP.tsv) to subset
 all the proteins found which didn't have a previously associated orthogroup, --> produced the [missing nucOXPHOS](./missing_nucOXPHOS.tsv) file.
 
 ```bash
