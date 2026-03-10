@@ -28,6 +28,7 @@ awk '/^OG/{files=(files?files","$0:$0); next} {if(name) print name "\t" files; n
 
 Subsetted solely the names of the orthologue files from that file, creating a list of names --> produced (separated_og_names.txt)
 ```bash
+awk '{print $2}' found_OG_missing_nucOXPHOS.tsv
 ```
 
 For each name, checked if the number of species it was represented in was more or less than 129, by checking, for each, its corresponding FASTA (residing in the Orthogroups_Sequences folder), and counting the ">" present, which correspond to unique species. In this process they were also labelled based on if they were supposedly eliminated by DISCO processing (because <129 species) or by trimming. --> Produced file (lost_fasta.tsv)
