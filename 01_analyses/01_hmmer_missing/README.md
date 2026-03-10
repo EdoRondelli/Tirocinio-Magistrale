@@ -12,7 +12,7 @@ Next idea is to create a phylogenetic tree for these groups.
 For COX: we tried both concatenating them into a single huge file (to generate a tree which would have a single protein for each tip), and also by placing into iqtree the individual
 orthogroups for the species, so as each tip is a different species.
 
-Following this, subjected the files to MSA and trimming with a snakemake workflow [alignment_trimming.smk]() 
+Following this, subjected the files to MSA and trimming with a snakemake workflow [alignment_trimming.smk](./alignment_trimming.smk) 
 
 The trimmed groups of COX (both the entire and the separated one) were ran with IQTREE
 ```bash
