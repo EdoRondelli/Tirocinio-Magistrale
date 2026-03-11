@@ -16,5 +16,7 @@ Following this, subjected the files to MSA and trimming with a snakemake workflo
 
 The trimmed groups of COX (both the entire and the separated one) were ran with IQTREE
 ```bash
-iqtree -s 02_trimmed2COX^C-m MFP -B 1000 -T 20
+iqtree -s 02_trimmed2COX-m MFP -B 1000 -T 20
 ```
+
+We then realized that COX proteins are not paralogs, creating an alignment of all the COX proteins revealed that they only share 1 identical region of AAs consistently, so creating a tree or HMMER model of this group is useless, so the work done here is simply a practice on creating species-based trees, using the 18 OGs of the COX proteins.
