@@ -1,0 +1,1279 @@
+data_5gup
+#
+_entry.id 5gup
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"         89.093   ALA y ALANINE                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C6 H15 N4 O2 1"     175.209  ARG y ARGININE                                                                                                                              ?                                                                                  "L-peptide linking" 
+"C4 H8 N2 O3"        132.118  ASN y ASPARAGINE                                                                                                                            ?                                                                                  "L-peptide linking" 
+"C4 H7 N O4"         133.103  ASP y "ASPARTIC ACID"                                                                                                                       ?                                                                                  "L-peptide linking" 
+"C81 H156 O17 P2 -2" 1464.043 CDL . CARDIOLIPIN                                                                                                                           "DIPHOSPHATIDYL GLYCEROL; BIS-(1,2-DIACYL-SN-GLYCERO-3-PHOSPHO)-1',3'-SN-GLYCEROL" non-polymer         
+"Cu 2"               63.546   CU  . "COPPER (II) ION"                                                                                                                     ?                                                                                  non-polymer         
+"C3 H7 N O2 S"       121.158  CYS y CYSTEINE                                                                                                                              ?                                                                                  "L-peptide linking" 
+"Fe2 S2"             175.820  FES . "FE2/S2 (INORGANIC) CLUSTER"                                                                                                          ?                                                                                  non-polymer         
+"C17 H21 N4 O9 P"    456.344  FMN . "FLAVIN MONONUCLEOTIDE"                                                                                                               "RIBOFLAVIN MONOPHOSPHATE"                                                         non-polymer         
+"C5 H10 N2 O3"       146.144  GLN y GLUTAMINE                                                                                                                             ?                                                                                  "L-peptide linking" 
+"C5 H9 N O4"         147.129  GLU y "GLUTAMIC ACID"                                                                                                                       ?                                                                                  "L-peptide linking" 
+"C2 H5 N O2"         75.067   GLY y GLYCINE                                                                                                                               ?                                                                                  "peptide linking"   
+"C49 H56 Fe N4 O6"   852.837  HEA . HEME-A                                                                                                                                ?                                                                                  non-polymer         
+"C34 H34 Fe N4 O4"   618.503  HEC . "HEME C"                                                                                                                              ?                                                                                  non-polymer         
+"C34 H32 Fe N4 O4"   616.487  HEM . "PROTOPORPHYRIN IX CONTAINING FE"                                                                                                     HEME                                                                               non-polymer         
+"C6 H10 N3 O2 1"     156.162  HIS y HISTIDINE                                                                                                                             ?                                                                                  "L-peptide linking" 
+"C6 H13 N O2"        131.173  ILE y ISOLEUCINE                                                                                                                            ?                                                                                  "L-peptide linking" 
+"C6 H13 N O2"        131.173  LEU y LEUCINE                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C6 H15 N2 O2 1"     147.195  LYS y LYSINE                                                                                                                                ?                                                                                  "L-peptide linking" 
+"C5 H11 N O2 S"      149.211  MET y METHIONINE                                                                                                                            ?                                                                                  "L-peptide linking" 
+"Mg 2"               24.305   MG  . "MAGNESIUM ION"                                                                                                                       ?                                                                                  non-polymer         
+"C21 H30 N7 O17 P3"  745.421  NDP . "NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE"                                                                           ?                                                                                  non-polymer         
+"C41 H83 N O8 P 1"   749.073  PEE . 1,2-Dioleoyl-sn-glycero-3-phosphoethanolamine                                                                                         DOPE                                                                               non-polymer         
+"C9 H11 N O2"        165.189  PHE y PHENYLALANINE                                                                                                                         ?                                                                                  "L-peptide linking" 
+"C42 H89 N O8 P 1"   767.132  PLX . (9R,11S)-9-({[(1S)-1-HYDROXYHEXADECYL]OXY}METHYL)-2,2-DIMETHYL-5,7,10-TRIOXA-2LAMBDA~5~-AZA-6LAMBDA~5~-PHOSPHAOCTACOSANE-6,6,11-TRIOL ?                                                                                  non-polymer         
+"C5 H9 N O2"         115.130  PRO y PROLINE                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C3 H7 N O3"         105.093  SER y SERINE                                                                                                                                ?                                                                                  "L-peptide linking" 
+"Fe4 S4"             351.640  SF4 . "IRON/SULFUR CLUSTER"                                                                                                                 ?                                                                                  non-polymer         
+"C4 H9 N O3"         119.119  THR y THREONINE                                                                                                                             ?                                                                                  "L-peptide linking" 
+"C11 H12 N2 O2"      204.225  TRP y TRYPTOPHAN                                                                                                                            ?                                                                                  "L-peptide linking" 
+"C9 H11 N O3"        181.189  TYR y TYROSINE                                                                                                                              ?                                                                                  "L-peptide linking" 
+"C4 H9 N O2"         103.120  UNK . UNKNOWN                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C5 H11 N O2"        117.146  VAL y VALINE                                                                                                                                ?                                                                                  "L-peptide linking" 
+"C25 H49 N2 O8 P S"  568.704  ZMP . "S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] tetradecanethioate"                         ?                                                                                  non-polymer         
+"Zn 2"               65.409   ZN  . "ZINC ION"                                                                                                                            ?                                                                                  non-polymer         
+#
+_entity.id               49
+_entity.pdbx_description "Cytochrome b-c1 complex subunit 7"
+_entity.type             polymer
+#
+_entity_poly.entity_id      49
+_entity_poly.pdbx_strand_id 9
+_entity_poly.type           polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+49 n MET 1   
+49 n ALA 2   
+49 n SER 3   
+49 n ARG 4   
+49 n PRO 5   
+49 n ALA 6   
+49 n VAL 7   
+49 n ALA 8   
+49 n ALA 9   
+49 n SER 10  
+49 n SER 11  
+49 n LYS 12  
+49 n TRP 13  
+49 n LEU 14  
+49 n GLU 15  
+49 n GLY 16  
+49 n ILE 17  
+49 n ARG 18  
+49 n LYS 19  
+49 n TRP 20  
+49 n TYR 21  
+49 n TYR 22  
+49 n ASN 23  
+49 n ALA 24  
+49 n ALA 25  
+49 n GLY 26  
+49 n PHE 27  
+49 n ASN 28  
+49 n LYS 29  
+49 n LEU 30  
+49 n GLY 31  
+49 n LEU 32  
+49 n MET 33  
+49 n ARG 34  
+49 n ASP 35  
+49 n ASP 36  
+49 n THR 37  
+49 n ILE 38  
+49 n TYR 39  
+49 n GLU 40  
+49 n ASP 41  
+49 n ASP 42  
+49 n ASP 43  
+49 n VAL 44  
+49 n LYS 45  
+49 n GLU 46  
+49 n ALA 47  
+49 n ILE 48  
+49 n ARG 49  
+49 n ARG 50  
+49 n LEU 51  
+49 n PRO 52  
+49 n GLU 53  
+49 n ASN 54  
+49 n LEU 55  
+49 n TYR 56  
+49 n ASN 57  
+49 n ASP 58  
+49 n ARG 59  
+49 n VAL 60  
+49 n PHE 61  
+49 n ARG 62  
+49 n ILE 63  
+49 n LYS 64  
+49 n ARG 65  
+49 n ALA 66  
+49 n LEU 67  
+49 n ASP 68  
+49 n LEU 69  
+49 n THR 70  
+49 n MET 71  
+49 n ARG 72  
+49 n GLN 73  
+49 n GLN 74  
+49 n ILE 75  
+49 n LEU 76  
+49 n PRO 77  
+49 n LYS 78  
+49 n GLU 79  
+49 n GLN 80  
+49 n TRP 81  
+49 n THR 82  
+49 n LYS 83  
+49 n TYR 84  
+49 n GLU 85  
+49 n GLU 86  
+49 n ASP 87  
+49 n LYS 88  
+49 n PHE 89  
+49 n TYR 90  
+49 n LEU 91  
+49 n GLU 92  
+49 n PRO 93  
+49 n TYR 94  
+49 n LEU 95  
+49 n LYS 96  
+49 n GLU 97  
+49 n VAL 98  
+49 n ILE 99  
+49 n ARG 100 
+49 n GLU 101 
+49 n ARG 102 
+49 n LYS 103 
+49 n GLU 104 
+49 n ARG 105 
+49 n GLU 106 
+49 n GLU 107 
+49 n TRP 108 
+49 n ALA 109 
+49 n LYS 110 
+49 n LYS 111 
+#
+_exptl.method "ELECTRON MICROSCOPY"
+#
+_pdbx_audit_revision_history.revision_date 2017-03-29
+#
+_pdbx_database_status.recvd_initial_deposition_date 2017-03-29
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+JB ?   49 n MET . 1   9 1   
+JB ?   49 n ALA . 2   9 2   
+JB ?   49 n SER . 3   9 3   
+JB ?   49 n ARG . 4   9 4   
+JB ?   49 n PRO . 5   9 5   
+JB 6   49 n ALA . 6   9 6   
+JB 7   49 n VAL . 7   9 7   
+JB 8   49 n ALA . 8   9 8   
+JB 9   49 n ALA . 9   9 9   
+JB 10  49 n SER . 10  9 10  
+JB 11  49 n SER . 11  9 11  
+JB 12  49 n LYS . 12  9 12  
+JB 13  49 n TRP . 13  9 13  
+JB 14  49 n LEU . 14  9 14  
+JB 15  49 n GLU . 15  9 15  
+JB 16  49 n GLY . 16  9 16  
+JB 17  49 n ILE . 17  9 17  
+JB 18  49 n ARG . 18  9 18  
+JB 19  49 n LYS . 19  9 19  
+JB 20  49 n TRP . 20  9 20  
+JB 21  49 n TYR . 21  9 21  
+JB 22  49 n TYR . 22  9 22  
+JB 23  49 n ASN . 23  9 23  
+JB 24  49 n ALA . 24  9 24  
+JB 25  49 n ALA . 25  9 25  
+JB 26  49 n GLY . 26  9 26  
+JB 27  49 n PHE . 27  9 27  
+JB 28  49 n ASN . 28  9 28  
+JB 29  49 n LYS . 29  9 29  
+JB 30  49 n LEU . 30  9 30  
+JB 31  49 n GLY . 31  9 31  
+JB 32  49 n LEU . 32  9 32  
+JB 33  49 n MET . 33  9 33  
+JB 34  49 n ARG . 34  9 34  
+JB 35  49 n ASP . 35  9 35  
+JB 36  49 n ASP . 36  9 36  
+JB 37  49 n THR . 37  9 37  
+JB 38  49 n ILE . 38  9 38  
+JB 39  49 n TYR . 39  9 39  
+JB 40  49 n GLU . 40  9 40  
+JB 41  49 n ASP . 41  9 41  
+JB 42  49 n ASP . 42  9 42  
+JB 43  49 n ASP . 43  9 43  
+JB 44  49 n VAL . 44  9 44  
+JB 45  49 n LYS . 45  9 45  
+JB 46  49 n GLU . 46  9 46  
+JB 47  49 n ALA . 47  9 47  
+JB 48  49 n ILE . 48  9 48  
+JB 49  49 n ARG . 49  9 49  
+JB 50  49 n ARG . 50  9 50  
+JB 51  49 n LEU . 51  9 51  
+JB 52  49 n PRO . 52  9 52  
+JB 53  49 n GLU . 53  9 53  
+JB 54  49 n ASN . 54  9 54  
+JB 55  49 n LEU . 55  9 55  
+JB 56  49 n TYR . 56  9 56  
+JB 57  49 n ASN . 57  9 57  
+JB 58  49 n ASP . 58  9 58  
+JB 59  49 n ARG . 59  9 59  
+JB 60  49 n VAL . 60  9 60  
+JB 61  49 n PHE . 61  9 61  
+JB 62  49 n ARG . 62  9 62  
+JB 63  49 n ILE . 63  9 63  
+JB 64  49 n LYS . 64  9 64  
+JB 65  49 n ARG . 65  9 65  
+JB 66  49 n ALA . 66  9 66  
+JB 67  49 n LEU . 67  9 67  
+JB 68  49 n ASP . 68  9 68  
+JB 69  49 n LEU . 69  9 69  
+JB 70  49 n THR . 70  9 70  
+JB 71  49 n MET . 71  9 71  
+JB 72  49 n ARG . 72  9 72  
+JB 73  49 n GLN . 73  9 73  
+JB 74  49 n GLN . 74  9 74  
+JB 75  49 n ILE . 75  9 75  
+JB 76  49 n LEU . 76  9 76  
+JB 77  49 n PRO . 77  9 77  
+JB 78  49 n LYS . 78  9 78  
+JB 79  49 n GLU . 79  9 79  
+JB 80  49 n GLN . 80  9 80  
+JB 81  49 n TRP . 81  9 81  
+JB 82  49 n THR . 82  9 82  
+JB 83  49 n LYS . 83  9 83  
+JB 84  49 n TYR . 84  9 84  
+JB 85  49 n GLU . 85  9 85  
+JB 86  49 n GLU . 86  9 86  
+JB 87  49 n ASP . 87  9 87  
+JB 88  49 n LYS . 88  9 88  
+JB 89  49 n PHE . 89  9 89  
+JB 90  49 n TYR . 90  9 90  
+JB 91  49 n LEU . 91  9 91  
+JB 92  49 n GLU . 92  9 92  
+JB 93  49 n PRO . 93  9 93  
+JB 94  49 n TYR . 94  9 94  
+JB 95  49 n LEU . 95  9 95  
+JB 96  49 n LYS . 96  9 96  
+JB 97  49 n GLU . 97  9 97  
+JB 98  49 n VAL . 98  9 98  
+JB 99  49 n ILE . 99  9 99  
+JB 100 49 n ARG . 100 9 100 
+JB 101 49 n GLU . 101 9 101 
+JB 102 49 n ARG . 102 9 102 
+JB 103 49 n LYS . 103 9 103 
+JB 104 49 n GLU . 104 9 104 
+JB 105 49 n ARG . 105 9 105 
+JB 106 49 n GLU . 106 9 106 
+JB 107 49 n GLU . 107 9 107 
+JB 108 49 n TRP . 108 9 108 
+JB 109 49 n ALA . 109 9 109 
+JB 110 49 n LYS . 110 9 110 
+JB 111 49 n LYS . 111 9 111 
+#
+_pdbx_struct_assembly.details            author_defined_assembly
+_pdbx_struct_assembly.id                 1
+_pdbx_struct_assembly.method_details     ?
+_pdbx_struct_assembly.oligomeric_count   80
+_pdbx_struct_assembly.oligomeric_details 80-meric
+#
+_pdbx_struct_assembly_gen.assembly_id     1
+_pdbx_struct_assembly_gen.asym_id_list    A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,BA,CA,DA,EA,FA,GA,HA,IA,JA,KA,LA,MA,NA,OA,PA,QA,RA,SA,TA,UA,VA,WA,XA,YA,ZA,AB,BB,CB,DB,EB,FB,GB,HB,IB,JB,KB,LB,MB,NB,OB,PB,QB,RB,SB,TB,UB,VB,WB,XB,YB,ZB,AC,BC,CC,DC,EC,FC,GC,HC,IC,JC,KC,LC,MC,NC,OC,PC,QC,RC,SC,TC,UC,VC,WC,XC,YC,ZC,AD,BD,CD,DD,ED,FD,GD,HD,ID,JD,KD,LD,MD,ND,OD,PD,QD,RD,SD,TD,UD,VD,WD,XD,YD,ZD,AE,BE
+_pdbx_struct_assembly_gen.oper_expression 1
+#
+_pdbx_struct_oper_list.id                 1
+_pdbx_struct_oper_list.matrix[1][1]       1.0000000000
+_pdbx_struct_oper_list.matrix[1][2]       0.0000000000
+_pdbx_struct_oper_list.matrix[1][3]       0.0000000000
+_pdbx_struct_oper_list.matrix[2][1]       0.0000000000
+_pdbx_struct_oper_list.matrix[2][2]       1.0000000000
+_pdbx_struct_oper_list.matrix[2][3]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][1]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][2]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][3]       1.0000000000
+_pdbx_struct_oper_list.name               1_555
+_pdbx_struct_oper_list.symmetry_operation ?
+_pdbx_struct_oper_list.type               "identity operation"
+_pdbx_struct_oper_list.vector[1]          0.0000000000
+_pdbx_struct_oper_list.vector[2]          0.0000000000
+_pdbx_struct_oper_list.vector[3]          0.0000000000
+#
+_refine.ls_d_res_high 4.00
+#
+_software.classification other
+_software.name           "DeepMind Structure Class"
+_software.pdbx_ordinal   1
+_software.version        2.0.0
+#
+_struct_asym.entity_id 49
+_struct_asym.id        JB
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1   N N   . ALA JB 49 6   ? 230.956 351.254 279.783 1.00 94.51 6   9 1 
+ATOM 2   C CA  . ALA JB 49 6   ? 230.906 350.077 278.924 1.00 95.42 6   9 1 
+ATOM 3   C C   . ALA JB 49 6   ? 229.472 349.601 278.731 1.00 95.39 6   9 1 
+ATOM 4   O O   . ALA JB 49 6   ? 228.543 350.408 278.689 1.00 96.00 6   9 1 
+ATOM 5   C CB  . ALA JB 49 6   ? 231.762 348.959 279.503 1.00 95.41 6   9 1 
+ATOM 6   N N   . VAL JB 49 7   ? 229.301 348.288 278.611 1.00 94.42 7   9 1 
+ATOM 7   C CA  . VAL JB 49 7   ? 227.979 347.695 278.438 1.00 92.69 7   9 1 
+ATOM 8   C C   . VAL JB 49 7   ? 227.117 347.925 279.676 1.00 92.13 7   9 1 
+ATOM 9   O O   . VAL JB 49 7   ? 227.626 347.987 280.797 1.00 92.48 7   9 1 
+ATOM 10  C CB  . VAL JB 49 7   ? 228.065 346.181 278.139 1.00 91.73 7   9 1 
+ATOM 11  C CG1 . VAL JB 49 7   ? 228.734 345.941 276.793 1.00 91.22 7   9 1 
+ATOM 12  C CG2 . VAL JB 49 7   ? 228.815 345.458 279.245 1.00 91.38 7   9 1 
+ATOM 13  N N   . ALA JB 49 8   ? 225.813 348.079 279.465 1.00 91.26 8   9 1 
+ATOM 14  C CA  . ALA JB 49 8   ? 224.883 348.308 280.566 1.00 89.36 8   9 1 
+ATOM 15  C C   . ALA JB 49 8   ? 223.526 347.659 280.299 1.00 88.95 8   9 1 
+ATOM 16  O O   . ALA JB 49 8   ? 223.330 346.474 280.568 1.00 88.10 8   9 1 
+ATOM 17  C CB  . ALA JB 49 8   ? 224.717 349.799 280.814 1.00 20.00 8   9 1 
+ATOM 18  N N   . ALA JB 49 9   ? 222.589 348.445 279.783 1.00 88.25 9   9 1 
+ATOM 19  C CA  . ALA JB 49 9   ? 221.263 347.937 279.455 1.00 86.97 9   9 1 
+ATOM 20  C C   . ALA JB 49 9   ? 221.244 347.247 278.094 1.00 85.54 9   9 1 
+ATOM 21  O O   . ALA JB 49 9   ? 220.246 346.633 277.720 1.00 83.78 9   9 1 
+ATOM 22  C CB  . ALA JB 49 9   ? 220.245 349.062 279.488 1.00 86.32 9   9 1 
+ATOM 23  N N   . SER JB 49 10  ? 222.337 347.366 277.346 1.00 83.48 10  9 1 
+ATOM 24  C CA  . SER JB 49 10  ? 222.453 346.668 276.071 1.00 81.80 10  9 1 
+ATOM 25  C C   . SER JB 49 10  ? 222.447 345.166 276.307 1.00 82.19 10  9 1 
+ATOM 26  O O   . SER JB 49 10  ? 221.938 344.397 275.491 1.00 81.48 10  9 1 
+ATOM 27  C CB  . SER JB 49 10  ? 223.728 347.084 275.333 1.00 82.01 10  9 1 
+ATOM 28  O OG  . SER JB 49 10  ? 223.693 348.454 274.974 1.00 80.68 10  9 1 
+ATOM 29  N N   . SER JB 49 11  ? 223.009 344.757 277.440 1.00 81.98 11  9 1 
+ATOM 30  C CA  . SER JB 49 11  ? 222.994 343.356 277.831 1.00 79.56 11  9 1 
+ATOM 31  C C   . SER JB 49 11  ? 221.568 342.915 278.137 1.00 77.95 11  9 1 
+ATOM 32  O O   . SER JB 49 11  ? 221.202 341.775 277.879 1.00 75.51 11  9 1 
+ATOM 33  C CB  . SER JB 49 11  ? 223.904 343.122 279.041 1.00 79.01 11  9 1 
+ATOM 34  O OG  . SER JB 49 11  ? 223.905 341.760 279.433 1.00 73.20 11  9 1 
+ATOM 35  N N   . LYS JB 49 12  ? 220.760 343.832 278.664 1.00 76.73 12  9 1 
+ATOM 36  C CA  . LYS JB 49 12  ? 219.356 343.542 278.938 1.00 74.50 12  9 1 
+ATOM 37  C C   . LYS JB 49 12  ? 218.627 343.235 277.637 1.00 70.60 12  9 1 
+ATOM 38  O O   . LYS JB 49 12  ? 217.751 342.367 277.583 1.00 67.31 12  9 1 
+ATOM 39  C CB  . LYS JB 49 12  ? 218.699 344.727 279.649 1.00 20.00 12  9 1 
+ATOM 40  C CG  . LYS JB 49 12  ? 217.243 344.527 280.030 1.00 20.00 12  9 1 
+ATOM 41  C CD  . LYS JB 49 12  ? 216.684 345.785 280.681 1.00 20.00 12  9 1 
+ATOM 42  C CE  . LYS JB 49 12  ? 215.196 345.660 280.951 1.00 20.00 12  9 1 
+ATOM 43  N NZ  . LYS JB 49 12  ? 214.915 344.580 281.937 1.00 20.00 12  9 1 
+ATOM 44  N N   . TRP JB 49 13  ? 219.008 343.953 276.585 1.00 69.76 13  9 1 
+ATOM 45  C CA  . TRP JB 49 13  ? 218.543 343.656 275.239 1.00 69.21 13  9 1 
+ATOM 46  C C   . TRP JB 49 13  ? 219.124 342.343 274.733 1.00 65.85 13  9 1 
+ATOM 47  O O   . TRP JB 49 13  ? 218.508 341.651 273.921 1.00 64.83 13  9 1 
+ATOM 48  C CB  . TRP JB 49 13  ? 218.896 344.799 274.289 1.00 76.92 13  9 1 
+ATOM 49  C CG  . TRP JB 49 13  ? 218.524 344.522 272.873 1.00 81.91 13  9 1 
+ATOM 50  C CD1 . TRP JB 49 13  ? 217.307 344.719 272.289 1.00 83.61 13  9 1 
+ATOM 51  C CD2 . TRP JB 49 13  ? 219.383 344.007 271.852 1.00 84.00 13  9 1 
+ATOM 52  N NE1 . TRP JB 49 13  ? 217.353 344.348 270.967 1.00 83.70 13  9 1 
+ATOM 53  C CE2 . TRP JB 49 13  ? 218.618 343.910 270.673 1.00 84.23 13  9 1 
+ATOM 54  C CE3 . TRP JB 49 13  ? 220.725 343.616 271.820 1.00 84.65 13  9 1 
+ATOM 55  C CZ2 . TRP JB 49 13  ? 219.151 343.438 269.476 1.00 84.33 13  9 1 
+ATOM 56  C CZ3 . TRP JB 49 13  ? 221.252 343.150 270.632 1.00 85.03 13  9 1 
+ATOM 57  C CH2 . TRP JB 49 13  ? 220.466 343.063 269.476 1.00 85.38 13  9 1 
+ATOM 58  N N   . LEU JB 49 14  ? 220.312 341.999 275.217 1.00 62.76 14  9 1 
+ATOM 59  C CA  . LEU JB 49 14  ? 220.926 340.750 274.805 1.00 60.98 14  9 1 
+ATOM 60  C C   . LEU JB 49 14  ? 220.160 339.554 275.361 1.00 58.94 14  9 1 
+ATOM 61  O O   . LEU JB 49 14  ? 219.798 338.672 274.596 1.00 57.26 14  9 1 
+ATOM 62  C CB  . LEU JB 49 14  ? 222.397 340.701 275.217 1.00 62.54 14  9 1 
+ATOM 63  C CG  . LEU JB 49 14  ? 223.299 341.676 274.455 1.00 64.01 14  9 1 
+ATOM 64  C CD1 . LEU JB 49 14  ? 224.726 341.650 274.985 1.00 65.55 14  9 1 
+ATOM 65  C CD2 . LEU JB 49 14  ? 223.278 341.366 272.968 1.00 63.71 14  9 1 
+ATOM 66  N N   . GLU JB 49 15  ? 219.852 339.532 276.659 1.00 57.71 15  9 1 
+ATOM 67  C CA  . GLU JB 49 15  ? 218.967 338.476 277.158 1.00 53.90 15  9 1 
+ATOM 68  C C   . GLU JB 49 15  ? 217.556 338.677 276.631 1.00 50.26 15  9 1 
+ATOM 69  O O   . GLU JB 49 15  ? 216.733 337.760 276.682 1.00 52.31 15  9 1 
+ATOM 70  C CB  . GLU JB 49 15  ? 218.920 338.383 278.687 1.00 61.08 15  9 1 
+ATOM 71  C CG  . GLU JB 49 15  ? 220.159 337.820 279.354 1.00 71.81 15  9 1 
+ATOM 72  C CD  . GLU JB 49 15  ? 221.058 338.887 279.915 1.00 80.39 15  9 1 
+ATOM 73  O OE1 . GLU JB 49 15  ? 220.714 340.076 279.783 1.00 84.45 15  9 1 
+ATOM 74  O OE2 . GLU JB 49 15  ? 222.096 338.534 280.512 1.00 81.47 15  9 1 
+ATOM 75  N N   . GLY JB 49 16  ? 217.272 339.881 276.145 1.00 44.79 16  9 1 
+ATOM 76  C CA  . GLY JB 49 16  ? 216.003 340.128 275.496 1.00 43.14 16  9 1 
+ATOM 77  C C   . GLY JB 49 16  ? 215.881 339.268 274.252 1.00 41.65 16  9 1 
+ATOM 78  O O   . GLY JB 49 16  ? 214.871 338.587 274.061 1.00 45.34 16  9 1 
+ATOM 79  N N   . ILE JB 49 17  ? 216.914 339.275 273.411 1.00 36.84 17  9 1 
+ATOM 80  C CA  . ILE JB 49 17  ? 216.880 338.454 272.207 1.00 32.03 17  9 1 
+ATOM 81  C C   . ILE JB 49 17  ? 217.248 337.008 272.509 1.00 28.90 17  9 1 
+ATOM 82  O O   . ILE JB 49 17  ? 217.003 336.129 271.690 1.00 25.76 17  9 1 
+ATOM 83  C CB  . ILE JB 49 17  ? 217.813 338.993 271.104 1.00 32.99 17  9 1 
+ATOM 84  C CG1 . ILE JB 49 17  ? 219.274 338.918 271.534 1.00 33.62 17  9 1 
+ATOM 85  C CG2 . ILE JB 49 17  ? 217.443 340.423 270.757 1.00 36.22 17  9 1 
+ATOM 86  C CD1 . ILE JB 49 17  ? 220.250 339.215 270.414 1.00 36.33 17  9 1 
+ATOM 87  N N   . ARG JB 49 18  ? 217.835 336.754 273.675 1.00 24.06 18  9 1 
+ATOM 88  C CA  . ARG JB 49 18  ? 218.012 335.375 274.103 1.00 23.28 18  9 1 
+ATOM 89  C C   . ARG JB 49 18  ? 216.620 334.817 274.339 1.00 25.00 18  9 1 
+ATOM 90  O O   . ARG JB 49 18  ? 216.308 333.693 273.946 1.00 32.61 18  9 1 
+ATOM 91  C CB  . ARG JB 49 18  ? 218.856 335.264 275.377 1.00 16.97 18  9 1 
+ATOM 92  C CG  . ARG JB 49 18  ? 220.250 335.851 275.280 1.00 11.53 18  9 1 
+ATOM 93  C CD  . ARG JB 49 18  ? 221.188 335.082 274.386 1.00 11.48 18  9 1 
+ATOM 94  N NE  . ARG JB 49 18  ? 222.453 335.799 274.229 1.00 17.24 18  9 1 
+ATOM 95  C CZ  . ARG JB 49 18  ? 223.449 335.779 275.110 1.00 30.75 18  9 1 
+ATOM 96  N NH1 . ARG JB 49 18  ? 223.334 335.085 276.233 1.00 43.28 18  9 1 
+ATOM 97  N NH2 . ARG JB 49 18  ? 224.557 336.466 274.872 1.00 33.89 18  9 1 
+ATOM 98  N N   . LYS JB 49 19  ? 215.772 335.636 274.950 1.00 24.87 19  9 1 
+ATOM 99  C CA  . LYS JB 49 19  ? 214.404 335.239 275.243 1.00 22.68 19  9 1 
+ATOM 100 C C   . LYS JB 49 19  ? 213.569 335.103 273.980 1.00 22.14 19  9 1 
+ATOM 101 O O   . LYS JB 49 19  ? 212.893 334.089 273.773 1.00 12.55 19  9 1 
+ATOM 102 C CB  . LYS JB 49 19  ? 213.755 336.247 276.188 1.00 16.79 19  9 1 
+ATOM 103 C CG  . LYS JB 49 19  ? 212.322 335.922 276.548 1.00 25.99 19  9 1 
+ATOM 104 C CD  . LYS JB 49 19  ? 211.816 336.848 277.635 1.00 26.77 19  9 1 
+ATOM 105 C CE  . LYS JB 49 19  ? 210.366 336.565 277.965 1.00 24.10 19  9 1 
+ATOM 106 N NZ  . LYS JB 49 19  ? 209.466 337.002 276.866 1.00 16.59 19  9 1 
+ATOM 107 N N   . TRP JB 49 20  ? 213.630 336.120 273.126 1.00 24.61 20  9 1 
+ATOM 108 C CA  . TRP JB 49 20  ? 212.842 336.101 271.903 1.00 24.92 20  9 1 
+ATOM 109 C C   . TRP JB 49 20  ? 213.278 335.010 270.946 1.00 27.37 20  9 1 
+ATOM 110 O O   . TRP JB 49 20  ? 212.437 334.345 270.353 1.00 19.61 20  9 1 
+ATOM 111 C CB  . TRP JB 49 20  ? 212.898 337.452 271.191 1.00 27.86 20  9 1 
+ATOM 112 C CG  . TRP JB 49 20  ? 212.253 337.420 269.833 1.00 30.32 20  9 1 
+ATOM 113 C CD1 . TRP JB 49 20  ? 210.927 337.568 269.544 1.00 29.42 20  9 1 
+ATOM 114 C CD2 . TRP JB 49 20  ? 212.919 337.236 268.578 1.00 32.68 20  9 1 
+ATOM 115 N NE1 . TRP JB 49 20  ? 210.725 337.479 268.187 1.00 31.83 20  9 1 
+ATOM 116 C CE2 . TRP JB 49 20  ? 211.934 337.277 267.572 1.00 33.60 20  9 1 
+ATOM 117 C CE3 . TRP JB 49 20  ? 214.253 337.037 268.207 1.00 31.48 20  9 1 
+ATOM 118 C CZ2 . TRP JB 49 20  ? 212.242 337.128 266.220 1.00 39.01 20  9 1 
+ATOM 119 C CZ3 . TRP JB 49 20  ? 214.556 336.890 266.868 1.00 29.19 20  9 1 
+ATOM 120 C CH2 . TRP JB 49 20  ? 213.557 336.936 265.891 1.00 36.44 20  9 1 
+ATOM 121 N N   . TYR JB 49 21  ? 214.582 334.825 270.776 1.00 29.21 21  9 1 
+ATOM 122 C CA  . TYR JB 49 21  ? 215.036 333.734 269.929 1.00 24.58 21  9 1 
+ATOM 123 C C   . TYR JB 49 21  ? 214.748 332.384 270.568 1.00 23.32 21  9 1 
+ATOM 124 O O   . TYR JB 49 21  ? 214.539 331.400 269.864 1.00 26.99 21  9 1 
+ATOM 125 C CB  . TYR JB 49 21  ? 216.520 333.852 269.593 1.00 21.34 21  9 1 
+ATOM 126 C CG  . TYR JB 49 21  ? 217.024 332.629 268.869 1.00 24.20 21  9 1 
+ATOM 127 C CD1 . TYR JB 49 21  ? 216.633 332.363 267.563 1.00 25.03 21  9 1 
+ATOM 128 C CD2 . TYR JB 49 21  ? 217.883 331.734 269.489 1.00 24.72 21  9 1 
+ATOM 129 C CE1 . TYR JB 49 21  ? 217.079 331.235 266.898 1.00 31.20 21  9 1 
+ATOM 130 C CE2 . TYR JB 49 21  ? 218.340 330.608 268.830 1.00 22.19 21  9 1 
+ATOM 131 C CZ  . TYR JB 49 21  ? 217.934 330.364 267.537 1.00 31.59 21  9 1 
+ATOM 132 O OH  . TYR JB 49 21  ? 218.385 329.245 266.882 1.00 36.95 21  9 1 
+ATOM 133 N N   . TYR JB 49 22  ? 214.723 332.326 271.895 1.00 23.62 22  9 1 
+ATOM 134 C CA  . TYR JB 49 22  ? 214.284 331.095 272.535 1.00 18.00 22  9 1 
+ATOM 135 C C   . TYR JB 49 22  ? 212.838 330.819 272.172 1.00 18.27 22  9 1 
+ATOM 136 O O   . TYR JB 49 22  ? 212.447 329.668 271.999 1.00 12.72 22  9 1 
+ATOM 137 C CB  . TYR JB 49 22  ? 214.444 331.165 274.053 1.00 14.36 22  9 1 
+ATOM 138 C CG  . TYR JB 49 22  ? 213.721 330.060 274.800 1.00 18.35 22  9 1 
+ATOM 139 C CD1 . TYR JB 49 22  ? 214.203 328.760 274.813 1.00 12.65 22  9 1 
+ATOM 140 C CD2 . TYR JB 49 22  ? 212.559 330.328 275.505 1.00 20.79 22  9 1 
+ATOM 141 C CE1 . TYR JB 49 22  ? 213.537 327.761 275.498 1.00 17.46 22  9 1 
+ATOM 142 C CE2 . TYR JB 49 22  ? 211.896 329.339 276.192 1.00 16.62 22  9 1 
+ATOM 143 C CZ  . TYR JB 49 22  ? 212.383 328.061 276.185 1.00 20.46 22  9 1 
+ATOM 144 O OH  . TYR JB 49 22  ? 211.708 327.084 276.875 1.00 22.14 22  9 1 
+ATOM 145 N N   . ASN JB 49 23  ? 212.047 331.878 272.037 1.00 21.17 23  9 1 
+ATOM 146 C CA  . ASN JB 49 23  ? 210.688 331.708 271.551 1.00 23.12 23  9 1 
+ATOM 147 C C   . ASN JB 49 23  ? 210.701 331.255 270.101 1.00 17.40 23  9 1 
+ATOM 148 O O   . ASN JB 49 23  ? 209.872 330.448 269.684 1.00 16.71 23  9 1 
+ATOM 149 C CB  . ASN JB 49 23  ? 209.897 333.002 271.700 1.00 30.48 23  9 1 
+ATOM 150 C CG  . ASN JB 49 23  ? 209.776 333.441 273.140 1.00 36.14 23  9 1 
+ATOM 151 O OD1 . ASN JB 49 23  ? 210.043 334.592 273.472 1.00 38.97 23  9 1 
+ATOM 152 N ND2 . ASN JB 49 23  ? 209.379 332.521 274.007 1.00 37.22 23  9 1 
+ATOM 153 N N   . ALA JB 49 24  ? 211.668 331.771 269.348 1.00 12.12 24  9 1 
+ATOM 154 C CA  . ALA JB 49 24  ? 211.830 331.432 267.941 1.00 6.37  24  9 1 
+ATOM 155 C C   . ALA JB 49 24  ? 212.237 329.978 267.783 1.00 10.02 24  9 1 
+ATOM 156 O O   . ALA JB 49 24  ? 211.941 329.345 266.772 1.00 9.65  24  9 1 
+ATOM 157 C CB  . ALA JB 49 24  ? 212.855 332.347 267.286 1.00 2.16  24  9 1 
+ATOM 158 N N   . ALA JB 49 25  ? 212.930 329.455 268.787 1.00 10.98 25  9 1 
+ATOM 159 C CA  . ALA JB 49 25  ? 213.334 328.060 268.774 1.00 10.92 25  9 1 
+ATOM 160 C C   . ALA JB 49 25  ? 212.111 327.160 268.871 1.00 13.92 25  9 1 
+ATOM 161 O O   . ALA JB 49 25  ? 211.184 327.437 269.633 1.00 12.83 25  9 1 
+ATOM 162 C CB  . ALA JB 49 25  ? 214.288 327.783 269.899 1.00 2.16  25  9 1 
+ATOM 163 N N   . GLY JB 49 26  ? 212.116 326.079 268.102 1.00 16.94 26  9 1 
+ATOM 164 C CA  . GLY JB 49 26  ? 210.963 325.206 268.041 1.00 15.59 26  9 1 
+ATOM 165 C C   . GLY JB 49 26  ? 210.747 324.404 269.306 1.00 15.95 26  9 1 
+ATOM 166 O O   . GLY JB 49 26  ? 209.610 324.129 269.686 1.00 18.53 26  9 1 
+ATOM 167 N N   . PHE JB 49 27  ? 211.836 324.047 269.978 1.00 17.70 27  9 1 
+ATOM 168 C CA  . PHE JB 49 27  ? 211.735 323.193 271.155 1.00 9.11  27  9 1 
+ATOM 169 C C   . PHE JB 49 27  ? 211.026 323.910 272.290 1.00 10.03 27  9 1 
+ATOM 170 O O   . PHE JB 49 27  ? 210.527 323.278 273.221 1.00 12.32 27  9 1 
+ATOM 171 C CB  . PHE JB 49 27  ? 213.114 322.713 271.608 1.00 18.28 27  9 1 
+ATOM 172 C CG  . PHE JB 49 27  ? 214.075 323.816 271.929 1.00 8.73  27  9 1 
+ATOM 173 C CD1 . PHE JB 49 27  ? 214.106 324.383 273.187 1.00 9.62  27  9 1 
+ATOM 174 C CD2 . PHE JB 49 27  ? 214.976 324.258 270.979 1.00 2.85  27  9 1 
+ATOM 175 C CE1 . PHE JB 49 27  ? 215.002 325.386 273.483 1.00 5.81  27  9 1 
+ATOM 176 C CE2 . PHE JB 49 27  ? 215.880 325.253 271.271 1.00 2.16  27  9 1 
+ATOM 177 C CZ  . PHE JB 49 27  ? 215.889 325.824 272.520 1.00 7.68  27  9 1 
+ATOM 178 N N   . ASN JB 49 28  ? 210.996 325.233 272.209 1.00 11.71 28  9 1 
+ATOM 179 C CA  . ASN JB 49 28  ? 210.245 326.026 273.161 1.00 11.97 28  9 1 
+ATOM 180 C C   . ASN JB 49 28  ? 208.784 325.644 273.067 1.00 10.53 28  9 1 
+ATOM 181 O O   . ASN JB 49 28  ? 208.077 325.561 274.068 1.00 2.16  28  9 1 
+ATOM 182 C CB  . ASN JB 49 28  ? 210.414 327.511 272.861 1.00 27.45 28  9 1 
+ATOM 183 C CG  . ASN JB 49 28  ? 209.770 328.402 273.901 1.00 35.44 28  9 1 
+ATOM 184 O OD1 . ASN JB 49 28  ? 208.981 327.957 274.728 1.00 36.49 28  9 1 
+ATOM 185 N ND2 . ASN JB 49 28  ? 210.072 329.684 273.830 1.00 42.72 28  9 1 
+ATOM 186 N N   . LYS JB 49 29  ? 208.349 325.379 271.847 1.00 2.16  29  9 1 
+ATOM 187 C CA  . LYS JB 49 29  ? 206.961 325.057 271.600 1.00 14.28 29  9 1 
+ATOM 188 C C   . LYS JB 49 29  ? 206.707 323.591 271.888 1.00 12.95 29  9 1 
+ATOM 189 O O   . LYS JB 49 29  ? 205.562 323.155 271.973 1.00 16.56 29  9 1 
+ATOM 190 C CB  . LYS JB 49 29  ? 206.597 325.402 270.160 1.00 18.32 29  9 1 
+ATOM 191 C CG  . LYS JB 49 29  ? 206.632 326.894 269.881 1.00 26.47 29  9 1 
+ATOM 192 C CD  . LYS JB 49 29  ? 206.269 327.217 268.444 1.00 24.08 29  9 1 
+ATOM 193 C CE  . LYS JB 49 29  ? 207.347 326.753 267.487 1.00 31.10 29  9 1 
+ATOM 194 N NZ  . LYS JB 49 29  ? 208.621 327.484 267.729 1.00 31.24 29  9 1 
+ATOM 195 N N   . LEU JB 49 30  ? 207.787 322.834 272.036 1.00 7.83  30  9 1 
+ATOM 196 C CA  . LEU JB 49 30  ? 207.679 321.405 272.290 1.00 9.39  30  9 1 
+ATOM 197 C C   . LEU JB 49 30  ? 207.528 321.084 273.771 1.00 12.46 30  9 1 
+ATOM 198 O O   . LEU JB 49 30  ? 207.308 319.933 274.146 1.00 12.37 30  9 1 
+ATOM 199 C CB  . LEU JB 49 30  ? 208.893 320.671 271.727 1.00 7.79  30  9 1 
+ATOM 200 C CG  . LEU JB 49 30  ? 209.031 320.742 270.208 1.00 2.16  30  9 1 
+ATOM 201 C CD1 . LEU JB 49 30  ? 210.272 319.992 269.752 1.00 2.38  30  9 1 
+ATOM 202 C CD2 . LEU JB 49 30  ? 207.782 320.199 269.539 1.00 2.16  30  9 1 
+ATOM 203 N N   . GLY JB 49 31  ? 207.658 322.100 274.614 1.00 13.53 31  9 1 
+ATOM 204 C CA  . GLY JB 49 31  ? 207.586 321.886 276.043 1.00 10.01 31  9 1 
+ATOM 205 C C   . GLY JB 49 31  ? 208.891 321.285 276.514 1.00 2.63  31  9 1 
+ATOM 206 O O   . GLY JB 49 31  ? 208.975 320.731 277.608 1.00 3.76  31  9 1 
+ATOM 207 N N   . LEU JB 49 32  ? 209.910 321.375 275.667 1.00 3.71  32  9 1 
+ATOM 208 C CA  . LEU JB 49 32  ? 211.204 320.787 275.978 1.00 6.44  32  9 1 
+ATOM 209 C C   . LEU JB 49 32  ? 212.203 321.788 276.540 1.00 2.16  32  9 1 
+ATOM 210 O O   . LEU JB 49 32  ? 212.342 322.899 276.030 1.00 11.88 32  9 1 
+ATOM 211 C CB  . LEU JB 49 32  ? 211.786 320.124 274.733 1.00 2.16  32  9 1 
+ATOM 212 C CG  . LEU JB 49 32  ? 210.990 318.911 274.261 1.00 2.41  32  9 1 
+ATOM 213 C CD1 . LEU JB 49 32  ? 211.568 318.356 272.970 1.00 2.48  32  9 1 
+ATOM 214 C CD2 . LEU JB 49 32  ? 210.967 317.855 275.357 1.00 2.81  32  9 1 
+ATOM 215 N N   . MET JB 49 33  ? 212.904 321.372 277.591 1.00 8.28  33  9 1 
+ATOM 216 C CA  . MET JB 49 33  ? 213.985 322.162 278.162 1.00 9.08  33  9 1 
+ATOM 217 C C   . MET JB 49 33  ? 215.156 322.200 277.206 1.00 11.87 33  9 1 
+ATOM 218 O O   . MET JB 49 33  ? 215.321 321.306 276.385 1.00 16.67 33  9 1 
+ATOM 219 C CB  . MET JB 49 33  ? 214.442 321.598 279.504 1.00 4.06  33  9 1 
+ATOM 220 C CG  . MET JB 49 33  ? 213.436 321.722 280.630 1.00 10.85 33  9 1 
+ATOM 221 S SD  . MET JB 49 33  ? 214.087 320.979 282.139 1.00 8.54  33  9 1 
+ATOM 222 C CE  . MET JB 49 33  ? 212.705 321.183 283.259 1.00 19.13 33  9 1 
+ATOM 223 N N   . ARG JB 49 34  ? 215.963 323.245 277.305 1.00 13.39 34  9 1 
+ATOM 224 C CA  . ARG JB 49 34  ? 217.113 323.375 276.431 1.00 15.38 34  9 1 
+ATOM 225 C C   . ARG JB 49 34  ? 218.098 322.230 276.667 1.00 14.26 34  9 1 
+ATOM 226 O O   . ARG JB 49 34  ? 218.805 321.814 275.751 1.00 9.38  34  9 1 
+ATOM 227 C CB  . ARG JB 49 34  ? 217.782 324.731 276.638 1.00 10.48 34  9 1 
+ATOM 228 C CG  . ARG JB 49 34  ? 218.947 324.996 275.713 1.00 18.22 34  9 1 
+ATOM 229 C CD  . ARG JB 49 34  ? 219.499 326.395 275.902 1.00 24.20 34  9 1 
+ATOM 230 N NE  . ARG JB 49 34  ? 220.015 326.602 277.251 1.00 35.04 34  9 1 
+ATOM 231 C CZ  . ARG JB 49 34  ? 221.221 326.224 277.657 1.00 48.35 34  9 1 
+ATOM 232 N NH1 . ARG JB 49 34  ? 222.041 325.615 276.814 1.00 58.23 34  9 1 
+ATOM 233 N NH2 . ARG JB 49 34  ? 221.608 326.456 278.902 1.00 53.97 34  9 1 
+ATOM 234 N N   . ASP JB 49 35  ? 218.122 321.706 277.891 1.00 10.17 35  9 1 
+ATOM 235 C CA  . ASP JB 49 35  ? 218.918 320.521 278.198 1.00 11.66 35  9 1 
+ATOM 236 C C   . ASP JB 49 35  ? 218.456 319.320 277.395 1.00 10.14 35  9 1 
+ATOM 237 O O   . ASP JB 49 35  ? 219.252 318.452 277.042 1.00 8.41  35  9 1 
+ATOM 238 C CB  . ASP JB 49 35  ? 218.840 320.163 279.683 1.00 16.27 35  9 1 
+ATOM 239 C CG  . ASP JB 49 35  ? 219.669 321.070 280.554 1.00 3.08  35  9 1 
+ATOM 240 O OD1 . ASP JB 49 35  ? 220.491 321.835 280.013 1.00 8.37  35  9 1 
+ATOM 241 O OD2 . ASP JB 49 35  ? 219.521 320.987 281.789 1.00 15.75 35  9 1 
+ATOM 242 N N   . ASP JB 49 36  ? 217.158 319.269 277.124 1.00 6.33  36  9 1 
+ATOM 243 C CA  . ASP JB 49 36  ? 216.563 318.101 276.498 1.00 8.05  36  9 1 
+ATOM 244 C C   . ASP JB 49 36  ? 217.081 317.881 275.087 1.00 6.84  36  9 1 
+ATOM 245 O O   . ASP JB 49 36  ? 217.237 316.743 274.646 1.00 2.16  36  9 1 
+ATOM 246 C CB  . ASP JB 49 36  ? 215.046 318.242 276.460 1.00 3.44  36  9 1 
+ATOM 247 C CG  . ASP JB 49 36  ? 214.443 318.327 277.835 1.00 2.16  36  9 1 
+ATOM 248 O OD1 . ASP JB 49 36  ? 215.152 318.020 278.814 1.00 17.04 36  9 1 
+ATOM 249 O OD2 . ASP JB 49 36  ? 213.260 318.703 277.938 1.00 2.16  36  9 1 
+ATOM 250 N N   . THR JB 49 37  ? 217.377 318.980 274.402 1.00 9.05  37  9 1 
+ATOM 251 C CA  . THR JB 49 37  ? 217.587 318.966 272.958 1.00 5.46  37  9 1 
+ATOM 252 C C   . THR JB 49 37  ? 219.034 318.642 272.550 1.00 2.16  37  9 1 
+ATOM 253 O O   . THR JB 49 37  ? 219.302 318.291 271.400 1.00 6.96  37  9 1 
+ATOM 254 C CB  . THR JB 49 37  ? 217.175 320.331 272.356 1.00 8.65  37  9 1 
+ATOM 255 O OG1 . THR JB 49 37  ? 215.870 320.681 272.830 1.00 9.10  37  9 1 
+ATOM 256 C CG2 . THR JB 49 37  ? 217.115 320.266 270.840 1.00 15.84 37  9 1 
+ATOM 257 N N   . ILE JB 49 38  ? 219.965 318.740 273.490 1.00 6.72  38  9 1 
+ATOM 258 C CA  . ILE JB 49 38  ? 221.376 318.588 273.156 1.00 9.53  38  9 1 
+ATOM 259 C C   . ILE JB 49 38  ? 221.698 317.158 272.715 1.00 12.38 38  9 1 
+ATOM 260 O O   . ILE JB 49 38  ? 221.132 316.200 273.241 1.00 14.35 38  9 1 
+ATOM 261 C CB  . ILE JB 49 38  ? 222.264 318.991 274.340 1.00 14.82 38  9 1 
+ATOM 262 C CG1 . ILE JB 49 38  ? 223.728 319.060 273.913 1.00 18.10 38  9 1 
+ATOM 263 C CG2 . ILE JB 49 38  ? 222.079 318.035 275.502 1.00 20.62 38  9 1 
+ATOM 264 C CD1 . ILE JB 49 38  ? 224.610 319.756 274.914 1.00 2.97  38  9 1 
+ATOM 265 N N   . TYR JB 49 39  ? 222.589 317.010 271.737 1.00 12.12 39  9 1 
+ATOM 266 C CA  . TYR JB 49 39  ? 222.905 315.679 271.217 1.00 16.24 39  9 1 
+ATOM 267 C C   . TYR JB 49 39  ? 223.650 314.794 272.200 1.00 21.98 39  9 1 
+ATOM 268 O O   . TYR JB 49 39  ? 224.528 315.251 272.920 1.00 26.40 39  9 1 
+ATOM 269 C CB  . TYR JB 49 39  ? 223.725 315.746 269.929 1.00 20.00 39  9 1 
+ATOM 270 C CG  . TYR JB 49 39  ? 224.200 314.370 269.542 1.00 20.00 39  9 1 
+ATOM 271 C CD1 . TYR JB 49 39  ? 223.308 313.425 269.061 1.00 20.00 39  9 1 
+ATOM 272 C CD2 . TYR JB 49 39  ? 225.525 313.999 269.696 1.00 20.00 39  9 1 
+ATOM 273 C CE1 . TYR JB 49 39  ? 223.720 312.154 268.732 1.00 20.00 39  9 1 
+ATOM 274 C CE2 . TYR JB 49 39  ? 225.950 312.730 269.364 1.00 20.00 39  9 1 
+ATOM 275 C CZ  . TYR JB 49 39  ? 225.042 311.810 268.883 1.00 20.00 39  9 1 
+ATOM 276 O OH  . TYR JB 49 39  ? 225.458 310.541 268.549 1.00 20.00 39  9 1 
+ATOM 277 N N   . GLU JB 49 40  ? 223.323 313.509 272.176 1.00 20.73 40  9 1 
+ATOM 278 C CA  . GLU JB 49 40  ? 223.939 312.539 273.062 1.00 20.03 40  9 1 
+ATOM 279 C C   . GLU JB 49 40  ? 225.303 312.078 272.553 1.00 20.90 40  9 1 
+ATOM 280 O O   . GLU JB 49 40  ? 225.462 310.947 272.099 1.00 15.44 40  9 1 
+ATOM 281 C CB  . GLU JB 49 40  ? 223.006 311.341 273.243 1.00 28.93 40  9 1 
+ATOM 282 C CG  . GLU JB 49 40  ? 221.696 311.681 273.943 1.00 45.92 40  9 1 
+ATOM 283 C CD  . GLU JB 49 40  ? 220.674 312.308 273.011 1.00 55.26 40  9 1 
+ATOM 284 O OE1 . GLU JB 49 40  ? 221.004 312.545 271.830 1.00 58.86 40  9 1 
+ATOM 285 O OE2 . GLU JB 49 40  ? 219.541 312.571 273.461 1.00 59.14 40  9 1 
+ATOM 286 N N   . ASP JB 49 41  ? 226.282 312.971 272.626 1.00 24.45 41  9 1 
+ATOM 287 C CA  . ASP JB 49 41  ? 227.678 312.606 272.423 1.00 32.09 41  9 1 
+ATOM 288 C C   . ASP JB 49 41  ? 228.104 311.847 273.677 1.00 33.12 41  9 1 
+ATOM 289 O O   . ASP JB 49 41  ? 227.429 311.940 274.702 1.00 35.90 41  9 1 
+ATOM 290 C CB  . ASP JB 49 41  ? 228.548 313.844 272.184 1.00 20.00 41  9 1 
+ATOM 291 C CG  . ASP JB 49 41  ? 229.953 313.495 271.726 1.00 20.00 41  9 1 
+ATOM 292 O OD1 . ASP JB 49 41  ? 230.228 312.300 271.499 1.00 20.00 41  9 1 
+ATOM 293 O OD2 . ASP JB 49 41  ? 230.784 314.417 271.589 1.00 20.00 41  9 1 
+ATOM 294 N N   . ASP JB 49 42  ? 229.200 311.093 273.608 1.00 32.11 42  9 1 
+ATOM 295 C CA  . ASP JB 49 42  ? 229.591 310.237 274.728 1.00 28.13 42  9 1 
+ATOM 296 C C   . ASP JB 49 42  ? 229.754 311.054 275.992 1.00 20.54 42  9 1 
+ATOM 297 O O   . ASP JB 49 42  ? 229.486 310.574 277.090 1.00 14.84 42  9 1 
+ATOM 298 C CB  . ASP JB 49 42  ? 230.901 309.502 274.439 1.00 46.69 42  9 1 
+ATOM 299 C CG  . ASP JB 49 42  ? 230.744 308.403 273.419 1.00 56.72 42  9 1 
+ATOM 300 O OD1 . ASP JB 49 42  ? 229.594 308.031 273.114 1.00 62.85 42  9 1 
+ATOM 301 O OD2 . ASP JB 49 42  ? 231.774 307.892 272.939 1.00 60.75 42  9 1 
+ATOM 302 N N   . ASP JB 49 43  ? 230.172 312.300 275.823 1.00 14.04 43  9 1 
+ATOM 303 C CA  . ASP JB 49 43  ? 230.281 313.221 276.936 1.00 12.23 43  9 1 
+ATOM 304 C C   . ASP JB 49 43  ? 228.909 313.420 277.550 1.00 12.04 43  9 1 
+ATOM 305 O O   . ASP JB 49 43  ? 228.703 313.270 278.762 1.00 9.14  43  9 1 
+ATOM 306 C CB  . ASP JB 49 43  ? 230.828 314.558 276.454 1.00 10.77 43  9 1 
+ATOM 307 C CG  . ASP JB 49 43  ? 232.211 314.440 275.886 1.00 15.39 43  9 1 
+ATOM 308 O OD1 . ASP JB 49 43  ? 232.869 313.412 276.143 1.00 2.91  43  9 1 
+ATOM 309 O OD2 . ASP JB 49 43  ? 232.632 315.367 275.167 1.00 19.36 43  9 1 
+ATOM 310 N N   . VAL JB 49 44  ? 227.964 313.736 276.679 1.00 2.16  44  9 1 
+ATOM 311 C CA  . VAL JB 49 44  ? 226.621 314.066 277.098 1.00 7.71  44  9 1 
+ATOM 312 C C   . VAL JB 49 44  ? 225.932 312.875 277.741 1.00 6.93  44  9 1 
+ATOM 313 O O   . VAL JB 49 44  ? 225.193 313.037 278.699 1.00 2.16  44  9 1 
+ATOM 314 C CB  . VAL JB 49 44  ? 225.800 314.564 275.908 1.00 7.71  44  9 1 
+ATOM 315 C CG1 . VAL JB 49 44  ? 224.365 314.851 276.320 1.00 2.16  44  9 1 
+ATOM 316 C CG2 . VAL JB 49 44  ? 226.461 315.794 275.316 1.00 17.60 44  9 1 
+ATOM 317 N N   . LYS JB 49 45  ? 226.217 311.674 277.248 1.00 2.16  45  9 1 
+ATOM 318 C CA  . LYS JB 49 45  ? 225.581 310.473 277.778 1.00 2.16  45  9 1 
+ATOM 319 C C   . LYS JB 49 45  ? 225.993 310.243 279.220 1.00 8.91  45  9 1 
+ATOM 320 O O   . LYS JB 49 45  ? 225.164 309.989 280.101 1.00 10.78 45  9 1 
+ATOM 321 C CB  . LYS JB 49 45  ? 225.952 309.250 276.942 1.00 9.94  45  9 1 
+ATOM 322 C CG  . LYS JB 49 45  ? 225.416 309.264 275.528 1.00 27.14 45  9 1 
+ATOM 323 C CD  . LYS JB 49 45  ? 225.819 307.998 274.793 1.00 38.20 45  9 1 
+ATOM 324 C CE  . LYS JB 49 45  ? 225.292 307.991 273.371 1.00 44.32 45  9 1 
+ATOM 325 N NZ  . LYS JB 49 45  ? 223.804 308.003 273.331 1.00 48.42 45  9 1 
+ATOM 326 N N   . GLU JB 49 46  ? 227.293 310.341 279.450 1.00 5.48  46  9 1 
+ATOM 327 C CA  . GLU JB 49 46  ? 227.835 310.170 280.777 1.00 8.06  46  9 1 
+ATOM 328 C C   . GLU JB 49 46  ? 227.299 311.265 281.674 1.00 2.48  46  9 1 
+ATOM 329 O O   . GLU JB 49 46  ? 227.029 311.042 282.852 1.00 2.16  46  9 1 
+ATOM 330 C CB  . GLU JB 49 46  ? 229.352 310.215 280.723 1.00 11.41 46  9 1 
+ATOM 331 C CG  . GLU JB 49 46  ? 229.941 309.121 279.877 1.00 22.95 46  9 1 
+ATOM 332 C CD  . GLU JB 49 46  ? 231.417 309.315 279.655 1.00 35.60 46  9 1 
+ATOM 333 O OE1 . GLU JB 49 46  ? 231.931 310.390 280.027 1.00 43.95 46  9 1 
+ATOM 334 O OE2 . GLU JB 49 46  ? 232.061 308.405 279.095 1.00 46.06 46  9 1 
+ATOM 335 N N   . ALA JB 49 47  ? 227.118 312.448 281.098 1.00 2.26  47  9 1 
+ATOM 336 C CA  . ALA JB 49 47  ? 226.561 313.549 281.861 1.00 5.14  47  9 1 
+ATOM 337 C C   . ALA JB 49 47  ? 225.136 313.215 282.275 1.00 6.02  47  9 1 
+ATOM 338 O O   . ALA JB 49 47  ? 224.698 313.588 283.360 1.00 2.19  47  9 1 
+ATOM 339 C CB  . ALA JB 49 47  ? 226.605 314.831 281.055 1.00 2.16  47  9 1 
+ATOM 340 N N   . ILE JB 49 48  ? 224.418 312.503 281.412 1.00 8.21  48  9 1 
+ATOM 341 C CA  . ILE JB 49 48  ? 223.075 312.039 281.736 1.00 2.16  48  9 1 
+ATOM 342 C C   . ILE JB 49 48  ? 223.144 311.009 282.848 1.00 3.64  48  9 1 
+ATOM 343 O O   . ILE JB 49 48  ? 222.238 310.900 283.670 1.00 4.43  48  9 1 
+ATOM 344 C CB  . ILE JB 49 48  ? 222.364 311.413 280.521 1.00 2.34  48  9 1 
+ATOM 345 C CG1 . ILE JB 49 48  ? 222.333 312.381 279.346 1.00 2.16  48  9 1 
+ATOM 346 C CG2 . ILE JB 49 48  ? 220.939 311.043 280.867 1.00 2.16  48  9 1 
+ATOM 347 C CD1 . ILE JB 49 48  ? 221.615 313.663 279.640 1.00 2.42  48  9 1 
+ATOM 348 N N   . ARG JB 49 49  ? 224.231 310.247 282.871 1.00 2.16  49  9 1 
+ATOM 349 C CA  . ARG JB 49 49  ? 224.388 309.211 283.884 1.00 9.94  49  9 1 
+ATOM 350 C C   . ARG JB 49 49  ? 224.972 309.769 285.175 1.00 9.66  49  9 1 
+ATOM 351 O O   . ARG JB 49 49  ? 225.022 309.086 286.197 1.00 8.87  49  9 1 
+ATOM 352 C CB  . ARG JB 49 49  ? 225.226 308.072 283.316 1.00 24.04 49  9 1 
+ATOM 353 C CG  . ARG JB 49 49  ? 224.491 307.468 282.152 1.00 44.17 49  9 1 
+ATOM 354 C CD  . ARG JB 49 49  ? 223.282 306.719 282.692 1.00 54.43 49  9 1 
+ATOM 355 N NE  . ARG JB 49 49  ? 222.306 306.378 281.663 1.00 61.83 49  9 1 
+ATOM 356 C CZ  . ARG JB 49 49  ? 221.198 307.080 281.444 1.00 63.50 49  9 1 
+ATOM 357 N NH1 . ARG JB 49 49  ? 220.921 308.128 282.206 1.00 61.74 49  9 1 
+ATOM 358 N NH2 . ARG JB 49 49  ? 220.351 306.722 280.490 1.00 66.32 49  9 1 
+ATOM 359 N N   . ARG JB 49 50  ? 225.407 311.021 285.112 1.00 5.91  50  9 1 
+ATOM 360 C CA  . ARG JB 49 50  ? 225.718 311.799 286.301 1.00 3.44  50  9 1 
+ATOM 361 C C   . ARG JB 49 50  ? 224.436 312.220 287.040 1.00 7.47  50  9 1 
+ATOM 362 O O   . ARG JB 49 50  ? 224.465 312.526 288.234 1.00 2.16  50  9 1 
+ATOM 363 C CB  . ARG JB 49 50  ? 226.529 313.041 285.916 1.00 4.70  50  9 1 
+ATOM 364 C CG  . ARG JB 49 50  ? 227.922 312.788 285.338 1.00 2.16  50  9 1 
+ATOM 365 C CD  . ARG JB 49 50  ? 228.543 314.123 284.932 1.00 17.79 50  9 1 
+ATOM 366 N NE  . ARG JB 49 50  ? 229.863 314.037 284.311 1.00 19.93 50  9 1 
+ATOM 367 C CZ  . ARG JB 49 50  ? 231.014 314.117 284.969 1.00 13.72 50  9 1 
+ATOM 368 N NH1 . ARG JB 49 50  ? 231.020 314.304 286.279 1.00 2.16  50  9 1 
+ATOM 369 N NH2 . ARG JB 49 50  ? 232.160 314.032 284.310 1.00 7.67  50  9 1 
+ATOM 370 N N   . LEU JB 49 51  ? 223.316 312.233 286.318 1.00 6.02  51  9 1 
+ATOM 371 C CA  . LEU JB 49 51  ? 222.063 312.804 286.816 1.00 5.56  51  9 1 
+ATOM 372 C C   . LEU JB 49 51  ? 221.410 312.028 287.945 1.00 5.45  51  9 1 
+ATOM 373 O O   . LEU JB 49 51  ? 221.427 310.801 287.952 1.00 2.16  51  9 1 
+ATOM 374 C CB  . LEU JB 49 51  ? 221.046 312.924 285.681 1.00 2.37  51  9 1 
+ATOM 375 C CG  . LEU JB 49 51  ? 221.260 313.918 284.545 1.00 2.16  51  9 1 
+ATOM 376 C CD1 . LEU JB 49 51  ? 220.203 313.689 283.489 1.00 2.54  51  9 1 
+ATOM 377 C CD2 . LEU JB 49 51  ? 221.158 315.325 285.073 1.00 5.44  51  9 1 
+ATOM 378 N N   . PRO JB 49 52  ? 220.814 312.756 288.900 1.00 5.10  52  9 1 
+ATOM 379 C CA  . PRO JB 49 52  ? 219.919 312.221 289.931 1.00 2.16  52  9 1 
+ATOM 380 C C   . PRO JB 49 52  ? 218.651 311.663 289.302 1.00 4.45  52  9 1 
+ATOM 381 O O   . PRO JB 49 52  ? 218.221 312.185 288.277 1.00 2.16  52  9 1 
+ATOM 382 C CB  . PRO JB 49 52  ? 219.619 313.440 290.802 1.00 2.16  52  9 1 
+ATOM 383 C CG  . PRO JB 49 52  ? 219.787 314.593 289.881 1.00 5.15  52  9 1 
+ATOM 384 C CD  . PRO JB 49 52  ? 220.928 314.221 288.988 1.00 3.76  52  9 1 
+ATOM 385 N N   . GLU JB 49 53  ? 218.058 310.639 289.908 1.00 3.79  53  9 1 
+ATOM 386 C CA  . GLU JB 49 53  ? 216.995 309.876 289.259 1.00 3.72  53  9 1 
+ATOM 387 C C   . GLU JB 49 53  ? 215.787 310.699 288.822 1.00 6.60  53  9 1 
+ATOM 388 O O   . GLU JB 49 53  ? 215.221 310.456 287.756 1.00 7.88  53  9 1 
+ATOM 389 C CB  . GLU JB 49 53  ? 216.501 308.773 290.198 1.00 2.16  53  9 1 
+ATOM 390 C CG  . GLU JB 49 53  ? 215.366 307.939 289.617 1.00 3.16  53  9 1 
+ATOM 391 C CD  . GLU JB 49 53  ? 214.821 306.922 290.598 1.00 2.16  53  9 1 
+ATOM 392 O OE1 . GLU JB 49 53  ? 215.301 306.884 291.749 1.00 13.21 53  9 1 
+ATOM 393 O OE2 . GLU JB 49 53  ? 213.904 306.165 290.219 1.00 14.67 53  9 1 
+ATOM 394 N N   . ASN JB 49 54  ? 215.395 311.675 289.629 1.00 2.71  54  9 1 
+ATOM 395 C CA  . ASN JB 49 54  ? 214.192 312.428 289.314 1.00 8.15  54  9 1 
+ATOM 396 C C   . ASN JB 49 54  ? 214.345 313.280 288.061 1.00 8.58  54  9 1 
+ATOM 397 O O   . ASN JB 49 54  ? 213.440 313.331 287.231 1.00 2.73  54  9 1 
+ATOM 398 C CB  . ASN JB 49 54  ? 213.783 313.292 290.507 1.00 17.32 54  9 1 
+ATOM 399 C CG  . ASN JB 49 54  ? 214.876 314.245 290.948 1.00 22.54 54  9 1 
+ATOM 400 O OD1 . ASN JB 49 54  ? 215.650 314.748 290.137 1.00 23.78 54  9 1 
+ATOM 401 N ND2 . ASN JB 49 54  ? 214.948 314.491 292.251 1.00 12.51 54  9 1 
+ATOM 402 N N   . LEU JB 49 55  ? 215.498 313.927 287.912 1.00 9.49  55  9 1 
+ATOM 403 C CA  . LEU JB 49 55  ? 215.752 314.740 286.729 1.00 9.32  55  9 1 
+ATOM 404 C C   . LEU JB 49 55  ? 215.833 313.859 285.499 1.00 4.61  55  9 1 
+ATOM 405 O O   . LEU JB 49 55  ? 215.460 314.261 284.392 1.00 11.50 55  9 1 
+ATOM 406 C CB  . LEU JB 49 55  ? 217.035 315.546 286.894 1.00 16.32 55  9 1 
+ATOM 407 C CG  . LEU JB 49 55  ? 216.944 316.604 287.988 1.00 18.21 55  9 1 
+ATOM 408 C CD1 . LEU JB 49 55  ? 218.267 317.309 288.185 1.00 29.44 55  9 1 
+ATOM 409 C CD2 . LEU JB 49 55  ? 215.851 317.595 287.645 1.00 14.51 55  9 1 
+ATOM 410 N N   . TYR JB 49 56  ? 216.304 312.639 285.718 1.00 8.91  56  9 1 
+ATOM 411 C CA  . TYR JB 49 56  ? 216.360 311.642 284.670 1.00 6.61  56  9 1 
+ATOM 412 C C   . TYR JB 49 56  ? 214.965 311.295 284.190 1.00 7.77  56  9 1 
+ATOM 413 O O   . TYR JB 49 56  ? 214.662 311.434 283.009 1.00 3.89  56  9 1 
+ATOM 414 C CB  . TYR JB 49 56  ? 217.082 310.395 285.175 1.00 2.16  56  9 1 
+ATOM 415 C CG  . TYR JB 49 56  ? 216.992 309.208 284.256 1.00 7.31  56  9 1 
+ATOM 416 C CD1 . TYR JB 49 56  ? 217.730 309.154 283.085 1.00 6.87  56  9 1 
+ATOM 417 C CD2 . TYR JB 49 56  ? 216.184 308.129 284.576 1.00 7.02  56  9 1 
+ATOM 418 C CE1 . TYR JB 49 56  ? 217.651 308.066 282.247 1.00 5.55  56  9 1 
+ATOM 419 C CE2 . TYR JB 49 56  ? 216.099 307.037 283.749 1.00 4.13  56  9 1 
+ATOM 420 C CZ  . TYR JB 49 56  ? 216.834 307.009 282.584 1.00 2.70  56  9 1 
+ATOM 421 O OH  . TYR JB 49 56  ? 216.753 305.919 281.752 1.00 11.30 56  9 1 
+ATOM 422 N N   . ASN JB 49 57  ? 214.100 310.897 285.116 1.00 3.35  57  9 1 
+ATOM 423 C CA  . ASN JB 49 57  ? 212.749 310.503 284.749 1.00 10.61 57  9 1 
+ATOM 424 C C   . ASN JB 49 57  ? 211.963 311.666 284.170 1.00 15.03 57  9 1 
+ATOM 425 O O   . ASN JB 49 57  ? 211.079 311.473 283.335 1.00 20.74 57  9 1 
+ATOM 426 C CB  . ASN JB 49 57  ? 212.022 309.907 285.951 1.00 20.00 57  9 1 
+ATOM 427 C CG  . ASN JB 49 57  ? 212.539 308.534 286.300 1.00 20.00 57  9 1 
+ATOM 428 O OD1 . ASN JB 49 57  ? 213.129 307.864 285.458 1.00 20.00 57  9 1 
+ATOM 429 N ND2 . ASN JB 49 57  ? 212.316 308.101 287.533 1.00 20.00 57  9 1 
+ATOM 430 N N   . ASP JB 49 58  ? 212.305 312.876 284.597 1.00 12.63 58  9 1 
+ATOM 431 C CA  . ASP JB 49 58  ? 211.658 314.062 284.065 1.00 16.24 58  9 1 
+ATOM 432 C C   . ASP JB 49 58  ? 212.048 314.314 282.624 1.00 14.20 58  9 1 
+ATOM 433 O O   . ASP JB 49 58  ? 211.180 314.467 281.764 1.00 13.05 58  9 1 
+ATOM 434 C CB  . ASP JB 49 58  ? 212.003 315.281 284.909 1.00 22.81 58  9 1 
+ATOM 435 C CG  . ASP JB 49 58  ? 211.343 315.245 286.260 1.00 27.20 58  9 1 
+ATOM 436 O OD1 . ASP JB 49 58  ? 210.400 314.446 286.434 1.00 19.97 58  9 1 
+ATOM 437 O OD2 . ASP JB 49 58  ? 211.765 316.010 287.148 1.00 40.22 58  9 1 
+ATOM 438 N N   . ARG JB 49 59  ? 213.349 314.333 282.351 1.00 9.62  59  9 1 
+ATOM 439 C CA  . ARG JB 49 59  ? 213.801 314.621 280.998 1.00 12.95 59  9 1 
+ATOM 440 C C   . ARG JB 49 59  ? 213.286 313.530 280.084 1.00 8.49  59  9 1 
+ATOM 441 O O   . ARG JB 49 59  ? 212.870 313.783 278.945 1.00 3.36  59  9 1 
+ATOM 442 C CB  . ARG JB 49 59  ? 215.324 314.710 280.935 1.00 2.16  59  9 1 
+ATOM 443 C CG  . ARG JB 49 59  ? 215.862 315.137 279.585 1.00 6.48  59  9 1 
+ATOM 444 C CD  . ARG JB 49 59  ? 217.371 315.289 279.622 1.00 4.73  59  9 1 
+ATOM 445 N NE  . ARG JB 49 59  ? 217.923 315.832 278.381 1.00 12.87 59  9 1 
+ATOM 446 C CZ  . ARG JB 49 59  ? 218.247 315.102 277.318 1.00 21.35 59  9 1 
+ATOM 447 N NH1 . ARG JB 49 59  ? 218.064 313.791 277.333 1.00 22.50 59  9 1 
+ATOM 448 N NH2 . ARG JB 49 59  ? 218.752 315.681 276.238 1.00 12.69 59  9 1 
+ATOM 449 N N   . VAL JB 49 60  ? 213.247 312.321 280.631 1.00 8.33  60  9 1 
+ATOM 450 C CA  . VAL JB 49 60  ? 212.726 311.185 279.899 1.00 5.83  60  9 1 
+ATOM 451 C C   . VAL JB 49 60  ? 211.275 311.382 279.513 1.00 8.39  60  9 1 
+ATOM 452 O O   . VAL JB 49 60  ? 210.933 311.339 278.331 1.00 9.60  60  9 1 
+ATOM 453 C CB  . VAL JB 49 60  ? 212.845 309.887 280.715 1.00 4.87  60  9 1 
+ATOM 454 C CG1 . VAL JB 49 60  ? 212.008 308.799 280.087 1.00 2.16  60  9 1 
+ATOM 455 C CG2 . VAL JB 49 60  ? 214.292 309.441 280.769 1.00 3.63  60  9 1 
+ATOM 456 N N   . PHE JB 49 61  ? 210.416 311.619 280.493 1.00 8.72  61  9 1 
+ATOM 457 C CA  . PHE JB 49 61  ? 209.005 311.631 280.173 1.00 9.28  61  9 1 
+ATOM 458 C C   . PHE JB 49 61  ? 208.636 312.855 279.339 1.00 10.46 61  9 1 
+ATOM 459 O O   . PHE JB 49 61  ? 207.738 312.792 278.498 1.00 14.21 61  9 1 
+ATOM 460 C CB  . PHE JB 49 61  ? 208.155 311.584 281.433 1.00 6.26  61  9 1 
+ATOM 461 C CG  . PHE JB 49 61  ? 206.715 311.341 281.154 1.00 6.51  61  9 1 
+ATOM 462 C CD1 . PHE JB 49 61  ? 206.240 310.050 281.043 1.00 2.16  61  9 1 
+ATOM 463 C CD2 . PHE JB 49 61  ? 205.850 312.393 280.932 1.00 5.46  61  9 1 
+ATOM 464 C CE1 . PHE JB 49 61  ? 204.922 309.813 280.766 1.00 2.16  61  9 1 
+ATOM 465 C CE2 . PHE JB 49 61  ? 204.529 312.161 280.639 1.00 7.98  61  9 1 
+ATOM 466 C CZ  . PHE JB 49 61  ? 204.065 310.870 280.565 1.00 5.07  61  9 1 
+ATOM 467 N N   . ARG JB 49 62  ? 209.334 313.964 279.558 1.00 9.15  62  9 1 
+ATOM 468 C CA  . ARG JB 49 62  ? 209.019 315.173 278.810 1.00 4.09  62  9 1 
+ATOM 469 C C   . ARG JB 49 62  ? 209.410 315.001 277.352 1.00 9.78  62  9 1 
+ATOM 470 O O   . ARG JB 49 62  ? 208.642 315.340 276.438 1.00 15.82 62  9 1 
+ATOM 471 C CB  . ARG JB 49 62  ? 209.719 316.391 279.412 1.00 6.69  62  9 1 
+ATOM 472 C CG  . ARG JB 49 62  ? 209.235 316.738 280.813 1.00 2.16  62  9 1 
+ATOM 473 C CD  . ARG JB 49 62  ? 209.842 318.033 281.335 1.00 2.16  62  9 1 
+ATOM 474 N NE  . ARG JB 49 62  ? 211.292 317.971 281.457 1.00 8.12  62  9 1 
+ATOM 475 C CZ  . ARG JB 49 62  ? 212.129 318.529 280.593 1.00 2.54  62  9 1 
+ATOM 476 N NH1 . ARG JB 49 62  ? 211.655 319.185 279.543 1.00 5.36  62  9 1 
+ATOM 477 N NH2 . ARG JB 49 62  ? 213.437 318.427 280.773 1.00 2.16  62  9 1 
+ATOM 478 N N   . ILE JB 49 63  ? 210.595 314.446 277.124 1.00 10.34 63  9 1 
+ATOM 479 C CA  . ILE JB 49 63  ? 210.997 314.175 275.753 1.00 7.91  63  9 1 
+ATOM 480 C C   . ILE JB 49 63  ? 210.056 313.154 275.115 1.00 6.85  63  9 1 
+ATOM 481 O O   . ILE JB 49 63  ? 209.739 313.246 273.926 1.00 3.97  63  9 1 
+ATOM 482 C CB  . ILE JB 49 63  ? 212.454 313.695 275.685 1.00 7.50  63  9 1 
+ATOM 483 C CG1 . ILE JB 49 63  ? 213.385 314.868 275.988 1.00 5.59  63  9 1 
+ATOM 484 C CG2 . ILE JB 49 63  ? 212.769 313.106 274.333 1.00 13.14 63  9 1 
+ATOM 485 C CD1 . ILE JB 49 63  ? 214.830 314.486 276.118 1.00 2.16  63  9 1 
+ATOM 486 N N   . LYS JB 49 64  ? 209.554 312.222 275.918 1.00 2.16  64  9 1 
+ATOM 487 C CA  . LYS JB 49 64  ? 208.629 311.222 275.402 1.00 6.38  64  9 1 
+ATOM 488 C C   . LYS JB 49 64  ? 207.317 311.844 274.931 1.00 8.34  64  9 1 
+ATOM 489 O O   . LYS JB 49 64  ? 206.829 311.522 273.842 1.00 7.76  64  9 1 
+ATOM 490 C CB  . LYS JB 49 64  ? 208.348 310.155 276.458 1.00 4.12  64  9 1 
+ATOM 491 C CG  . LYS JB 49 64  ? 207.386 309.089 275.984 1.00 8.35  64  9 1 
+ATOM 492 C CD  . LYS JB 49 64  ? 207.164 308.017 277.021 1.00 2.16  64  9 1 
+ATOM 493 C CE  . LYS JB 49 64  ? 206.048 307.083 276.591 1.00 18.04 64  9 1 
+ATOM 494 N NZ  . LYS JB 49 64  ? 206.361 306.379 275.321 1.00 30.62 64  9 1 
+ATOM 495 N N   . ARG JB 49 65  ? 206.751 312.740 275.736 1.00 8.57  65  9 1 
+ATOM 496 C CA  . ARG JB 49 65  ? 205.500 313.386 275.349 1.00 6.47  65  9 1 
+ATOM 497 C C   . ARG JB 49 65  ? 205.735 314.250 274.113 1.00 2.53  65  9 1 
+ATOM 498 O O   . ARG JB 49 65  ? 204.873 314.332 273.227 1.00 7.06  65  9 1 
+ATOM 499 C CB  . ARG JB 49 65  ? 204.933 314.229 276.498 1.00 5.87  65  9 1 
+ATOM 500 C CG  . ARG JB 49 65  ? 205.621 315.570 276.678 1.00 9.56  65  9 1 
+ATOM 501 C CD  . ARG JB 49 65  ? 205.071 316.365 277.828 1.00 8.68  65  9 1 
+ATOM 502 N NE  . ARG JB 49 65  ? 205.389 315.708 279.089 1.00 2.16  65  9 1 
+ATOM 503 C CZ  . ARG JB 49 65  ? 204.849 316.037 280.252 1.00 16.33 65  9 1 
+ATOM 504 N NH1 . ARG JB 49 65  ? 203.976 317.029 280.314 1.00 20.72 65  9 1 
+ATOM 505 N NH2 . ARG JB 49 65  ? 205.193 315.387 281.353 1.00 15.00 65  9 1 
+ATOM 506 N N   . ALA JB 49 66  ? 206.919 314.858 274.029 1.00 7.06  66  9 1 
+ATOM 507 C CA  . ALA JB 49 66  ? 207.217 315.716 272.891 1.00 6.00  66  9 1 
+ATOM 508 C C   . ALA JB 49 66  ? 207.260 314.891 271.617 1.00 4.54  66  9 1 
+ATOM 509 O O   . ALA JB 49 66  ? 206.723 315.290 270.579 1.00 4.24  66  9 1 
+ATOM 510 C CB  . ALA JB 49 66  ? 208.523 316.438 273.096 1.00 2.16  66  9 1 
+ATOM 511 N N   . LEU JB 49 67  ? 207.879 313.721 271.712 1.00 7.03  67  9 1 
+ATOM 512 C CA  . LEU JB 49 67  ? 207.947 312.829 270.568 1.00 8.81  67  9 1 
+ATOM 513 C C   . LEU JB 49 67  ? 206.570 312.314 270.177 1.00 11.82 67  9 1 
+ATOM 514 O O   . LEU JB 49 67  ? 206.277 312.169 268.993 1.00 12.39 67  9 1 
+ATOM 515 C CB  . LEU JB 49 67  ? 208.882 311.656 270.856 1.00 2.16  67  9 1 
+ATOM 516 C CG  . LEU JB 49 67  ? 210.343 312.034 271.082 1.00 7.14  67  9 1 
+ATOM 517 C CD1 . LEU JB 49 67  ? 211.153 310.802 271.432 1.00 2.16  67  9 1 
+ATOM 518 C CD2 . LEU JB 49 67  ? 210.913 312.744 269.870 1.00 2.16  67  9 1 
+ATOM 519 N N   . ASP JB 49 68  ? 205.720 312.054 271.167 1.00 10.26 68  9 1 
+ATOM 520 C CA  . ASP JB 49 68  ? 204.372 311.585 270.872 1.00 11.07 68  9 1 
+ATOM 521 C C   . ASP JB 49 68  ? 203.628 312.664 270.097 1.00 13.33 68  9 1 
+ATOM 522 O O   . ASP JB 49 68  ? 202.886 312.372 269.158 1.00 21.72 68  9 1 
+ATOM 523 C CB  . ASP JB 49 68  ? 203.629 311.229 272.166 1.00 13.47 68  9 1 
+ATOM 524 C CG  . ASP JB 49 68  ? 202.255 310.608 271.919 1.00 6.94  68  9 1 
+ATOM 525 O OD1 . ASP JB 49 68  ? 201.879 310.394 270.747 1.00 4.18  68  9 1 
+ATOM 526 O OD2 . ASP JB 49 68  ? 201.549 310.326 272.911 1.00 2.16  68  9 1 
+ATOM 527 N N   . LEU JB 49 69  ? 203.850 313.916 270.479 1.00 12.97 69  9 1 
+ATOM 528 C CA  . LEU JB 49 69  ? 203.231 315.030 269.772 1.00 11.64 69  9 1 
+ATOM 529 C C   . LEU JB 49 69  ? 203.816 315.254 268.387 1.00 4.42  69  9 1 
+ATOM 530 O O   . LEU JB 49 69  ? 203.134 315.759 267.497 1.00 2.16  69  9 1 
+ATOM 531 C CB  . LEU JB 49 69  ? 203.333 316.294 270.618 1.00 6.92  69  9 1 
+ATOM 532 C CG  . LEU JB 49 69  ? 202.367 316.120 271.789 1.00 7.53  69  9 1 
+ATOM 533 C CD1 . LEU JB 49 69  ? 202.562 317.138 272.870 1.00 2.16  69  9 1 
+ATOM 534 C CD2 . LEU JB 49 69  ? 200.960 316.227 271.261 1.00 2.73  69  9 1 
+ATOM 535 N N   . THR JB 49 70  ? 205.072 314.871 268.194 1.00 9.20  70  9 1 
+ATOM 536 C CA  . THR JB 49 70  ? 205.656 314.953 266.863 1.00 8.79  70  9 1 
+ATOM 537 C C   . THR JB 49 70  ? 205.234 313.776 265.996 1.00 4.16  70  9 1 
+ATOM 538 O O   . THR JB 49 70  ? 205.382 313.807 264.777 1.00 2.80  70  9 1 
+ATOM 539 C CB  . THR JB 49 70  ? 207.177 315.001 266.921 1.00 20.00 70  9 1 
+ATOM 540 O OG1 . THR JB 49 70  ? 207.656 313.843 267.611 1.00 20.00 70  9 1 
+ATOM 541 C CG2 . THR JB 49 70  ? 207.633 316.245 267.649 1.00 20.00 70  9 1 
+ATOM 542 N N   . MET JB 49 71  ? 204.714 312.733 266.627 1.00 3.80  71  9 1 
+ATOM 543 C CA  . MET JB 49 71  ? 204.251 311.572 265.885 1.00 5.84  71  9 1 
+ATOM 544 C C   . MET JB 49 71  ? 202.858 311.794 265.346 1.00 7.30  71  9 1 
+ATOM 545 O O   . MET JB 49 71  ? 202.569 311.507 264.188 1.00 4.19  71  9 1 
+ATOM 546 C CB  . MET JB 49 71  ? 204.263 310.331 266.765 1.00 2.16  71  9 1 
+ATOM 547 C CG  . MET JB 49 71  ? 203.607 309.131 266.116 1.00 2.16  71  9 1 
+ATOM 548 S SD  . MET JB 49 71  ? 203.717 307.678 267.164 1.00 20.57 71  9 1 
+ATOM 549 C CE  . MET JB 49 71  ? 202.653 308.178 268.509 1.00 11.72 71  9 1 
+ATOM 550 N N   . ARG JB 49 72  ? 201.996 312.323 266.202 1.00 5.35  72  9 1 
+ATOM 551 C CA  . ARG JB 49 72  ? 200.628 312.622 265.827 1.00 12.57 72  9 1 
+ATOM 552 C C   . ARG JB 49 72  ? 200.616 313.994 265.181 1.00 12.25 72  9 1 
+ATOM 553 O O   . ARG JB 49 72  ? 199.582 314.477 264.727 1.00 10.93 72  9 1 
+ATOM 554 C CB  . ARG JB 49 72  ? 199.715 312.544 267.044 1.00 19.58 72  9 1 
+ATOM 555 C CG  . ARG JB 49 72  ? 199.629 311.130 267.582 1.00 32.53 72  9 1 
+ATOM 556 C CD  . ARG JB 49 72  ? 198.766 311.018 268.809 1.00 41.78 72  9 1 
+ATOM 557 N NE  . ARG JB 49 72  ? 199.335 311.714 269.949 1.00 37.37 72  9 1 
+ATOM 558 C CZ  . ARG JB 49 72  ? 198.901 312.888 270.380 1.00 39.42 72  9 1 
+ATOM 559 N NH1 . ARG JB 49 72  ? 197.892 313.482 269.762 1.00 43.29 72  9 1 
+ATOM 560 N NH2 . ARG JB 49 72  ? 199.466 313.458 271.430 1.00 43.07 72  9 1 
+ATOM 561 N N   . GLN JB 49 73  ? 201.793 314.611 265.162 1.00 11.39 73  9 1 
+ATOM 562 C CA  . GLN JB 49 73  ? 202.029 315.836 264.416 1.00 8.06  73  9 1 
+ATOM 563 C C   . GLN JB 49 73  ? 201.153 316.999 264.837 1.00 8.03  73  9 1 
+ATOM 564 O O   . GLN JB 49 73  ? 200.882 317.894 264.042 1.00 15.22 73  9 1 
+ATOM 565 C CB  . GLN JB 49 73  ? 201.842 315.573 262.923 1.00 6.89  73  9 1 
+ATOM 566 C CG  . GLN JB 49 73  ? 202.952 314.759 262.310 1.00 13.55 73  9 1 
+ATOM 567 C CD  . GLN JB 49 73  ? 204.281 315.470 262.407 1.00 16.86 73  9 1 
+ATOM 568 O OE1 . GLN JB 49 73  ? 204.354 316.685 262.249 1.00 24.87 73  9 1 
+ATOM 569 N NE2 . GLN JB 49 73  ? 205.341 314.719 262.671 1.00 19.93 73  9 1 
+ATOM 570 N N   . GLN JB 49 74  ? 200.713 316.995 266.086 1.00 6.54  74  9 1 
+ATOM 571 C CA  . GLN JB 49 74  ? 200.020 318.155 266.619 1.00 2.16  74  9 1 
+ATOM 572 C C   . GLN JB 49 74  ? 200.951 318.884 267.580 1.00 2.16  74  9 1 
+ATOM 573 O O   . GLN JB 49 74  ? 201.677 318.255 268.347 1.00 7.35  74  9 1 
+ATOM 574 C CB  . GLN JB 49 74  ? 198.719 317.748 267.309 1.00 7.23  74  9 1 
+ATOM 575 C CG  . GLN JB 49 74  ? 198.904 316.877 268.526 1.00 10.93 74  9 1 
+ATOM 576 C CD  . GLN JB 49 74  ? 197.595 316.526 269.188 1.00 18.31 74  9 1 
+ATOM 577 O OE1 . GLN JB 49 74  ? 196.541 316.542 268.555 1.00 18.48 74  9 1 
+ATOM 578 N NE2 . GLN JB 49 74  ? 197.647 316.238 270.481 1.00 19.28 74  9 1 
+ATOM 579 N N   . ILE JB 49 75  ? 200.954 320.208 267.512 1.00 6.82  75  9 1 
+ATOM 580 C CA  . ILE JB 49 75  ? 201.781 321.012 268.403 1.00 6.93  75  9 1 
+ATOM 581 C C   . ILE JB 49 75  ? 201.154 321.116 269.794 1.00 7.39  75  9 1 
+ATOM 582 O O   . ILE JB 49 75  ? 199.942 320.975 269.948 1.00 2.16  75  9 1 
+ATOM 583 C CB  . ILE JB 49 75  ? 201.996 322.422 267.837 1.00 15.10 75  9 1 
+ATOM 584 C CG1 . ILE JB 49 75  ? 203.029 323.192 268.669 1.00 20.42 75  9 1 
+ATOM 585 C CG2 . ILE JB 49 75  ? 200.670 323.157 267.775 1.00 19.68 75  9 1 
+ATOM 586 C CD1 . ILE JB 49 75  ? 203.526 324.462 268.031 1.00 24.73 75  9 1 
+ATOM 587 N N   . LEU JB 49 76  ? 201.987 321.362 270.801 1.00 6.70  76  9 1 
+ATOM 588 C CA  . LEU JB 49 76  ? 201.518 321.633 272.153 1.00 9.14  76  9 1 
+ATOM 589 C C   . LEU JB 49 76  ? 200.731 322.937 272.166 1.00 18.83 76  9 1 
+ATOM 590 O O   . LEU JB 49 76  ? 200.976 323.824 271.348 1.00 17.81 76  9 1 
+ATOM 591 C CB  . LEU JB 49 76  ? 202.688 321.755 273.135 1.00 2.16  76  9 1 
+ATOM 592 C CG  . LEU JB 49 76  ? 203.482 320.548 273.631 1.00 5.82  76  9 1 
+ATOM 593 C CD1 . LEU JB 49 76  ? 204.360 319.996 272.518 1.00 4.59  76  9 1 
+ATOM 594 C CD2 . LEU JB 49 76  ? 204.318 320.923 274.841 1.00 3.19  76  9 1 
+ATOM 595 N N   . PRO JB 49 77  ? 199.772 323.057 273.087 1.00 24.45 77  9 1 
+ATOM 596 C CA  . PRO JB 49 77  ? 199.162 324.368 273.310 1.00 28.78 77  9 1 
+ATOM 597 C C   . PRO JB 49 77  ? 200.220 325.362 273.766 1.00 32.78 77  9 1 
+ATOM 598 O O   . PRO JB 49 77  ? 201.145 324.971 274.478 1.00 31.72 77  9 1 
+ATOM 599 C CB  . PRO JB 49 77  ? 198.146 324.098 274.420 1.00 30.27 77  9 1 
+ATOM 600 C CG  . PRO JB 49 77  ? 197.798 322.664 274.260 1.00 31.25 77  9 1 
+ATOM 601 C CD  . PRO JB 49 77  ? 199.038 321.976 273.762 1.00 27.87 77  9 1 
+ATOM 602 N N   . LYS JB 49 78  ? 200.106 326.620 273.363 1.00 37.47 78  9 1 
+ATOM 603 C CA  . LYS JB 49 78  ? 201.108 327.599 273.756 1.00 44.06 78  9 1 
+ATOM 604 C C   . LYS JB 49 78  ? 201.061 327.850 275.258 1.00 44.79 78  9 1 
+ATOM 605 O O   . LYS JB 49 78  ? 202.058 328.242 275.859 1.00 46.77 78  9 1 
+ATOM 606 C CB  . LYS JB 49 78  ? 200.941 328.905 272.986 1.00 47.74 78  9 1 
+ATOM 607 C CG  . LYS JB 49 78  ? 199.657 329.637 273.252 1.00 49.08 78  9 1 
+ATOM 608 C CD  . LYS JB 49 78  ? 199.513 330.784 272.281 1.00 46.38 78  9 1 
+ATOM 609 C CE  . LYS JB 49 78  ? 198.277 331.594 272.587 1.00 42.57 78  9 1 
+ATOM 610 N NZ  . LYS JB 49 78  ? 198.455 332.347 273.854 1.00 29.88 78  9 1 
+ATOM 611 N N   . GLU JB 49 79  ? 199.904 327.608 275.862 1.00 45.18 79  9 1 
+ATOM 612 C CA  . GLU JB 49 79  ? 199.767 327.718 277.306 1.00 45.02 79  9 1 
+ATOM 613 C C   . GLU JB 49 79  ? 200.676 326.710 277.988 1.00 44.23 79  9 1 
+ATOM 614 O O   . GLU JB 49 79  ? 201.185 326.948 279.082 1.00 44.61 79  9 1 
+ATOM 615 C CB  . GLU JB 49 79  ? 198.321 327.471 277.731 1.00 56.16 79  9 1 
+ATOM 616 C CG  . GLU JB 49 79  ? 197.319 328.441 277.147 1.00 70.34 79  9 1 
+ATOM 617 C CD  . GLU JB 49 79  ? 197.641 329.877 277.480 1.00 77.92 79  9 1 
+ATOM 618 O OE1 . GLU JB 49 79  ? 198.103 330.138 278.609 1.00 83.77 79  9 1 
+ATOM 619 O OE2 . GLU JB 49 79  ? 197.426 330.747 276.613 1.00 80.73 79  9 1 
+ATOM 620 N N   . GLN JB 49 80  ? 200.865 325.574 277.327 1.00 42.66 80  9 1 
+ATOM 621 C CA  . GLN JB 49 80  ? 201.653 324.486 277.880 1.00 38.83 80  9 1 
+ATOM 622 C C   . GLN JB 49 80  ? 203.121 324.590 277.478 1.00 34.30 80  9 1 
+ATOM 623 O O   . GLN JB 49 80  ? 203.930 323.744 277.855 1.00 33.84 80  9 1 
+ATOM 624 C CB  . GLN JB 49 80  ? 201.076 323.140 277.442 1.00 42.64 80  9 1 
+ATOM 625 C CG  . GLN JB 49 80  ? 199.645 322.916 277.898 1.00 42.45 80  9 1 
+ATOM 626 C CD  . GLN JB 49 80  ? 199.112 321.570 277.472 1.00 45.44 80  9 1 
+ATOM 627 O OE1 . GLN JB 49 80  ? 199.656 320.933 276.574 1.00 40.55 80  9 1 
+ATOM 628 N NE2 . GLN JB 49 80  ? 198.029 321.137 278.099 1.00 51.30 80  9 1 
+ATOM 629 N N   . TRP JB 49 81  ? 203.460 325.620 276.707 1.00 27.94 81  9 1 
+ATOM 630 C CA  . TRP JB 49 81  ? 204.854 325.850 276.340 1.00 22.79 81  9 1 
+ATOM 631 C C   . TRP JB 49 81  ? 205.707 326.006 277.576 1.00 15.61 81  9 1 
+ATOM 632 O O   . TRP JB 49 81  ? 205.255 326.556 278.580 1.00 14.81 81  9 1 
+ATOM 633 C CB  . TRP JB 49 81  ? 205.032 327.110 275.490 1.00 19.35 81  9 1 
+ATOM 634 C CG  . TRP JB 49 81  ? 204.521 327.055 274.095 1.00 24.59 81  9 1 
+ATOM 635 C CD1 . TRP JB 49 81  ? 203.960 325.989 273.454 1.00 31.82 81  9 1 
+ATOM 636 C CD2 . TRP JB 49 81  ? 204.549 328.126 273.149 1.00 23.90 81  9 1 
+ATOM 637 N NE1 . TRP JB 49 81  ? 203.624 326.339 272.167 1.00 36.76 81  9 1 
+ATOM 638 C CE2 . TRP JB 49 81  ? 203.978 327.646 271.957 1.00 27.17 81  9 1 
+ATOM 639 C CE3 . TRP JB 49 81  ? 204.999 329.448 273.199 1.00 25.34 81  9 1 
+ATOM 640 C CZ2 . TRP JB 49 81  ? 203.838 328.444 270.827 1.00 32.44 81  9 1 
+ATOM 641 C CZ3 . TRP JB 49 81  ? 204.865 330.235 272.077 1.00 25.65 81  9 1 
+ATOM 642 C CH2 . TRP JB 49 81  ? 204.292 329.731 270.905 1.00 29.53 81  9 1 
+ATOM 643 N N   . THR JB 49 82  ? 206.937 325.514 277.511 1.00 8.43  82  9 1 
+ATOM 644 C CA  . THR JB 49 82  ? 207.900 325.887 278.523 1.00 8.91  82  9 1 
+ATOM 645 C C   . THR JB 49 82  ? 208.040 327.388 278.409 1.00 14.56 82  9 1 
+ATOM 646 O O   . THR JB 49 82  ? 208.189 327.916 277.310 1.00 17.85 82  9 1 
+ATOM 647 C CB  . THR JB 49 82  ? 209.264 325.207 278.319 1.00 8.24  82  9 1 
+ATOM 648 O OG1 . THR JB 49 82  ? 209.106 323.785 278.377 1.00 2.51  82  9 1 
+ATOM 649 C CG2 . THR JB 49 82  ? 210.248 325.650 279.391 1.00 6.80  82  9 1 
+ATOM 650 N N   . LYS JB 49 83  ? 207.978 328.081 279.533 1.00 15.52 83  9 1 
+ATOM 651 C CA  . LYS JB 49 83  ? 208.203 329.512 279.526 1.00 17.68 83  9 1 
+ATOM 652 C C   . LYS JB 49 83  ? 209.703 329.748 279.526 1.00 14.50 83  9 1 
+ATOM 653 O O   . LYS JB 49 83  ? 210.461 328.890 279.974 1.00 14.30 83  9 1 
+ATOM 654 C CB  . LYS JB 49 83  ? 207.518 330.170 280.717 1.00 26.54 83  9 1 
+ATOM 655 C CG  . LYS JB 49 83  ? 206.033 329.844 280.784 1.00 34.73 83  9 1 
+ATOM 656 C CD  . LYS JB 49 83  ? 205.286 330.466 279.618 1.00 41.92 83  9 1 
+ATOM 657 C CE  . LYS JB 49 83  ? 203.802 330.152 279.668 1.00 45.31 83  9 1 
+ATOM 658 N NZ  . LYS JB 49 83  ? 203.540 328.719 279.365 1.00 48.12 83  9 1 
+ATOM 659 N N   . TYR JB 49 84  ? 210.137 330.898 279.022 1.00 15.76 84  9 1 
+ATOM 660 C CA  . TYR JB 49 84  ? 211.563 331.195 278.948 1.00 23.34 84  9 1 
+ATOM 661 C C   . TYR JB 49 84  ? 212.190 331.209 280.333 1.00 23.65 84  9 1 
+ATOM 662 O O   . TYR JB 49 84  ? 213.393 330.994 280.485 1.00 15.62 84  9 1 
+ATOM 663 C CB  . TYR JB 49 84  ? 211.803 332.531 278.252 1.00 30.07 84  9 1 
+ATOM 664 C CG  . TYR JB 49 84  ? 213.248 332.967 278.271 1.00 37.74 84  9 1 
+ATOM 665 C CD1 . TYR JB 49 84  ? 214.174 332.410 277.407 1.00 39.85 84  9 1 
+ATOM 666 C CD2 . TYR JB 49 84  ? 213.686 333.935 279.160 1.00 42.27 84  9 1 
+ATOM 667 C CE1 . TYR JB 49 84  ? 215.495 332.805 277.424 1.00 45.17 84  9 1 
+ATOM 668 C CE2 . TYR JB 49 84  ? 215.003 334.339 279.185 1.00 45.78 84  9 1 
+ATOM 669 C CZ  . TYR JB 49 84  ? 215.904 333.772 278.313 1.00 46.21 84  9 1 
+ATOM 670 O OH  . TYR JB 49 84  ? 217.219 334.173 278.334 1.00 50.46 84  9 1 
+ATOM 671 N N   . GLU JB 49 85  ? 211.367 331.468 281.342 1.00 30.98 85  9 1 
+ATOM 672 C CA  . GLU JB 49 85  ? 211.848 331.562 282.711 1.00 42.49 85  9 1 
+ATOM 673 C C   . GLU JB 49 85  ? 211.436 330.397 283.620 1.00 42.01 85  9 1 
+ATOM 674 O O   . GLU JB 49 85  ? 211.834 330.358 284.781 1.00 38.81 85  9 1 
+ATOM 675 C CB  . GLU JB 49 85  ? 211.381 332.886 283.318 1.00 55.27 85  9 1 
+ATOM 676 C CG  . GLU JB 49 85  ? 212.024 334.126 282.690 1.00 62.07 85  9 1 
+ATOM 677 C CD  . GLU JB 49 85  ? 211.373 334.554 281.384 1.00 65.96 85  9 1 
+ATOM 678 O OE1 . GLU JB 49 85  ? 210.471 333.840 280.898 1.00 67.61 85  9 1 
+ATOM 679 O OE2 . GLU JB 49 85  ? 211.764 335.611 280.843 1.00 71.22 85  9 1 
+ATOM 680 N N   . GLU JB 49 86  ? 210.638 329.460 283.118 1.00 44.69 86  9 1 
+ATOM 681 C CA  . GLU JB 49 86  ? 210.280 328.285 283.918 1.00 50.21 86  9 1 
+ATOM 682 C C   . GLU JB 49 86  ? 211.357 327.204 283.942 1.00 49.67 86  9 1 
+ATOM 683 O O   . GLU JB 49 86  ? 211.337 326.315 284.793 1.00 46.77 86  9 1 
+ATOM 684 C CB  . GLU JB 49 86  ? 208.976 327.666 283.411 1.00 61.04 86  9 1 
+ATOM 685 C CG  . GLU JB 49 86  ? 207.740 328.490 283.685 1.00 69.56 86  9 1 
+ATOM 686 C CD  . GLU JB 49 86  ? 207.505 328.702 285.160 1.00 75.90 86  9 1 
+ATOM 687 O OE1 . GLU JB 49 86  ? 207.707 327.742 285.934 1.00 77.79 86  9 1 
+ATOM 688 O OE2 . GLU JB 49 86  ? 207.123 329.827 285.546 1.00 82.53 86  9 1 
+ATOM 689 N N   . ASP JB 49 87  ? 212.289 327.281 282.999 1.00 51.51 87  9 1 
+ATOM 690 C CA  . ASP JB 49 87  ? 213.237 326.197 282.757 1.00 52.23 87  9 1 
+ATOM 691 C C   . ASP JB 49 87  ? 214.406 326.083 283.734 1.00 50.27 87  9 1 
+ATOM 692 O O   . ASP JB 49 87  ? 214.875 327.073 284.295 1.00 50.47 87  9 1 
+ATOM 693 C CB  . ASP JB 49 87  ? 213.780 326.326 281.337 1.00 58.95 87  9 1 
+ATOM 694 C CG  . ASP JB 49 87  ? 214.345 327.698 281.060 1.00 64.45 87  9 1 
+ATOM 695 O OD1 . ASP JB 49 87  ? 214.176 328.592 281.917 1.00 66.16 87  9 1 
+ATOM 696 O OD2 . ASP JB 49 87  ? 214.952 327.884 279.985 1.00 69.35 87  9 1 
+ATOM 697 N N   . LYS JB 49 88  ? 214.859 324.846 283.923 1.00 46.00 88  9 1 
+ATOM 698 C CA  . LYS JB 49 88  ? 216.092 324.535 284.640 1.00 38.56 88  9 1 
+ATOM 699 C C   . LYS JB 49 88  ? 217.204 324.195 283.654 1.00 32.81 88  9 1 
+ATOM 700 O O   . LYS JB 49 88  ? 216.945 323.996 282.467 1.00 31.88 88  9 1 
+ATOM 701 C CB  . LYS JB 49 88  ? 215.871 323.376 285.610 1.00 39.69 88  9 1 
+ATOM 702 C CG  . LYS JB 49 88  ? 215.016 323.744 286.802 1.00 41.28 88  9 1 
+ATOM 703 C CD  . LYS JB 49 88  ? 214.922 322.605 287.801 1.00 29.31 88  9 1 
+ATOM 704 C CE  . LYS JB 49 88  ? 214.139 321.431 287.232 1.00 28.10 88  9 1 
+ATOM 705 N NZ  . LYS JB 49 88  ? 213.915 320.363 288.248 1.00 36.20 88  9 1 
+ATOM 706 N N   . PHE JB 49 89  ? 218.440 324.140 284.137 1.00 24.76 89  9 1 
+ATOM 707 C CA  . PHE JB 49 89  ? 219.553 323.737 283.288 1.00 18.78 89  9 1 
+ATOM 708 C C   . PHE JB 49 89  ? 220.492 322.787 284.013 1.00 21.84 89  9 1 
+ATOM 709 O O   . PHE JB 49 89  ? 221.667 323.087 284.211 1.00 22.70 89  9 1 
+ATOM 710 C CB  . PHE JB 49 89  ? 220.315 324.957 282.797 1.00 20.00 89  9 1 
+ATOM 711 C CG  . PHE JB 49 89  ? 219.480 325.882 281.981 1.00 20.00 89  9 1 
+ATOM 712 C CD1 . PHE JB 49 89  ? 219.165 325.570 280.674 1.00 20.00 89  9 1 
+ATOM 713 C CD2 . PHE JB 49 89  ? 219.021 327.069 282.511 1.00 20.00 89  9 1 
+ATOM 714 C CE1 . PHE JB 49 89  ? 218.393 326.415 279.915 1.00 20.00 89  9 1 
+ATOM 715 C CE2 . PHE JB 49 89  ? 218.254 327.923 281.752 1.00 20.00 89  9 1 
+ATOM 716 C CZ  . PHE JB 49 89  ? 217.942 327.595 280.450 1.00 20.00 89  9 1 
+ATOM 717 N N   . TYR JB 49 90  ? 219.963 321.625 284.379 1.00 18.90 90  9 1 
+ATOM 718 C CA  . TYR JB 49 90  ? 220.657 320.700 285.267 1.00 13.87 90  9 1 
+ATOM 719 C C   . TYR JB 49 90  ? 221.655 319.770 284.583 1.00 14.54 90  9 1 
+ATOM 720 O O   . TYR JB 49 90  ? 222.281 318.948 285.250 1.00 14.77 90  9 1 
+ATOM 721 C CB  . TYR JB 49 90  ? 219.636 319.881 286.060 1.00 13.83 90  9 1 
+ATOM 722 C CG  . TYR JB 49 90  ? 218.594 319.186 285.220 1.00 15.15 90  9 1 
+ATOM 723 C CD1 . TYR JB 49 90  ? 218.803 317.909 284.729 1.00 20.50 90  9 1 
+ATOM 724 C CD2 . TYR JB 49 90  ? 217.389 319.809 284.933 1.00 19.11 90  9 1 
+ATOM 725 C CE1 . TYR JB 49 90  ? 217.842 317.275 283.967 1.00 21.64 90  9 1 
+ATOM 726 C CE2 . TYR JB 49 90  ? 216.425 319.185 284.172 1.00 22.61 90  9 1 
+ATOM 727 C CZ  . TYR JB 49 90  ? 216.654 317.920 283.692 1.00 22.79 90  9 1 
+ATOM 728 O OH  . TYR JB 49 90  ? 215.690 317.300 282.933 1.00 23.40 90  9 1 
+ATOM 729 N N   . LEU JB 49 91  ? 221.794 319.873 283.265 1.00 2.16  91  9 1 
+ATOM 730 C CA  . LEU JB 49 91  ? 222.869 319.150 282.586 1.00 9.44  91  9 1 
+ATOM 731 C C   . LEU JB 49 91  ? 224.187 319.912 282.563 1.00 4.89  91  9 1 
+ATOM 732 O O   . LEU JB 49 91  ? 225.261 319.310 282.475 1.00 3.80  91  9 1 
+ATOM 733 C CB  . LEU JB 49 91  ? 222.470 318.796 281.156 1.00 16.05 91  9 1 
+ATOM 734 C CG  . LEU JB 49 91  ? 221.379 317.736 281.073 1.00 11.17 91  9 1 
+ATOM 735 C CD1 . LEU JB 49 91  ? 221.018 317.417 279.631 1.00 12.97 91  9 1 
+ATOM 736 C CD2 . LEU JB 49 91  ? 221.853 316.500 281.802 1.00 2.16  91  9 1 
+ATOM 737 N N   . GLU JB 49 92  ? 224.104 321.233 282.644 1.00 10.99 92  9 1 
+ATOM 738 C CA  . GLU JB 49 92  ? 225.278 322.071 282.455 1.00 15.54 92  9 1 
+ATOM 739 C C   . GLU JB 49 92  ? 226.450 321.772 283.402 1.00 16.14 92  9 1 
+ATOM 740 O O   . GLU JB 49 92  ? 227.581 321.600 282.931 1.00 13.00 92  9 1 
+ATOM 741 C CB  . GLU JB 49 92  ? 224.881 323.545 282.573 1.00 31.56 92  9 1 
+ATOM 742 C CG  . GLU JB 49 92  ? 223.934 324.007 281.481 1.00 49.70 92  9 1 
+ATOM 743 C CD  . GLU JB 49 92  ? 223.530 325.459 281.633 1.00 56.74 92  9 1 
+ATOM 744 O OE1 . GLU JB 49 92  ? 223.854 326.060 282.677 1.00 56.33 92  9 1 
+ATOM 745 O OE2 . GLU JB 49 92  ? 222.884 325.998 280.711 1.00 57.61 92  9 1 
+ATOM 746 N N   . PRO JB 49 93  ? 226.203 321.711 284.729 1.00 15.01 93  9 1 
+ATOM 747 C CA  . PRO JB 49 93  ? 227.360 321.440 285.591 1.00 13.87 93  9 1 
+ATOM 748 C C   . PRO JB 49 93  ? 228.049 320.122 285.266 1.00 13.02 93  9 1 
+ATOM 749 O O   . PRO JB 49 93  ? 229.281 320.028 285.236 1.00 4.29  93  9 1 
+ATOM 750 C CB  . PRO JB 49 93  ? 226.741 321.377 286.991 1.00 15.06 93  9 1 
+ATOM 751 C CG  . PRO JB 49 93  ? 225.494 322.166 286.891 1.00 8.31  93  9 1 
+ATOM 752 C CD  . PRO JB 49 93  ? 224.971 321.876 285.520 1.00 9.45  93  9 1 
+ATOM 753 N N   . TYR JB 49 94  ? 227.230 319.127 284.953 1.00 16.83 94  9 1 
+ATOM 754 C CA  . TYR JB 49 94  ? 227.723 317.801 284.654 1.00 15.40 94  9 1 
+ATOM 755 C C   . TYR JB 49 94  ? 228.571 317.844 283.404 1.00 18.76 94  9 1 
+ATOM 756 O O   . TYR JB 49 94  ? 229.628 317.212 283.316 1.00 18.96 94  9 1 
+ATOM 757 C CB  . TYR JB 49 94  ? 226.552 316.843 284.475 1.00 10.97 94  9 1 
+ATOM 758 C CG  . TYR JB 49 94  ? 225.783 316.592 285.742 1.00 2.21  94  9 1 
+ATOM 759 C CD1 . TYR JB 49 94  ? 226.443 316.374 286.937 1.00 5.72  94  9 1 
+ATOM 760 C CD2 . TYR JB 49 94  ? 224.402 316.585 285.748 1.00 11.88 94  9 1 
+ATOM 761 C CE1 . TYR JB 49 94  ? 225.747 316.142 288.101 1.00 3.59  94  9 1 
+ATOM 762 C CE2 . TYR JB 49 94  ? 223.700 316.360 286.908 1.00 7.13  94  9 1 
+ATOM 763 C CZ  . TYR JB 49 94  ? 224.374 316.136 288.080 1.00 2.16  94  9 1 
+ATOM 764 O OH  . TYR JB 49 94  ? 223.667 315.909 289.237 1.00 7.22  94  9 1 
+ATOM 765 N N   . LEU JB 49 95  ? 228.112 318.646 282.454 1.00 23.49 95  9 1 
+ATOM 766 C CA  . LEU JB 49 95  ? 228.786 318.780 281.180 1.00 20.08 95  9 1 
+ATOM 767 C C   . LEU JB 49 95  ? 230.153 319.400 281.367 1.00 24.88 95  9 1 
+ATOM 768 O O   . LEU JB 49 95  ? 231.162 318.892 280.867 1.00 22.84 95  9 1 
+ATOM 769 C CB  . LEU JB 49 95  ? 227.956 319.640 280.239 1.00 5.01  95  9 1 
+ATOM 770 C CG  . LEU JB 49 95  ? 228.589 319.899 278.881 1.00 2.46  95  9 1 
+ATOM 771 C CD1 . LEU JB 49 95  ? 228.693 318.594 278.114 1.00 8.78  95  9 1 
+ATOM 772 C CD2 . LEU JB 49 95  ? 227.789 320.934 278.115 1.00 2.16  95  9 1 
+ATOM 773 N N   . LYS JB 49 96  ? 230.180 320.493 282.117 1.00 25.92 96  9 1 
+ATOM 774 C CA  . LYS JB 49 96  ? 231.411 321.232 282.330 1.00 21.67 96  9 1 
+ATOM 775 C C   . LYS JB 49 96  ? 232.413 320.352 283.063 1.00 19.84 96  9 1 
+ATOM 776 O O   . LYS JB 49 96  ? 233.625 320.403 282.803 1.00 21.83 96  9 1 
+ATOM 777 C CB  . LYS JB 49 96  ? 231.104 322.502 283.108 1.00 23.67 96  9 1 
+ATOM 778 C CG  . LYS JB 49 96  ? 230.246 323.467 282.310 1.00 35.87 96  9 1 
+ATOM 779 C CD  . LYS JB 49 96  ? 229.938 324.712 283.101 1.00 45.08 96  9 1 
+ATOM 780 C CE  . LYS JB 49 96  ? 229.047 324.369 284.280 1.00 46.39 96  9 1 
+ATOM 781 N NZ  . LYS JB 49 96  ? 228.630 325.583 285.024 1.00 45.29 96  9 1 
+ATOM 782 N N   . GLU JB 49 97  ? 231.888 319.499 283.939 1.00 14.20 97  9 1 
+ATOM 783 C CA  . GLU JB 49 97  ? 232.714 318.493 284.589 1.00 13.39 97  9 1 
+ATOM 784 C C   . GLU JB 49 97  ? 233.317 317.565 283.558 1.00 13.81 97  9 1 
+ATOM 785 O O   . GLU JB 49 97  ? 234.507 317.259 283.609 1.00 14.71 97  9 1 
+ATOM 786 C CB  . GLU JB 49 97  ? 231.898 317.667 285.576 1.00 19.63 97  9 1 
+ATOM 787 C CG  . GLU JB 49 97  ? 231.400 318.418 286.773 1.00 30.96 97  9 1 
+ATOM 788 C CD  . GLU JB 49 97  ? 230.487 317.565 287.610 1.00 40.96 97  9 1 
+ATOM 789 O OE1 . GLU JB 49 97  ? 230.117 316.468 287.140 1.00 38.44 97  9 1 
+ATOM 790 O OE2 . GLU JB 49 97  ? 230.137 317.985 288.731 1.00 48.74 97  9 1 
+ATOM 791 N N   . VAL JB 49 98  ? 232.494 317.137 282.606 1.00 2.16  98  9 1 
+ATOM 792 C CA  . VAL JB 49 98  ? 232.961 316.174 281.623 1.00 2.16  98  9 1 
+ATOM 793 C C   . VAL JB 49 98  ? 234.088 316.749 280.793 1.00 5.02  98  9 1 
+ATOM 794 O O   . VAL JB 49 98  ? 235.148 316.137 280.680 1.00 2.38  98  9 1 
+ATOM 795 C CB  . VAL JB 49 98  ? 231.849 315.729 280.671 1.00 4.79  98  9 1 
+ATOM 796 C CG1 . VAL JB 49 98  ? 232.424 314.825 279.599 1.00 4.63  98  9 1 
+ATOM 797 C CG2 . VAL JB 49 98  ? 230.751 315.017 281.426 1.00 5.52  98  9 1 
+ATOM 798 N N   . ILE JB 49 99  ? 233.873 317.940 280.242 1.00 7.89  99  9 1 
+ATOM 799 C CA  . ILE JB 49 99  ? 234.901 318.558 279.414 1.00 9.45  99  9 1 
+ATOM 800 C C   . ILE JB 49 99  ? 236.161 318.825 280.210 1.00 7.84  99  9 1 
+ATOM 801 O O   . ILE JB 49 99  ? 237.270 318.642 279.704 1.00 2.91  99  9 1 
+ATOM 802 C CB  . ILE JB 49 99  ? 234.417 319.879 278.780 1.00 9.35  99  9 1 
+ATOM 803 C CG1 . ILE JB 49 99  ? 233.447 319.599 277.637 1.00 3.35  99  9 1 
+ATOM 804 C CG2 . ILE JB 49 99  ? 235.582 320.713 278.278 1.00 11.19 99  9 1 
+ATOM 805 C CD1 . ILE JB 49 99  ? 232.019 319.775 277.996 1.00 2.16  99  9 1 
+ATOM 806 N N   . ARG JB 49 100 ? 236.005 319.211 281.469 1.00 6.98  100 9 1 
+ATOM 807 C CA  . ARG JB 49 100 ? 237.193 319.467 282.259 1.00 7.97  100 9 1 
+ATOM 808 C C   . ARG JB 49 100 ? 237.972 318.174 282.470 1.00 4.22  100 9 1 
+ATOM 809 O O   . ARG JB 49 100 ? 239.201 318.163 282.399 1.00 2.16  100 9 1 
+ATOM 810 C CB  . ARG JB 49 100 ? 236.829 320.098 283.596 1.00 18.47 100 9 1 
+ATOM 811 C CG  . ARG JB 49 100 ? 238.033 320.463 284.431 1.00 30.86 100 9 1 
+ATOM 812 C CD  . ARG JB 49 100 ? 237.624 321.141 285.716 1.00 45.82 100 9 1 
+ATOM 813 N NE  . ARG JB 49 100 ? 238.791 321.511 286.506 1.00 55.71 100 9 1 
+ATOM 814 C CZ  . ARG JB 49 100 ? 238.741 322.260 287.601 1.00 56.61 100 9 1 
+ATOM 815 N NH1 . ARG JB 49 100 ? 237.577 322.719 288.036 1.00 52.54 100 9 1 
+ATOM 816 N NH2 . ARG JB 49 100 ? 239.853 322.550 288.260 1.00 60.64 100 9 1 
+ATOM 817 N N   . GLU JB 49 101 ? 237.253 317.077 282.689 1.00 2.27  101 9 1 
+ATOM 818 C CA  . GLU JB 49 101 ? 237.903 315.786 282.853 1.00 2.18  101 9 1 
+ATOM 819 C C   . GLU JB 49 101 ? 238.597 315.369 281.571 1.00 4.99  101 9 1 
+ATOM 820 O O   . GLU JB 49 101 ? 239.653 314.741 281.599 1.00 3.24  101 9 1 
+ATOM 821 C CB  . GLU JB 49 101 ? 236.900 314.713 283.269 1.00 3.63  101 9 1 
+ATOM 822 C CG  . GLU JB 49 101 ? 236.354 314.886 284.668 1.00 11.48 101 9 1 
+ATOM 823 C CD  . GLU JB 49 101 ? 235.370 313.798 285.044 1.00 3.45  101 9 1 
+ATOM 824 O OE1 . GLU JB 49 101 ? 234.985 313.010 284.156 1.00 9.13  101 9 1 
+ATOM 825 O OE2 . GLU JB 49 101 ? 234.983 313.727 286.229 1.00 2.16  101 9 1 
+ATOM 826 N N   . ARG JB 49 102 ? 238.006 315.741 280.445 1.00 3.77  102 9 1 
+ATOM 827 C CA  . ARG JB 49 102 ? 238.582 315.410 279.154 1.00 5.82  102 9 1 
+ATOM 828 C C   . ARG JB 49 102 ? 239.893 316.141 278.950 1.00 4.60  102 9 1 
+ATOM 829 O O   . ARG JB 49 102 ? 240.912 315.532 278.607 1.00 4.61  102 9 1 
+ATOM 830 C CB  . ARG JB 49 102 ? 237.603 315.755 278.033 1.00 20.18 102 9 1 
+ATOM 831 C CG  . ARG JB 49 102 ? 238.152 315.529 276.641 1.00 8.52  102 9 1 
+ATOM 832 C CD  . ARG JB 49 102 ? 237.121 315.870 275.584 1.00 8.95  102 9 1 
+ATOM 833 N NE  . ARG JB 49 102 ? 236.704 317.266 275.640 1.00 10.74 102 9 1 
+ATOM 834 C CZ  . ARG JB 49 102 ? 235.639 317.748 275.009 1.00 12.79 102 9 1 
+ATOM 835 N NH1 . ARG JB 49 102 ? 234.894 316.947 274.263 1.00 4.51  102 9 1 
+ATOM 836 N NH2 . ARG JB 49 102 ? 235.328 319.031 275.112 1.00 5.95  102 9 1 
+ATOM 837 N N   . LYS JB 49 103 ? 239.873 317.445 279.204 1.00 9.03  103 9 1 
+ATOM 838 C CA  . LYS JB 49 103 ? 241.060 318.262 279.025 1.00 17.04 103 9 1 
+ATOM 839 C C   . LYS JB 49 103 ? 242.137 317.787 279.979 1.00 18.99 103 9 1 
+ATOM 840 O O   . LYS JB 49 103 ? 243.317 317.773 279.644 1.00 17.51 103 9 1 
+ATOM 841 C CB  . LYS JB 49 103 ? 240.750 319.736 279.279 1.00 15.30 103 9 1 
+ATOM 842 C CG  . LYS JB 49 103 ? 239.649 320.292 278.407 1.00 22.46 103 9 1 
+ATOM 843 C CD  . LYS JB 49 103 ? 240.000 320.167 276.945 1.00 28.59 103 9 1 
+ATOM 844 C CE  . LYS JB 49 103 ? 241.056 321.181 276.565 1.00 29.53 103 9 1 
+ATOM 845 N NZ  . LYS JB 49 103 ? 241.323 321.171 275.103 1.00 36.96 103 9 1 
+ATOM 846 N N   . GLU JB 49 104 ? 241.714 317.353 281.159 1.00 19.91 104 9 1 
+ATOM 847 C CA  . GLU JB 49 104 ? 242.657 316.895 282.161 1.00 21.70 104 9 1 
+ATOM 848 C C   . GLU JB 49 104 ? 243.338 315.608 281.731 1.00 19.26 104 9 1 
+ATOM 849 O O   . GLU JB 49 104 ? 244.564 315.512 281.739 1.00 22.90 104 9 1 
+ATOM 850 C CB  . GLU JB 49 104 ? 241.951 316.683 283.493 1.00 23.83 104 9 1 
+ATOM 851 C CG  . GLU JB 49 104 ? 242.876 316.256 284.608 1.00 21.59 104 9 1 
+ATOM 852 C CD  . GLU JB 49 104 ? 242.142 316.060 285.912 1.00 24.73 104 9 1 
+ATOM 853 O OE1 . GLU JB 49 104 ? 240.904 316.212 285.921 1.00 33.81 104 9 1 
+ATOM 854 O OE2 . GLU JB 49 104 ? 242.801 315.756 286.928 1.00 24.73 104 9 1 
+ATOM 855 N N   . ARG JB 49 105 ? 242.535 314.625 281.344 1.00 17.62 105 9 1 
+ATOM 856 C CA  . ARG JB 49 105 ? 243.062 313.323 280.974 1.00 19.18 105 9 1 
+ATOM 857 C C   . ARG JB 49 105 ? 243.923 313.406 279.730 1.00 18.14 105 9 1 
+ATOM 858 O O   . ARG JB 49 105 ? 244.905 312.676 279.597 1.00 10.59 105 9 1 
+ATOM 859 C CB  . ARG JB 49 105 ? 241.920 312.338 280.754 1.00 19.20 105 9 1 
+ATOM 860 C CG  . ARG JB 49 105 ? 241.166 311.997 282.023 1.00 18.32 105 9 1 
+ATOM 861 C CD  . ARG JB 49 105 ? 240.007 311.058 281.745 1.00 24.78 105 9 1 
+ATOM 862 N NE  . ARG JB 49 105 ? 238.993 311.693 280.911 1.00 20.61 105 9 1 
+ATOM 863 C CZ  . ARG JB 49 105 ? 238.865 311.484 279.606 1.00 21.12 105 9 1 
+ATOM 864 N NH1 . ARG JB 49 105 ? 239.692 310.657 278.982 1.00 24.58 105 9 1 
+ATOM 865 N NH2 . ARG JB 49 105 ? 237.915 312.104 278.924 1.00 2.16  105 9 1 
+ATOM 866 N N   . GLU JB 49 106 ? 243.571 314.313 278.828 1.00 19.85 106 9 1 
+ATOM 867 C CA  . GLU JB 49 106 ? 244.322 314.435 277.587 1.00 22.84 106 9 1 
+ATOM 868 C C   . GLU JB 49 106 ? 245.611 315.222 277.762 1.00 21.92 106 9 1 
+ATOM 869 O O   . GLU JB 49 106 ? 246.651 314.835 277.229 1.00 24.15 106 9 1 
+ATOM 870 C CB  . GLU JB 49 106 ? 243.457 315.068 276.500 1.00 26.51 106 9 1 
+ATOM 871 C CG  . GLU JB 49 106 ? 242.339 314.157 276.022 1.00 28.44 106 9 1 
+ATOM 872 C CD  . GLU JB 49 106 ? 241.475 314.795 274.959 1.00 29.87 106 9 1 
+ATOM 873 O OE1 . GLU JB 49 106 ? 241.613 316.014 274.732 1.00 35.94 106 9 1 
+ATOM 874 O OE2 . GLU JB 49 106 ? 240.664 314.076 274.343 1.00 30.62 106 9 1 
+ATOM 875 N N   . GLU JB 49 107 ? 245.556 316.323 278.501 1.00 21.96 107 9 1 
+ATOM 876 C CA  . GLU JB 49 107 ? 246.774 317.076 278.757 1.00 21.43 107 9 1 
+ATOM 877 C C   . GLU JB 49 107 ? 247.725 316.231 279.589 1.00 20.56 107 9 1 
+ATOM 878 O O   . GLU JB 49 107 ? 248.938 316.330 279.445 1.00 2.16  107 9 1 
+ATOM 879 C CB  . GLU JB 49 107 ? 246.471 318.400 279.457 1.00 30.14 107 9 1 
+ATOM 880 C CG  . GLU JB 49 107 ? 245.666 319.382 278.612 1.00 33.69 107 9 1 
+ATOM 881 C CD  . GLU JB 49 107 ? 246.337 319.736 277.298 1.00 40.17 107 9 1 
+ATOM 882 O OE1 . GLU JB 49 107 ? 247.573 319.904 277.284 1.00 34.04 107 9 1 
+ATOM 883 O OE2 . GLU JB 49 107 ? 245.623 319.848 276.278 1.00 37.53 107 9 1 
+ATOM 884 N N   . TRP JB 49 108 ? 247.167 315.392 280.455 1.00 23.48 108 9 1 
+ATOM 885 C CA  . TRP JB 49 108 ? 247.976 314.407 281.157 1.00 26.36 108 9 1 
+ATOM 886 C C   . TRP JB 49 108 ? 248.534 313.382 280.189 1.00 28.73 108 9 1 
+ATOM 887 O O   . TRP JB 49 108 ? 249.625 312.857 280.394 1.00 23.05 108 9 1 
+ATOM 888 C CB  . TRP JB 49 108 ? 247.170 313.673 282.225 1.00 22.77 108 9 1 
+ATOM 889 C CG  . TRP JB 49 108 ? 247.973 312.590 282.884 1.00 11.15 108 9 1 
+ATOM 890 C CD1 . TRP JB 49 108 ? 248.036 311.282 282.509 1.00 9.39  108 9 1 
+ATOM 891 C CD2 . TRP JB 49 108 ? 248.793 312.710 284.055 1.00 16.05 108 9 1 
+ATOM 892 N NE1 . TRP JB 49 108 ? 248.867 310.587 283.349 1.00 2.16  108 9 1 
+ATOM 893 C CE2 . TRP JB 49 108 ? 249.338 311.437 284.313 1.00 18.02 108 9 1 
+ATOM 894 C CE3 . TRP JB 49 108 ? 249.126 313.769 284.905 1.00 24.72 108 9 1 
+ATOM 895 C CZ2 . TRP JB 49 108 ? 250.201 311.194 285.379 1.00 24.51 108 9 1 
+ATOM 896 C CZ3 . TRP JB 49 108 ? 249.980 313.524 285.968 1.00 27.37 108 9 1 
+ATOM 897 C CH2 . TRP JB 49 108 ? 250.504 312.246 286.197 1.00 29.83 108 9 1 
+ATOM 898 N N   . ALA JB 49 109 ? 247.774 313.080 279.143 1.00 33.18 109 9 1 
+ATOM 899 C CA  . ALA JB 49 109 ? 248.195 312.053 278.201 1.00 38.59 109 9 1 
+ATOM 900 C C   . ALA JB 49 109 ? 249.398 312.508 277.398 1.00 42.86 109 9 1 
+ATOM 901 O O   . ALA JB 49 109 ? 250.424 311.836 277.365 1.00 41.54 109 9 1 
+ATOM 902 C CB  . ALA JB 49 109 ? 247.055 311.686 277.270 1.00 39.61 109 9 1 
+ATOM 903 N N   . LYS JB 49 110 ? 249.273 313.676 276.782 1.00 47.89 110 9 1 
+ATOM 904 C CA  . LYS JB 49 110 ? 250.299 314.186 275.884 1.00 51.45 110 9 1 
+ATOM 905 C C   . LYS JB 49 110 ? 251.602 314.498 276.608 1.00 51.96 110 9 1 
+ATOM 906 O O   . LYS JB 49 110 ? 252.682 314.408 276.027 1.00 52.03 110 9 1 
+ATOM 907 C CB  . LYS JB 49 110 ? 249.782 315.431 275.166 1.00 54.04 110 9 1 
+ATOM 908 C CG  . LYS JB 49 110 ? 249.468 316.591 276.084 1.00 58.61 110 9 1 
+ATOM 909 C CD  . LYS JB 49 110 ? 248.875 317.737 275.306 1.00 62.37 110 9 1 
+ATOM 910 C CE  . LYS JB 49 110 ? 247.509 317.347 274.779 1.00 68.05 110 9 1 
+ATOM 911 N NZ  . LYS JB 49 110 ? 246.852 318.448 274.027 1.00 71.35 110 9 1 
+ATOM 912 N N   . LYS JB 49 111 ? 251.494 314.851 277.883 1.00 54.43 111 9 1 
+ATOM 913 C CA  . LYS JB 49 111 ? 252.655 315.239 278.670 1.00 56.84 111 9 1 
+ATOM 914 C C   . LYS JB 49 111 ? 253.333 314.028 279.284 1.00 58.98 111 9 1 
+ATOM 915 O O   . LYS JB 49 111 ? 253.236 312.922 278.756 1.00 62.36 111 9 1 
+ATOM 916 C CB  . LYS JB 49 111 ? 252.251 316.227 279.763 1.00 57.92 111 9 1 
+ATOM 917 C CG  . LYS JB 49 111 ? 251.795 317.565 279.222 1.00 58.08 111 9 1 
+ATOM 918 C CD  . LYS JB 49 111 ? 251.459 318.536 280.334 1.00 53.72 111 9 1 
+ATOM 919 C CE  . LYS JB 49 111 ? 251.132 319.909 279.770 1.00 47.48 111 9 1 
+ATOM 920 N NZ  . LYS JB 49 111 ? 249.798 319.930 279.110 1.00 37.35 111 9 1 
+ATOM 921 O OXT . LYS JB 49 111 ? 253.995 314.134 280.315 1.00 62.36 111 9 1 
+#

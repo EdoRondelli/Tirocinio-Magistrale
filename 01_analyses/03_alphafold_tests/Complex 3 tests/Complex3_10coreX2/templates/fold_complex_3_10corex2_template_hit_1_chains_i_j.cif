@@ -1,0 +1,2807 @@
+data_4d6t
+#
+_entry.id 4d6t
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C20 H15 Cl F3 N O3" 409.786  4X9 . 3-chloro-2,6-dimethyl-5-{4-[4-(trifluoromethoxy)phenoxy]phenyl}pyridin-4-ol ?                                                                                  non-polymer         
+"C3 H7 N O2"         89.093   ALA y ALANINE                                                                     ?                                                                                  "L-peptide linking" 
+"C6 H15 N4 O2 1"     175.209  ARG y ARGININE                                                                    ?                                                                                  "L-peptide linking" 
+"C4 H8 N2 O3"        132.118  ASN y ASPARAGINE                                                                  ?                                                                                  "L-peptide linking" 
+"C4 H7 N O4"         133.103  ASP y "ASPARTIC ACID"                                                             ?                                                                                  "L-peptide linking" 
+"C81 H156 O17 P2 -2" 1464.043 CDL . CARDIOLIPIN                                                                 "DIPHOSPHATIDYL GLYCEROL; BIS-(1,2-DIACYL-SN-GLYCERO-3-PHOSPHO)-1',3'-SN-GLYCEROL" non-polymer         
+"C3 H7 N O2 S"       121.158  CYS y CYSTEINE                                                                    ?                                                                                  "L-peptide linking" 
+"Fe2 S2"             175.820  FES . "FE2/S2 (INORGANIC) CLUSTER"                                                ?                                                                                  non-polymer         
+"C5 H10 N2 O3"       146.144  GLN y GLUTAMINE                                                                   ?                                                                                  "L-peptide linking" 
+"C5 H9 N O4"         147.129  GLU y "GLUTAMIC ACID"                                                             ?                                                                                  "L-peptide linking" 
+"C2 H5 N O2"         75.067   GLY y GLYCINE                                                                     ?                                                                                  "peptide linking"   
+"C3 H8 O3"           92.094   GOL . GLYCEROL                                                                    "GLYCERIN; PROPANE-1,2,3-TRIOL"                                                    non-polymer         
+"C34 H34 Fe N4 O4"   618.503  HEC . "HEME C"                                                                    ?                                                                                  non-polymer         
+"C34 H32 Fe N4 O4"   616.487  HEM . "PROTOPORPHYRIN IX CONTAINING FE"                                           HEME                                                                               non-polymer         
+"C6 H10 N3 O2 1"     156.162  HIS y HISTIDINE                                                                   ?                                                                                  "L-peptide linking" 
+"C6 H13 N O2"        131.173  ILE y ISOLEUCINE                                                                  ?                                                                                  "L-peptide linking" 
+"C6 H13 N O2"        131.173  LEU y LEUCINE                                                                     ?                                                                                  "L-peptide linking" 
+"C6 H15 N2 O2 1"     147.195  LYS y LYSINE                                                                      ?                                                                                  "L-peptide linking" 
+"C5 H11 N O2 S"      149.211  MET y METHIONINE                                                                  ?                                                                                  "L-peptide linking" 
+"C41 H78 N O8 P"     744.034  PEE n 1,2-dioleoyl-sn-glycero-3-phosphoethanolamine                               DOPE                                                                               non-polymer         
+"C9 H11 N O2"        165.189  PHE y PHENYLALANINE                                                               ?                                                                                  "L-peptide linking" 
+"O4 P -3"            94.971   PO4 . "PHOSPHATE ION"                                                             ?                                                                                  non-polymer         
+"C5 H9 N O2"         115.130  PRO y PROLINE                                                                     ?                                                                                  "L-peptide linking" 
+"C3 H7 N O3"         105.093  SER y SERINE                                                                      ?                                                                                  "L-peptide linking" 
+"C4 H9 N O3"         119.119  THR y THREONINE                                                                   ?                                                                                  "L-peptide linking" 
+"C11 H12 N2 O2"      204.225  TRP y TRYPTOPHAN                                                                  ?                                                                                  "L-peptide linking" 
+"C9 H11 N O3"        181.189  TYR y TYROSINE                                                                    ?                                                                                  "L-peptide linking" 
+"C5 H11 N O2"        117.146  VAL y VALINE                                                                      ?                                                                                  "L-peptide linking" 
+#
+loop_
+_chem_comp_atom.atom_id
+_chem_comp_atom.charge
+_chem_comp_atom.comp_id
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_ordinal
+_chem_comp_atom.type_symbol
+C1   ? 4X9 ? ? ? ? 1   C  
+O3   ? 4X9 ? ? ? ? 2   O  
+C4   ? 4X9 ? ? ? ? 3   C  
+C5   ? 4X9 ? ? ? ? 4   C  
+C6   ? 4X9 ? ? ? ? 5   C  
+C7   ? 4X9 ? ? ? ? 6   C  
+C8   ? 4X9 ? ? ? ? 7   C  
+C9   ? 4X9 ? ? ? ? 8   C  
+O10  ? 4X9 ? ? ? ? 9   O  
+C11  ? 4X9 ? ? ? ? 10  C  
+C12  ? 4X9 ? ? ? ? 11  C  
+C13  ? 4X9 ? ? ? ? 12  C  
+C14  ? 4X9 ? ? ? ? 13  C  
+C15  ? 4X9 ? ? ? ? 14  C  
+C16  ? 4X9 ? ? ? ? 15  C  
+C17  ? 4X9 ? ? ? ? 16  C  
+C18  ? 4X9 ? ? ? ? 17  C  
+C19  ? 4X9 ? ? ? ? 18  C  
+C20  ? 4X9 ? ? ? ? 19  C  
+C22  ? 4X9 ? ? ? ? 20  C  
+F23  ? 4X9 ? ? ? ? 21  F  
+F24  ? 4X9 ? ? ? ? 22  F  
+F25  ? 4X9 ? ? ? ? 23  F  
+C26  ? 4X9 ? ? ? ? 24  C  
+CL   ? 4X9 ? ? ? ? 25  CL 
+O28  ? 4X9 ? ? ? ? 26  O  
+C29  ? 4X9 ? ? ? ? 27  C  
+N30  ? 4X9 ? ? ? ? 28  N  
+H5   ? 4X9 ? ? ? ? 29  H  
+H6   ? 4X9 ? ? ? ? 30  H  
+H8   ? 4X9 ? ? ? ? 31  H  
+H9   ? 4X9 ? ? ? ? 32  H  
+H12  ? 4X9 ? ? ? ? 33  H  
+H13  ? 4X9 ? ? ? ? 34  H  
+H15  ? 4X9 ? ? ? ? 35  H  
+H16  ? 4X9 ? ? ? ? 36  H  
+H26  ? 4X9 ? ? ? ? 37  H  
+H26A ? 4X9 ? ? ? ? 38  H  
+H26B ? 4X9 ? ? ? ? 39  H  
+HO28 ? 4X9 ? ? ? ? 40  H  
+H29  ? 4X9 ? ? ? ? 41  H  
+H29A ? 4X9 ? ? ? ? 42  H  
+H29B ? 4X9 ? ? ? ? 43  H  
+N    ? ALA ? ? ? ? 44  N  
+CA   ? ALA ? ? ? ? 45  C  
+C    ? ALA ? ? ? ? 46  C  
+O    ? ALA ? ? ? ? 47  O  
+CB   ? ALA ? ? ? ? 48  C  
+OXT  ? ALA ? ? ? ? 49  O  
+H    ? ALA ? ? ? ? 50  H  
+H2   ? ALA ? ? ? ? 51  H  
+HA   ? ALA ? ? ? ? 52  H  
+HB1  ? ALA ? ? ? ? 53  H  
+HB2  ? ALA ? ? ? ? 54  H  
+HB3  ? ALA ? ? ? ? 55  H  
+HXT  ? ALA ? ? ? ? 56  H  
+N    ? ARG ? ? ? ? 57  N  
+CA   ? ARG ? ? ? ? 58  C  
+C    ? ARG ? ? ? ? 59  C  
+O    ? ARG ? ? ? ? 60  O  
+CB   ? ARG ? ? ? ? 61  C  
+CG   ? ARG ? ? ? ? 62  C  
+CD   ? ARG ? ? ? ? 63  C  
+NE   ? ARG ? ? ? ? 64  N  
+CZ   ? ARG ? ? ? ? 65  C  
+NH1  ? ARG ? ? ? ? 66  N  
+NH2  ? ARG ? ? ? ? 67  N  
+OXT  ? ARG ? ? ? ? 68  O  
+H    ? ARG ? ? ? ? 69  H  
+H2   ? ARG ? ? ? ? 70  H  
+HA   ? ARG ? ? ? ? 71  H  
+HB2  ? ARG ? ? ? ? 72  H  
+HB3  ? ARG ? ? ? ? 73  H  
+HG2  ? ARG ? ? ? ? 74  H  
+HG3  ? ARG ? ? ? ? 75  H  
+HD2  ? ARG ? ? ? ? 76  H  
+HD3  ? ARG ? ? ? ? 77  H  
+HE   ? ARG ? ? ? ? 78  H  
+HH11 ? ARG ? ? ? ? 79  H  
+HH12 ? ARG ? ? ? ? 80  H  
+HH21 ? ARG ? ? ? ? 81  H  
+HH22 ? ARG ? ? ? ? 82  H  
+HXT  ? ARG ? ? ? ? 83  H  
+N    ? ASN ? ? ? ? 84  N  
+CA   ? ASN ? ? ? ? 85  C  
+C    ? ASN ? ? ? ? 86  C  
+O    ? ASN ? ? ? ? 87  O  
+CB   ? ASN ? ? ? ? 88  C  
+CG   ? ASN ? ? ? ? 89  C  
+OD1  ? ASN ? ? ? ? 90  O  
+ND2  ? ASN ? ? ? ? 91  N  
+OXT  ? ASN ? ? ? ? 92  O  
+H    ? ASN ? ? ? ? 93  H  
+H2   ? ASN ? ? ? ? 94  H  
+HA   ? ASN ? ? ? ? 95  H  
+HB2  ? ASN ? ? ? ? 96  H  
+HB3  ? ASN ? ? ? ? 97  H  
+HD21 ? ASN ? ? ? ? 98  H  
+HD22 ? ASN ? ? ? ? 99  H  
+HXT  ? ASN ? ? ? ? 100 H  
+N    ? ASP ? ? ? ? 101 N  
+CA   ? ASP ? ? ? ? 102 C  
+C    ? ASP ? ? ? ? 103 C  
+O    ? ASP ? ? ? ? 104 O  
+CB   ? ASP ? ? ? ? 105 C  
+CG   ? ASP ? ? ? ? 106 C  
+OD1  ? ASP ? ? ? ? 107 O  
+OD2  ? ASP ? ? ? ? 108 O  
+OXT  ? ASP ? ? ? ? 109 O  
+H    ? ASP ? ? ? ? 110 H  
+H2   ? ASP ? ? ? ? 111 H  
+HA   ? ASP ? ? ? ? 112 H  
+HB2  ? ASP ? ? ? ? 113 H  
+HB3  ? ASP ? ? ? ? 114 H  
+HD2  ? ASP ? ? ? ? 115 H  
+HXT  ? ASP ? ? ? ? 116 H  
+C1   ? CDL ? ? ? ? 117 C  
+O1   ? CDL ? ? ? ? 118 O  
+CA2  ? CDL ? ? ? ? 119 C  
+OA2  ? CDL ? ? ? ? 120 O  
+PA1  ? CDL ? ? ? ? 121 P  
+OA3  ? CDL ? ? ? ? 122 O  
+OA4  ? CDL ? ? ? ? 123 O  
+OA5  ? CDL ? ? ? ? 124 O  
+CA3  ? CDL ? ? ? ? 125 C  
+CA4  ? CDL ? ? ? ? 126 C  
+OA6  ? CDL ? ? ? ? 127 O  
+CA5  ? CDL ? ? ? ? 128 C  
+OA7  ? CDL ? ? ? ? 129 O  
+C11  ? CDL ? ? ? ? 130 C  
+C12  ? CDL ? ? ? ? 131 C  
+C13  ? CDL ? ? ? ? 132 C  
+C14  ? CDL ? ? ? ? 133 C  
+C15  ? CDL ? ? ? ? 134 C  
+C16  ? CDL ? ? ? ? 135 C  
+C17  ? CDL ? ? ? ? 136 C  
+C18  ? CDL ? ? ? ? 137 C  
+C19  ? CDL ? ? ? ? 138 C  
+C20  ? CDL ? ? ? ? 139 C  
+C21  ? CDL ? ? ? ? 140 C  
+C22  ? CDL ? ? ? ? 141 C  
+C23  ? CDL ? ? ? ? 142 C  
+C24  ? CDL ? ? ? ? 143 C  
+C25  ? CDL ? ? ? ? 144 C  
+C26  ? CDL ? ? ? ? 145 C  
+C27  ? CDL ? ? ? ? 146 C  
+CA6  ? CDL ? ? ? ? 147 C  
+OA8  ? CDL ? ? ? ? 148 O  
+CA7  ? CDL ? ? ? ? 149 C  
+OA9  ? CDL ? ? ? ? 150 O  
+C31  ? CDL ? ? ? ? 151 C  
+C32  ? CDL ? ? ? ? 152 C  
+C33  ? CDL ? ? ? ? 153 C  
+C34  ? CDL ? ? ? ? 154 C  
+C35  ? CDL ? ? ? ? 155 C  
+C36  ? CDL ? ? ? ? 156 C  
+C37  ? CDL ? ? ? ? 157 C  
+C38  ? CDL ? ? ? ? 158 C  
+C39  ? CDL ? ? ? ? 159 C  
+C40  ? CDL ? ? ? ? 160 C  
+C41  ? CDL ? ? ? ? 161 C  
+C42  ? CDL ? ? ? ? 162 C  
+C43  ? CDL ? ? ? ? 163 C  
+C44  ? CDL ? ? ? ? 164 C  
+C45  ? CDL ? ? ? ? 165 C  
+C46  ? CDL ? ? ? ? 166 C  
+C47  ? CDL ? ? ? ? 167 C  
+CB2  ? CDL ? ? ? ? 168 C  
+OB2  ? CDL ? ? ? ? 169 O  
+PB2  ? CDL ? ? ? ? 170 P  
+OB3  ? CDL ? ? ? ? 171 O  
+OB4  ? CDL ? ? ? ? 172 O  
+OB5  ? CDL ? ? ? ? 173 O  
+CB3  ? CDL ? ? ? ? 174 C  
+CB4  ? CDL ? ? ? ? 175 C  
+OB6  ? CDL ? ? ? ? 176 O  
+CB5  ? CDL ? ? ? ? 177 C  
+OB7  ? CDL ? ? ? ? 178 O  
+C51  ? CDL ? ? ? ? 179 C  
+C52  ? CDL ? ? ? ? 180 C  
+C53  ? CDL ? ? ? ? 181 C  
+C54  ? CDL ? ? ? ? 182 C  
+C55  ? CDL ? ? ? ? 183 C  
+C56  ? CDL ? ? ? ? 184 C  
+C57  ? CDL ? ? ? ? 185 C  
+C58  ? CDL ? ? ? ? 186 C  
+C59  ? CDL ? ? ? ? 187 C  
+C60  ? CDL ? ? ? ? 188 C  
+C61  ? CDL ? ? ? ? 189 C  
+C62  ? CDL ? ? ? ? 190 C  
+C63  ? CDL ? ? ? ? 191 C  
+C64  ? CDL ? ? ? ? 192 C  
+C65  ? CDL ? ? ? ? 193 C  
+C66  ? CDL ? ? ? ? 194 C  
+C67  ? CDL ? ? ? ? 195 C  
+CB6  ? CDL ? ? ? ? 196 C  
+OB8  ? CDL ? ? ? ? 197 O  
+CB7  ? CDL ? ? ? ? 198 C  
+OB9  ? CDL ? ? ? ? 199 O  
+C71  ? CDL ? ? ? ? 200 C  
+C72  ? CDL ? ? ? ? 201 C  
+C73  ? CDL ? ? ? ? 202 C  
+C74  ? CDL ? ? ? ? 203 C  
+C75  ? CDL ? ? ? ? 204 C  
+C76  ? CDL ? ? ? ? 205 C  
+C77  ? CDL ? ? ? ? 206 C  
+C78  ? CDL ? ? ? ? 207 C  
+C79  ? CDL ? ? ? ? 208 C  
+C80  ? CDL ? ? ? ? 209 C  
+C81  ? CDL ? ? ? ? 210 C  
+C82  ? CDL ? ? ? ? 211 C  
+C83  ? CDL ? ? ? ? 212 C  
+C84  ? CDL ? ? ? ? 213 C  
+C85  ? CDL ? ? ? ? 214 C  
+C86  ? CDL ? ? ? ? 215 C  
+C87  ? CDL ? ? ? ? 216 C  
+H1   ? CDL ? ? ? ? 217 H  
+H1O1 ? CDL ? ? ? ? 218 H  
+HA22 ? CDL ? ? ? ? 219 H  
+HA21 ? CDL ? ? ? ? 220 H  
+HA32 ? CDL ? ? ? ? 221 H  
+HA31 ? CDL ? ? ? ? 222 H  
+HA4  ? CDL ? ? ? ? 223 H  
+H112 ? CDL ? ? ? ? 224 H  
+H111 ? CDL ? ? ? ? 225 H  
+H122 ? CDL ? ? ? ? 226 H  
+H121 ? CDL ? ? ? ? 227 H  
+H132 ? CDL ? ? ? ? 228 H  
+H131 ? CDL ? ? ? ? 229 H  
+H142 ? CDL ? ? ? ? 230 H  
+H141 ? CDL ? ? ? ? 231 H  
+H152 ? CDL ? ? ? ? 232 H  
+H151 ? CDL ? ? ? ? 233 H  
+H162 ? CDL ? ? ? ? 234 H  
+H161 ? CDL ? ? ? ? 235 H  
+H172 ? CDL ? ? ? ? 236 H  
+H171 ? CDL ? ? ? ? 237 H  
+H182 ? CDL ? ? ? ? 238 H  
+H181 ? CDL ? ? ? ? 239 H  
+H192 ? CDL ? ? ? ? 240 H  
+H191 ? CDL ? ? ? ? 241 H  
+H202 ? CDL ? ? ? ? 242 H  
+H201 ? CDL ? ? ? ? 243 H  
+H212 ? CDL ? ? ? ? 244 H  
+H211 ? CDL ? ? ? ? 245 H  
+H222 ? CDL ? ? ? ? 246 H  
+H221 ? CDL ? ? ? ? 247 H  
+H232 ? CDL ? ? ? ? 248 H  
+H231 ? CDL ? ? ? ? 249 H  
+H242 ? CDL ? ? ? ? 250 H  
+H241 ? CDL ? ? ? ? 251 H  
+H252 ? CDL ? ? ? ? 252 H  
+H251 ? CDL ? ? ? ? 253 H  
+H262 ? CDL ? ? ? ? 254 H  
+H261 ? CDL ? ? ? ? 255 H  
+H273 ? CDL ? ? ? ? 256 H  
+H272 ? CDL ? ? ? ? 257 H  
+H271 ? CDL ? ? ? ? 258 H  
+HA62 ? CDL ? ? ? ? 259 H  
+HA61 ? CDL ? ? ? ? 260 H  
+H312 ? CDL ? ? ? ? 261 H  
+H311 ? CDL ? ? ? ? 262 H  
+H322 ? CDL ? ? ? ? 263 H  
+H321 ? CDL ? ? ? ? 264 H  
+H332 ? CDL ? ? ? ? 265 H  
+H331 ? CDL ? ? ? ? 266 H  
+H342 ? CDL ? ? ? ? 267 H  
+H341 ? CDL ? ? ? ? 268 H  
+H352 ? CDL ? ? ? ? 269 H  
+H351 ? CDL ? ? ? ? 270 H  
+H362 ? CDL ? ? ? ? 271 H  
+H361 ? CDL ? ? ? ? 272 H  
+H372 ? CDL ? ? ? ? 273 H  
+H371 ? CDL ? ? ? ? 274 H  
+H382 ? CDL ? ? ? ? 275 H  
+H381 ? CDL ? ? ? ? 276 H  
+H392 ? CDL ? ? ? ? 277 H  
+H391 ? CDL ? ? ? ? 278 H  
+H402 ? CDL ? ? ? ? 279 H  
+H401 ? CDL ? ? ? ? 280 H  
+H412 ? CDL ? ? ? ? 281 H  
+H411 ? CDL ? ? ? ? 282 H  
+H422 ? CDL ? ? ? ? 283 H  
+H421 ? CDL ? ? ? ? 284 H  
+H432 ? CDL ? ? ? ? 285 H  
+H431 ? CDL ? ? ? ? 286 H  
+H442 ? CDL ? ? ? ? 287 H  
+H441 ? CDL ? ? ? ? 288 H  
+H452 ? CDL ? ? ? ? 289 H  
+H451 ? CDL ? ? ? ? 290 H  
+H462 ? CDL ? ? ? ? 291 H  
+H461 ? CDL ? ? ? ? 292 H  
+H473 ? CDL ? ? ? ? 293 H  
+H472 ? CDL ? ? ? ? 294 H  
+H471 ? CDL ? ? ? ? 295 H  
+HB22 ? CDL ? ? ? ? 296 H  
+HB21 ? CDL ? ? ? ? 297 H  
+HB32 ? CDL ? ? ? ? 298 H  
+HB31 ? CDL ? ? ? ? 299 H  
+HB4  ? CDL ? ? ? ? 300 H  
+H512 ? CDL ? ? ? ? 301 H  
+H511 ? CDL ? ? ? ? 302 H  
+H522 ? CDL ? ? ? ? 303 H  
+H521 ? CDL ? ? ? ? 304 H  
+H532 ? CDL ? ? ? ? 305 H  
+H531 ? CDL ? ? ? ? 306 H  
+H542 ? CDL ? ? ? ? 307 H  
+H541 ? CDL ? ? ? ? 308 H  
+H552 ? CDL ? ? ? ? 309 H  
+H551 ? CDL ? ? ? ? 310 H  
+H562 ? CDL ? ? ? ? 311 H  
+H561 ? CDL ? ? ? ? 312 H  
+H572 ? CDL ? ? ? ? 313 H  
+H571 ? CDL ? ? ? ? 314 H  
+H582 ? CDL ? ? ? ? 315 H  
+H581 ? CDL ? ? ? ? 316 H  
+H592 ? CDL ? ? ? ? 317 H  
+H591 ? CDL ? ? ? ? 318 H  
+H602 ? CDL ? ? ? ? 319 H  
+H601 ? CDL ? ? ? ? 320 H  
+H612 ? CDL ? ? ? ? 321 H  
+H611 ? CDL ? ? ? ? 322 H  
+H622 ? CDL ? ? ? ? 323 H  
+H621 ? CDL ? ? ? ? 324 H  
+H632 ? CDL ? ? ? ? 325 H  
+H631 ? CDL ? ? ? ? 326 H  
+H642 ? CDL ? ? ? ? 327 H  
+H641 ? CDL ? ? ? ? 328 H  
+H652 ? CDL ? ? ? ? 329 H  
+H651 ? CDL ? ? ? ? 330 H  
+H662 ? CDL ? ? ? ? 331 H  
+H661 ? CDL ? ? ? ? 332 H  
+H673 ? CDL ? ? ? ? 333 H  
+H672 ? CDL ? ? ? ? 334 H  
+H671 ? CDL ? ? ? ? 335 H  
+HB62 ? CDL ? ? ? ? 336 H  
+HB61 ? CDL ? ? ? ? 337 H  
+H712 ? CDL ? ? ? ? 338 H  
+H711 ? CDL ? ? ? ? 339 H  
+H722 ? CDL ? ? ? ? 340 H  
+H721 ? CDL ? ? ? ? 341 H  
+H732 ? CDL ? ? ? ? 342 H  
+H731 ? CDL ? ? ? ? 343 H  
+H742 ? CDL ? ? ? ? 344 H  
+H741 ? CDL ? ? ? ? 345 H  
+H752 ? CDL ? ? ? ? 346 H  
+H751 ? CDL ? ? ? ? 347 H  
+H762 ? CDL ? ? ? ? 348 H  
+H761 ? CDL ? ? ? ? 349 H  
+H772 ? CDL ? ? ? ? 350 H  
+H771 ? CDL ? ? ? ? 351 H  
+H782 ? CDL ? ? ? ? 352 H  
+H781 ? CDL ? ? ? ? 353 H  
+H792 ? CDL ? ? ? ? 354 H  
+H791 ? CDL ? ? ? ? 355 H  
+H802 ? CDL ? ? ? ? 356 H  
+H801 ? CDL ? ? ? ? 357 H  
+H812 ? CDL ? ? ? ? 358 H  
+H811 ? CDL ? ? ? ? 359 H  
+H822 ? CDL ? ? ? ? 360 H  
+H821 ? CDL ? ? ? ? 361 H  
+H832 ? CDL ? ? ? ? 362 H  
+H831 ? CDL ? ? ? ? 363 H  
+H842 ? CDL ? ? ? ? 364 H  
+H841 ? CDL ? ? ? ? 365 H  
+H852 ? CDL ? ? ? ? 366 H  
+H851 ? CDL ? ? ? ? 367 H  
+H862 ? CDL ? ? ? ? 368 H  
+H861 ? CDL ? ? ? ? 369 H  
+H873 ? CDL ? ? ? ? 370 H  
+H872 ? CDL ? ? ? ? 371 H  
+H871 ? CDL ? ? ? ? 372 H  
+N    ? CYS ? ? ? ? 373 N  
+CA   ? CYS ? ? ? ? 374 C  
+C    ? CYS ? ? ? ? 375 C  
+O    ? CYS ? ? ? ? 376 O  
+CB   ? CYS ? ? ? ? 377 C  
+SG   ? CYS ? ? ? ? 378 S  
+OXT  ? CYS ? ? ? ? 379 O  
+H    ? CYS ? ? ? ? 380 H  
+H2   ? CYS ? ? ? ? 381 H  
+HA   ? CYS ? ? ? ? 382 H  
+HB2  ? CYS ? ? ? ? 383 H  
+HB3  ? CYS ? ? ? ? 384 H  
+HG   ? CYS ? ? ? ? 385 H  
+HXT  ? CYS ? ? ? ? 386 H  
+FE1  ? FES ? ? ? ? 387 FE 
+FE2  ? FES ? ? ? ? 388 FE 
+S1   ? FES ? ? ? ? 389 S  
+S2   ? FES ? ? ? ? 390 S  
+N    ? GLN ? ? ? ? 391 N  
+CA   ? GLN ? ? ? ? 392 C  
+C    ? GLN ? ? ? ? 393 C  
+O    ? GLN ? ? ? ? 394 O  
+CB   ? GLN ? ? ? ? 395 C  
+CG   ? GLN ? ? ? ? 396 C  
+CD   ? GLN ? ? ? ? 397 C  
+OE1  ? GLN ? ? ? ? 398 O  
+NE2  ? GLN ? ? ? ? 399 N  
+OXT  ? GLN ? ? ? ? 400 O  
+H    ? GLN ? ? ? ? 401 H  
+H2   ? GLN ? ? ? ? 402 H  
+HA   ? GLN ? ? ? ? 403 H  
+HB2  ? GLN ? ? ? ? 404 H  
+HB3  ? GLN ? ? ? ? 405 H  
+HG2  ? GLN ? ? ? ? 406 H  
+HG3  ? GLN ? ? ? ? 407 H  
+HE21 ? GLN ? ? ? ? 408 H  
+HE22 ? GLN ? ? ? ? 409 H  
+HXT  ? GLN ? ? ? ? 410 H  
+N    ? GLU ? ? ? ? 411 N  
+CA   ? GLU ? ? ? ? 412 C  
+C    ? GLU ? ? ? ? 413 C  
+O    ? GLU ? ? ? ? 414 O  
+CB   ? GLU ? ? ? ? 415 C  
+CG   ? GLU ? ? ? ? 416 C  
+CD   ? GLU ? ? ? ? 417 C  
+OE1  ? GLU ? ? ? ? 418 O  
+OE2  ? GLU ? ? ? ? 419 O  
+OXT  ? GLU ? ? ? ? 420 O  
+H    ? GLU ? ? ? ? 421 H  
+H2   ? GLU ? ? ? ? 422 H  
+HA   ? GLU ? ? ? ? 423 H  
+HB2  ? GLU ? ? ? ? 424 H  
+HB3  ? GLU ? ? ? ? 425 H  
+HG2  ? GLU ? ? ? ? 426 H  
+HG3  ? GLU ? ? ? ? 427 H  
+HE2  ? GLU ? ? ? ? 428 H  
+HXT  ? GLU ? ? ? ? 429 H  
+N    ? GLY ? ? ? ? 430 N  
+CA   ? GLY ? ? ? ? 431 C  
+C    ? GLY ? ? ? ? 432 C  
+O    ? GLY ? ? ? ? 433 O  
+OXT  ? GLY ? ? ? ? 434 O  
+H    ? GLY ? ? ? ? 435 H  
+H2   ? GLY ? ? ? ? 436 H  
+HA2  ? GLY ? ? ? ? 437 H  
+HA3  ? GLY ? ? ? ? 438 H  
+HXT  ? GLY ? ? ? ? 439 H  
+C1   ? GOL ? ? ? ? 440 C  
+O1   ? GOL ? ? ? ? 441 O  
+C2   ? GOL ? ? ? ? 442 C  
+O2   ? GOL ? ? ? ? 443 O  
+C3   ? GOL ? ? ? ? 444 C  
+O3   ? GOL ? ? ? ? 445 O  
+H11  ? GOL ? ? ? ? 446 H  
+H12  ? GOL ? ? ? ? 447 H  
+HO1  ? GOL ? ? ? ? 448 H  
+H2   ? GOL ? ? ? ? 449 H  
+HO2  ? GOL ? ? ? ? 450 H  
+H31  ? GOL ? ? ? ? 451 H  
+H32  ? GOL ? ? ? ? 452 H  
+HO3  ? GOL ? ? ? ? 453 H  
+FE   ? HEC ? ? ? ? 454 FE 
+CHA  ? HEC ? ? ? ? 455 C  
+CHB  ? HEC ? ? ? ? 456 C  
+CHC  ? HEC ? ? ? ? 457 C  
+CHD  ? HEC ? ? ? ? 458 C  
+NA   ? HEC ? ? ? ? 459 N  
+C1A  ? HEC ? ? ? ? 460 C  
+C2A  ? HEC ? ? ? ? 461 C  
+C3A  ? HEC ? ? ? ? 462 C  
+C4A  ? HEC ? ? ? ? 463 C  
+CMA  ? HEC ? ? ? ? 464 C  
+CAA  ? HEC ? ? ? ? 465 C  
+CBA  ? HEC ? ? ? ? 466 C  
+CGA  ? HEC ? ? ? ? 467 C  
+O1A  ? HEC ? ? ? ? 468 O  
+O2A  ? HEC ? ? ? ? 469 O  
+NB   ? HEC ? ? ? ? 470 N  
+C1B  ? HEC ? ? ? ? 471 C  
+C2B  ? HEC ? ? ? ? 472 C  
+C3B  ? HEC ? ? ? ? 473 C  
+C4B  ? HEC ? ? ? ? 474 C  
+CMB  ? HEC ? ? ? ? 475 C  
+CAB  ? HEC ? ? ? ? 476 C  
+CBB  ? HEC ? ? ? ? 477 C  
+NC   ? HEC ? ? ? ? 478 N  
+C1C  ? HEC ? ? ? ? 479 C  
+C2C  ? HEC ? ? ? ? 480 C  
+C3C  ? HEC ? ? ? ? 481 C  
+C4C  ? HEC ? ? ? ? 482 C  
+CMC  ? HEC ? ? ? ? 483 C  
+CAC  ? HEC ? ? ? ? 484 C  
+CBC  ? HEC ? ? ? ? 485 C  
+ND   ? HEC ? ? ? ? 486 N  
+C1D  ? HEC ? ? ? ? 487 C  
+C2D  ? HEC ? ? ? ? 488 C  
+C3D  ? HEC ? ? ? ? 489 C  
+C4D  ? HEC ? ? ? ? 490 C  
+CMD  ? HEC ? ? ? ? 491 C  
+CAD  ? HEC ? ? ? ? 492 C  
+CBD  ? HEC ? ? ? ? 493 C  
+CGD  ? HEC ? ? ? ? 494 C  
+O1D  ? HEC ? ? ? ? 495 O  
+O2D  ? HEC ? ? ? ? 496 O  
+HHA  ? HEC ? ? ? ? 497 H  
+HHB  ? HEC ? ? ? ? 498 H  
+HHC  ? HEC ? ? ? ? 499 H  
+HHD  ? HEC ? ? ? ? 500 H  
+HMA1 ? HEC ? ? ? ? 501 H  
+HMA2 ? HEC ? ? ? ? 502 H  
+HMA3 ? HEC ? ? ? ? 503 H  
+HAA1 ? HEC ? ? ? ? 504 H  
+HAA2 ? HEC ? ? ? ? 505 H  
+HBA1 ? HEC ? ? ? ? 506 H  
+HBA2 ? HEC ? ? ? ? 507 H  
+H2A  ? HEC ? ? ? ? 508 H  
+HMB1 ? HEC ? ? ? ? 509 H  
+HMB2 ? HEC ? ? ? ? 510 H  
+HMB3 ? HEC ? ? ? ? 511 H  
+HAB  ? HEC ? ? ? ? 512 H  
+HBB1 ? HEC ? ? ? ? 513 H  
+HBB2 ? HEC ? ? ? ? 514 H  
+HBB3 ? HEC ? ? ? ? 515 H  
+HMC1 ? HEC ? ? ? ? 516 H  
+HMC2 ? HEC ? ? ? ? 517 H  
+HMC3 ? HEC ? ? ? ? 518 H  
+HAC  ? HEC ? ? ? ? 519 H  
+HBC1 ? HEC ? ? ? ? 520 H  
+HBC2 ? HEC ? ? ? ? 521 H  
+HBC3 ? HEC ? ? ? ? 522 H  
+HMD1 ? HEC ? ? ? ? 523 H  
+HMD2 ? HEC ? ? ? ? 524 H  
+HMD3 ? HEC ? ? ? ? 525 H  
+HAD1 ? HEC ? ? ? ? 526 H  
+HAD2 ? HEC ? ? ? ? 527 H  
+HBD1 ? HEC ? ? ? ? 528 H  
+HBD2 ? HEC ? ? ? ? 529 H  
+H2D  ? HEC ? ? ? ? 530 H  
+CHA  ? HEM ? ? ? ? 531 C  
+CHB  ? HEM ? ? ? ? 532 C  
+CHC  ? HEM ? ? ? ? 533 C  
+CHD  ? HEM ? ? ? ? 534 C  
+C1A  ? HEM ? ? ? ? 535 C  
+C2A  ? HEM ? ? ? ? 536 C  
+C3A  ? HEM ? ? ? ? 537 C  
+C4A  ? HEM ? ? ? ? 538 C  
+CMA  ? HEM ? ? ? ? 539 C  
+CAA  ? HEM ? ? ? ? 540 C  
+CBA  ? HEM ? ? ? ? 541 C  
+CGA  ? HEM ? ? ? ? 542 C  
+O1A  ? HEM ? ? ? ? 543 O  
+O2A  ? HEM ? ? ? ? 544 O  
+C1B  ? HEM ? ? ? ? 545 C  
+C2B  ? HEM ? ? ? ? 546 C  
+C3B  ? HEM ? ? ? ? 547 C  
+C4B  ? HEM ? ? ? ? 548 C  
+CMB  ? HEM ? ? ? ? 549 C  
+CAB  ? HEM ? ? ? ? 550 C  
+CBB  ? HEM ? ? ? ? 551 C  
+C1C  ? HEM ? ? ? ? 552 C  
+C2C  ? HEM ? ? ? ? 553 C  
+C3C  ? HEM ? ? ? ? 554 C  
+C4C  ? HEM ? ? ? ? 555 C  
+CMC  ? HEM ? ? ? ? 556 C  
+CAC  ? HEM ? ? ? ? 557 C  
+CBC  ? HEM ? ? ? ? 558 C  
+C1D  ? HEM ? ? ? ? 559 C  
+C2D  ? HEM ? ? ? ? 560 C  
+C3D  ? HEM ? ? ? ? 561 C  
+C4D  ? HEM ? ? ? ? 562 C  
+CMD  ? HEM ? ? ? ? 563 C  
+CAD  ? HEM ? ? ? ? 564 C  
+CBD  ? HEM ? ? ? ? 565 C  
+CGD  ? HEM ? ? ? ? 566 C  
+O1D  ? HEM ? ? ? ? 567 O  
+O2D  ? HEM ? ? ? ? 568 O  
+NA   ? HEM ? ? ? ? 569 N  
+NB   ? HEM ? ? ? ? 570 N  
+NC   ? HEM ? ? ? ? 571 N  
+ND   ? HEM ? ? ? ? 572 N  
+FE   ? HEM ? ? ? ? 573 FE 
+HHB  ? HEM ? ? ? ? 574 H  
+HHC  ? HEM ? ? ? ? 575 H  
+HHD  ? HEM ? ? ? ? 576 H  
+HMA  ? HEM ? ? ? ? 577 H  
+HMAA ? HEM ? ? ? ? 578 H  
+HMAB ? HEM ? ? ? ? 579 H  
+HAA  ? HEM ? ? ? ? 580 H  
+HAAA ? HEM ? ? ? ? 581 H  
+HBA  ? HEM ? ? ? ? 582 H  
+HBAA ? HEM ? ? ? ? 583 H  
+HMB  ? HEM ? ? ? ? 584 H  
+HMBA ? HEM ? ? ? ? 585 H  
+HMBB ? HEM ? ? ? ? 586 H  
+HAB  ? HEM ? ? ? ? 587 H  
+HBB  ? HEM ? ? ? ? 588 H  
+HBBA ? HEM ? ? ? ? 589 H  
+HMC  ? HEM ? ? ? ? 590 H  
+HMCA ? HEM ? ? ? ? 591 H  
+HMCB ? HEM ? ? ? ? 592 H  
+HAC  ? HEM ? ? ? ? 593 H  
+HBC  ? HEM ? ? ? ? 594 H  
+HBCA ? HEM ? ? ? ? 595 H  
+HMD  ? HEM ? ? ? ? 596 H  
+HMDA ? HEM ? ? ? ? 597 H  
+HMDB ? HEM ? ? ? ? 598 H  
+HAD  ? HEM ? ? ? ? 599 H  
+HADA ? HEM ? ? ? ? 600 H  
+HBD  ? HEM ? ? ? ? 601 H  
+HBDA ? HEM ? ? ? ? 602 H  
+H2A  ? HEM ? ? ? ? 603 H  
+H2D  ? HEM ? ? ? ? 604 H  
+HHA  ? HEM ? ? ? ? 605 H  
+N    ? HIS ? ? ? ? 606 N  
+CA   ? HIS ? ? ? ? 607 C  
+C    ? HIS ? ? ? ? 608 C  
+O    ? HIS ? ? ? ? 609 O  
+CB   ? HIS ? ? ? ? 610 C  
+CG   ? HIS ? ? ? ? 611 C  
+ND1  ? HIS ? ? ? ? 612 N  
+CD2  ? HIS ? ? ? ? 613 C  
+CE1  ? HIS ? ? ? ? 614 C  
+NE2  ? HIS ? ? ? ? 615 N  
+OXT  ? HIS ? ? ? ? 616 O  
+H    ? HIS ? ? ? ? 617 H  
+H2   ? HIS ? ? ? ? 618 H  
+HA   ? HIS ? ? ? ? 619 H  
+HB2  ? HIS ? ? ? ? 620 H  
+HB3  ? HIS ? ? ? ? 621 H  
+HD1  ? HIS ? ? ? ? 622 H  
+HD2  ? HIS ? ? ? ? 623 H  
+HE1  ? HIS ? ? ? ? 624 H  
+HE2  ? HIS ? ? ? ? 625 H  
+HXT  ? HIS ? ? ? ? 626 H  
+N    ? ILE ? ? ? ? 627 N  
+CA   ? ILE ? ? ? ? 628 C  
+C    ? ILE ? ? ? ? 629 C  
+O    ? ILE ? ? ? ? 630 O  
+CB   ? ILE ? ? ? ? 631 C  
+CG1  ? ILE ? ? ? ? 632 C  
+CG2  ? ILE ? ? ? ? 633 C  
+CD1  ? ILE ? ? ? ? 634 C  
+OXT  ? ILE ? ? ? ? 635 O  
+H    ? ILE ? ? ? ? 636 H  
+H2   ? ILE ? ? ? ? 637 H  
+HA   ? ILE ? ? ? ? 638 H  
+HB   ? ILE ? ? ? ? 639 H  
+HG12 ? ILE ? ? ? ? 640 H  
+HG13 ? ILE ? ? ? ? 641 H  
+HG21 ? ILE ? ? ? ? 642 H  
+HG22 ? ILE ? ? ? ? 643 H  
+HG23 ? ILE ? ? ? ? 644 H  
+HD11 ? ILE ? ? ? ? 645 H  
+HD12 ? ILE ? ? ? ? 646 H  
+HD13 ? ILE ? ? ? ? 647 H  
+HXT  ? ILE ? ? ? ? 648 H  
+N    ? LEU ? ? ? ? 649 N  
+CA   ? LEU ? ? ? ? 650 C  
+C    ? LEU ? ? ? ? 651 C  
+O    ? LEU ? ? ? ? 652 O  
+CB   ? LEU ? ? ? ? 653 C  
+CG   ? LEU ? ? ? ? 654 C  
+CD1  ? LEU ? ? ? ? 655 C  
+CD2  ? LEU ? ? ? ? 656 C  
+OXT  ? LEU ? ? ? ? 657 O  
+H    ? LEU ? ? ? ? 658 H  
+H2   ? LEU ? ? ? ? 659 H  
+HA   ? LEU ? ? ? ? 660 H  
+HB2  ? LEU ? ? ? ? 661 H  
+HB3  ? LEU ? ? ? ? 662 H  
+HG   ? LEU ? ? ? ? 663 H  
+HD11 ? LEU ? ? ? ? 664 H  
+HD12 ? LEU ? ? ? ? 665 H  
+HD13 ? LEU ? ? ? ? 666 H  
+HD21 ? LEU ? ? ? ? 667 H  
+HD22 ? LEU ? ? ? ? 668 H  
+HD23 ? LEU ? ? ? ? 669 H  
+HXT  ? LEU ? ? ? ? 670 H  
+N    ? LYS ? ? ? ? 671 N  
+CA   ? LYS ? ? ? ? 672 C  
+C    ? LYS ? ? ? ? 673 C  
+O    ? LYS ? ? ? ? 674 O  
+CB   ? LYS ? ? ? ? 675 C  
+CG   ? LYS ? ? ? ? 676 C  
+CD   ? LYS ? ? ? ? 677 C  
+CE   ? LYS ? ? ? ? 678 C  
+NZ   ? LYS ? ? ? ? 679 N  
+OXT  ? LYS ? ? ? ? 680 O  
+H    ? LYS ? ? ? ? 681 H  
+H2   ? LYS ? ? ? ? 682 H  
+HA   ? LYS ? ? ? ? 683 H  
+HB2  ? LYS ? ? ? ? 684 H  
+HB3  ? LYS ? ? ? ? 685 H  
+HG2  ? LYS ? ? ? ? 686 H  
+HG3  ? LYS ? ? ? ? 687 H  
+HD2  ? LYS ? ? ? ? 688 H  
+HD3  ? LYS ? ? ? ? 689 H  
+HE2  ? LYS ? ? ? ? 690 H  
+HE3  ? LYS ? ? ? ? 691 H  
+HZ1  ? LYS ? ? ? ? 692 H  
+HZ2  ? LYS ? ? ? ? 693 H  
+HZ3  ? LYS ? ? ? ? 694 H  
+HXT  ? LYS ? ? ? ? 695 H  
+N    ? MET ? ? ? ? 696 N  
+CA   ? MET ? ? ? ? 697 C  
+C    ? MET ? ? ? ? 698 C  
+O    ? MET ? ? ? ? 699 O  
+CB   ? MET ? ? ? ? 700 C  
+CG   ? MET ? ? ? ? 701 C  
+SD   ? MET ? ? ? ? 702 S  
+CE   ? MET ? ? ? ? 703 C  
+OXT  ? MET ? ? ? ? 704 O  
+H    ? MET ? ? ? ? 705 H  
+H2   ? MET ? ? ? ? 706 H  
+HA   ? MET ? ? ? ? 707 H  
+HB2  ? MET ? ? ? ? 708 H  
+HB3  ? MET ? ? ? ? 709 H  
+HG2  ? MET ? ? ? ? 710 H  
+HG3  ? MET ? ? ? ? 711 H  
+HE1  ? MET ? ? ? ? 712 H  
+HE2  ? MET ? ? ? ? 713 H  
+HE3  ? MET ? ? ? ? 714 H  
+HXT  ? MET ? ? ? ? 715 H  
+C27  ? PEE ? ? ? ? 716 C  
+C26  ? PEE ? ? ? ? 717 C  
+C25  ? PEE ? ? ? ? 718 C  
+C24  ? PEE ? ? ? ? 719 C  
+C23  ? PEE ? ? ? ? 720 C  
+C22  ? PEE ? ? ? ? 721 C  
+C21  ? PEE ? ? ? ? 722 C  
+C20  ? PEE ? ? ? ? 723 C  
+C19  ? PEE ? ? ? ? 724 C  
+C18  ? PEE ? ? ? ? 725 C  
+C17  ? PEE ? ? ? ? 726 C  
+C16  ? PEE ? ? ? ? 727 C  
+C15  ? PEE ? ? ? ? 728 C  
+C14  ? PEE ? ? ? ? 729 C  
+C13  ? PEE ? ? ? ? 730 C  
+C12  ? PEE ? ? ? ? 731 C  
+C11  ? PEE ? ? ? ? 732 C  
+C10  ? PEE ? ? ? ? 733 C  
+O4   ? PEE ? ? ? ? 734 O  
+O2   ? PEE ? ? ? ? 735 O  
+C2   ? PEE ? ? ? ? 736 C  
+C1   ? PEE ? ? ? ? 737 C  
+O3P  ? PEE ? ? ? ? 738 O  
+P    ? PEE ? ? ? ? 739 P  
+O2P  ? PEE ? ? ? ? 740 O  
+O1P  ? PEE ? ? ? ? 741 O  
+O4P  ? PEE ? ? ? ? 742 O  
+C4   ? PEE ? ? ? ? 743 C  
+C5   ? PEE ? ? ? ? 744 C  
+N    ? PEE ? ? ? ? 745 N  
+C3   ? PEE ? ? ? ? 746 C  
+O3   ? PEE ? ? ? ? 747 O  
+C30  ? PEE ? ? ? ? 748 C  
+O5   ? PEE ? ? ? ? 749 O  
+C31  ? PEE ? ? ? ? 750 C  
+C32  ? PEE ? ? ? ? 751 C  
+C33  ? PEE ? ? ? ? 752 C  
+C34  ? PEE ? ? ? ? 753 C  
+C35  ? PEE ? ? ? ? 754 C  
+C36  ? PEE ? ? ? ? 755 C  
+C37  ? PEE ? ? ? ? 756 C  
+C38  ? PEE ? ? ? ? 757 C  
+C39  ? PEE ? ? ? ? 758 C  
+C40  ? PEE ? ? ? ? 759 C  
+C41  ? PEE ? ? ? ? 760 C  
+C42  ? PEE ? ? ? ? 761 C  
+C43  ? PEE ? ? ? ? 762 C  
+C44  ? PEE ? ? ? ? 763 C  
+C45  ? PEE ? ? ? ? 764 C  
+C46  ? PEE ? ? ? ? 765 C  
+C47  ? PEE ? ? ? ? 766 C  
+H7   ? PEE ? ? ? ? 767 H  
+H8   ? PEE ? ? ? ? 768 H  
+H82  ? PEE ? ? ? ? 769 H  
+H5   ? PEE ? ? ? ? 770 H  
+H6   ? PEE ? ? ? ? 771 H  
+H12  ? PEE ? ? ? ? 772 H  
+H4   ? PEE ? ? ? ? 773 H  
+H10  ? PEE ? ? ? ? 774 H  
+H11  ? PEE ? ? ? ? 775 H  
+H83  ? PEE ? ? ? ? 776 H  
+H9   ? PEE ? ? ? ? 777 H  
+H2   ? PEE ? ? ? ? 778 H  
+H3   ? PEE ? ? ? ? 779 H  
+H14  ? PEE ? ? ? ? 780 H  
+H1   ? PEE ? ? ? ? 781 H  
+H16  ? PEE ? ? ? ? 782 H  
+H13  ? PEE ? ? ? ? 783 H  
+H18  ? PEE ? ? ? ? 784 H  
+H20  ? PEE ? ? ? ? 785 H  
+H22  ? PEE ? ? ? ? 786 H  
+H19  ? PEE ? ? ? ? 787 H  
+H21  ? PEE ? ? ? ? 788 H  
+H28  ? PEE ? ? ? ? 789 H  
+H23  ? PEE ? ? ? ? 790 H  
+H24  ? PEE ? ? ? ? 791 H  
+H25  ? PEE ? ? ? ? 792 H  
+H26  ? PEE ? ? ? ? 793 H  
+H17  ? PEE ? ? ? ? 794 H  
+H27  ? PEE ? ? ? ? 795 H  
+H15  ? PEE ? ? ? ? 796 H  
+H29  ? PEE ? ? ? ? 797 H  
+H30  ? PEE ? ? ? ? 798 H  
+H31  ? PEE ? ? ? ? 799 H  
+H32  ? PEE ? ? ? ? 800 H  
+H33  ? PEE ? ? ? ? 801 H  
+H34  ? PEE ? ? ? ? 802 H  
+H35  ? PEE ? ? ? ? 803 H  
+H36  ? PEE ? ? ? ? 804 H  
+H37  ? PEE ? ? ? ? 805 H  
+H38  ? PEE ? ? ? ? 806 H  
+H39  ? PEE ? ? ? ? 807 H  
+H40  ? PEE ? ? ? ? 808 H  
+H41  ? PEE ? ? ? ? 809 H  
+H43  ? PEE ? ? ? ? 810 H  
+H44  ? PEE ? ? ? ? 811 H  
+H45  ? PEE ? ? ? ? 812 H  
+H46  ? PEE ? ? ? ? 813 H  
+H47  ? PEE ? ? ? ? 814 H  
+H48  ? PEE ? ? ? ? 815 H  
+H49  ? PEE ? ? ? ? 816 H  
+H50  ? PEE ? ? ? ? 817 H  
+H51  ? PEE ? ? ? ? 818 H  
+H52  ? PEE ? ? ? ? 819 H  
+H53  ? PEE ? ? ? ? 820 H  
+H54  ? PEE ? ? ? ? 821 H  
+H55  ? PEE ? ? ? ? 822 H  
+H56  ? PEE ? ? ? ? 823 H  
+H57  ? PEE ? ? ? ? 824 H  
+H58  ? PEE ? ? ? ? 825 H  
+H59  ? PEE ? ? ? ? 826 H  
+H60  ? PEE ? ? ? ? 827 H  
+H81  ? PEE ? ? ? ? 828 H  
+H61  ? PEE ? ? ? ? 829 H  
+H80  ? PEE ? ? ? ? 830 H  
+H62  ? PEE ? ? ? ? 831 H  
+H63  ? PEE ? ? ? ? 832 H  
+H64  ? PEE ? ? ? ? 833 H  
+H65  ? PEE ? ? ? ? 834 H  
+H66  ? PEE ? ? ? ? 835 H  
+H67  ? PEE ? ? ? ? 836 H  
+H68  ? PEE ? ? ? ? 837 H  
+H69  ? PEE ? ? ? ? 838 H  
+H70  ? PEE ? ? ? ? 839 H  
+H71  ? PEE ? ? ? ? 840 H  
+H72  ? PEE ? ? ? ? 841 H  
+H73  ? PEE ? ? ? ? 842 H  
+H74  ? PEE ? ? ? ? 843 H  
+H75  ? PEE ? ? ? ? 844 H  
+N    ? PHE ? ? ? ? 845 N  
+CA   ? PHE ? ? ? ? 846 C  
+C    ? PHE ? ? ? ? 847 C  
+O    ? PHE ? ? ? ? 848 O  
+CB   ? PHE ? ? ? ? 849 C  
+CG   ? PHE ? ? ? ? 850 C  
+CD1  ? PHE ? ? ? ? 851 C  
+CD2  ? PHE ? ? ? ? 852 C  
+CE1  ? PHE ? ? ? ? 853 C  
+CE2  ? PHE ? ? ? ? 854 C  
+CZ   ? PHE ? ? ? ? 855 C  
+OXT  ? PHE ? ? ? ? 856 O  
+H    ? PHE ? ? ? ? 857 H  
+H2   ? PHE ? ? ? ? 858 H  
+HA   ? PHE ? ? ? ? 859 H  
+HB2  ? PHE ? ? ? ? 860 H  
+HB3  ? PHE ? ? ? ? 861 H  
+HD1  ? PHE ? ? ? ? 862 H  
+HD2  ? PHE ? ? ? ? 863 H  
+HE1  ? PHE ? ? ? ? 864 H  
+HE2  ? PHE ? ? ? ? 865 H  
+HZ   ? PHE ? ? ? ? 866 H  
+HXT  ? PHE ? ? ? ? 867 H  
+P    ? PO4 ? ? ? ? 868 P  
+O1   ? PO4 ? ? ? ? 869 O  
+O2   ? PO4 ? ? ? ? 870 O  
+O3   ? PO4 ? ? ? ? 871 O  
+O4   ? PO4 ? ? ? ? 872 O  
+N    ? PRO ? ? ? ? 873 N  
+CA   ? PRO ? ? ? ? 874 C  
+C    ? PRO ? ? ? ? 875 C  
+O    ? PRO ? ? ? ? 876 O  
+CB   ? PRO ? ? ? ? 877 C  
+CG   ? PRO ? ? ? ? 878 C  
+CD   ? PRO ? ? ? ? 879 C  
+OXT  ? PRO ? ? ? ? 880 O  
+H    ? PRO ? ? ? ? 881 H  
+HA   ? PRO ? ? ? ? 882 H  
+HB2  ? PRO ? ? ? ? 883 H  
+HB3  ? PRO ? ? ? ? 884 H  
+HG2  ? PRO ? ? ? ? 885 H  
+HG3  ? PRO ? ? ? ? 886 H  
+HD2  ? PRO ? ? ? ? 887 H  
+HD3  ? PRO ? ? ? ? 888 H  
+HXT  ? PRO ? ? ? ? 889 H  
+N    ? SER ? ? ? ? 890 N  
+CA   ? SER ? ? ? ? 891 C  
+C    ? SER ? ? ? ? 892 C  
+O    ? SER ? ? ? ? 893 O  
+CB   ? SER ? ? ? ? 894 C  
+OG   ? SER ? ? ? ? 895 O  
+OXT  ? SER ? ? ? ? 896 O  
+H    ? SER ? ? ? ? 897 H  
+H2   ? SER ? ? ? ? 898 H  
+HA   ? SER ? ? ? ? 899 H  
+HB2  ? SER ? ? ? ? 900 H  
+HB3  ? SER ? ? ? ? 901 H  
+HG   ? SER ? ? ? ? 902 H  
+HXT  ? SER ? ? ? ? 903 H  
+N    ? THR ? ? ? ? 904 N  
+CA   ? THR ? ? ? ? 905 C  
+C    ? THR ? ? ? ? 906 C  
+O    ? THR ? ? ? ? 907 O  
+CB   ? THR ? ? ? ? 908 C  
+OG1  ? THR ? ? ? ? 909 O  
+CG2  ? THR ? ? ? ? 910 C  
+OXT  ? THR ? ? ? ? 911 O  
+H    ? THR ? ? ? ? 912 H  
+H2   ? THR ? ? ? ? 913 H  
+HA   ? THR ? ? ? ? 914 H  
+HB   ? THR ? ? ? ? 915 H  
+HG1  ? THR ? ? ? ? 916 H  
+HG21 ? THR ? ? ? ? 917 H  
+HG22 ? THR ? ? ? ? 918 H  
+HG23 ? THR ? ? ? ? 919 H  
+HXT  ? THR ? ? ? ? 920 H  
+N    ? TRP ? ? ? ? 921 N  
+CA   ? TRP ? ? ? ? 922 C  
+C    ? TRP ? ? ? ? 923 C  
+O    ? TRP ? ? ? ? 924 O  
+CB   ? TRP ? ? ? ? 925 C  
+CG   ? TRP ? ? ? ? 926 C  
+CD1  ? TRP ? ? ? ? 927 C  
+CD2  ? TRP ? ? ? ? 928 C  
+NE1  ? TRP ? ? ? ? 929 N  
+CE2  ? TRP ? ? ? ? 930 C  
+CE3  ? TRP ? ? ? ? 931 C  
+CZ2  ? TRP ? ? ? ? 932 C  
+CZ3  ? TRP ? ? ? ? 933 C  
+CH2  ? TRP ? ? ? ? 934 C  
+OXT  ? TRP ? ? ? ? 935 O  
+H    ? TRP ? ? ? ? 936 H  
+H2   ? TRP ? ? ? ? 937 H  
+HA   ? TRP ? ? ? ? 938 H  
+HB2  ? TRP ? ? ? ? 939 H  
+HB3  ? TRP ? ? ? ? 940 H  
+HD1  ? TRP ? ? ? ? 941 H  
+HE1  ? TRP ? ? ? ? 942 H  
+HE3  ? TRP ? ? ? ? 943 H  
+HZ2  ? TRP ? ? ? ? 944 H  
+HZ3  ? TRP ? ? ? ? 945 H  
+HH2  ? TRP ? ? ? ? 946 H  
+HXT  ? TRP ? ? ? ? 947 H  
+N    ? TYR ? ? ? ? 948 N  
+CA   ? TYR ? ? ? ? 949 C  
+C    ? TYR ? ? ? ? 950 C  
+O    ? TYR ? ? ? ? 951 O  
+CB   ? TYR ? ? ? ? 952 C  
+CG   ? TYR ? ? ? ? 953 C  
+CD1  ? TYR ? ? ? ? 954 C  
+CD2  ? TYR ? ? ? ? 955 C  
+CE1  ? TYR ? ? ? ? 956 C  
+CE2  ? TYR ? ? ? ? 957 C  
+CZ   ? TYR ? ? ? ? 958 C  
+OH   ? TYR ? ? ? ? 959 O  
+OXT  ? TYR ? ? ? ? 960 O  
+H    ? TYR ? ? ? ? 961 H  
+H2   ? TYR ? ? ? ? 962 H  
+HA   ? TYR ? ? ? ? 963 H  
+HB2  ? TYR ? ? ? ? 964 H  
+HB3  ? TYR ? ? ? ? 965 H  
+HD1  ? TYR ? ? ? ? 966 H  
+HD2  ? TYR ? ? ? ? 967 H  
+HE1  ? TYR ? ? ? ? 968 H  
+HE2  ? TYR ? ? ? ? 969 H  
+HH   ? TYR ? ? ? ? 970 H  
+HXT  ? TYR ? ? ? ? 971 H  
+N    ? VAL ? ? ? ? 972 N  
+CA   ? VAL ? ? ? ? 973 C  
+C    ? VAL ? ? ? ? 974 C  
+O    ? VAL ? ? ? ? 975 O  
+CB   ? VAL ? ? ? ? 976 C  
+CG1  ? VAL ? ? ? ? 977 C  
+CG2  ? VAL ? ? ? ? 978 C  
+OXT  ? VAL ? ? ? ? 979 O  
+H    ? VAL ? ? ? ? 980 H  
+H2   ? VAL ? ? ? ? 981 H  
+HA   ? VAL ? ? ? ? 982 H  
+HB   ? VAL ? ? ? ? 983 H  
+HG11 ? VAL ? ? ? ? 984 H  
+HG12 ? VAL ? ? ? ? 985 H  
+HG13 ? VAL ? ? ? ? 986 H  
+HG21 ? VAL ? ? ? ? 987 H  
+HG22 ? VAL ? ? ? ? 988 H  
+HG23 ? VAL ? ? ? ? 989 H  
+HXT  ? VAL ? ? ? ? 990 H  
+#
+loop_
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.comp_id
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.value_order
+C1  O3   4X9 N N sing 
+C1  F23  4X9 N N sing 
+C1  F24  4X9 N N sing 
+C1  F25  4X9 N N sing 
+O3  C4   4X9 N N sing 
+C4  C5   4X9 Y N doub 
+C4  C9   4X9 Y N sing 
+C5  C6   4X9 Y N sing 
+C6  C7   4X9 Y N doub 
+C7  C8   4X9 Y N sing 
+C7  O10  4X9 N N sing 
+C8  C9   4X9 Y N doub 
+O10 C11  4X9 N N sing 
+C11 C12  4X9 Y N doub 
+C11 C16  4X9 Y N sing 
+C12 C13  4X9 Y N sing 
+C13 C14  4X9 Y N doub 
+C14 C15  4X9 Y N sing 
+C14 C17  4X9 N N sing 
+C15 C16  4X9 Y N doub 
+C17 C18  4X9 Y N doub 
+C17 C22  4X9 Y N sing 
+C18 C19  4X9 Y N sing 
+C18 O28  4X9 N N sing 
+C19 C20  4X9 Y N doub 
+C19 CL   4X9 N N sing 
+C20 C26  4X9 N N sing 
+C20 N30  4X9 Y N sing 
+C22 C29  4X9 N N sing 
+C22 N30  4X9 Y N doub 
+C5  H5   4X9 N N sing 
+C6  H6   4X9 N N sing 
+C8  H8   4X9 N N sing 
+C9  H9   4X9 N N sing 
+C12 H12  4X9 N N sing 
+C13 H13  4X9 N N sing 
+C15 H15  4X9 N N sing 
+C16 H16  4X9 N N sing 
+C26 H26  4X9 N N sing 
+C26 H26A 4X9 N N sing 
+C26 H26B 4X9 N N sing 
+O28 HO28 4X9 N N sing 
+C29 H29  4X9 N N sing 
+C29 H29A 4X9 N N sing 
+C29 H29B 4X9 N N sing 
+N   CA   ALA N N sing 
+N   H    ALA N N sing 
+N   H2   ALA N N sing 
+CA  C    ALA N N sing 
+CA  CB   ALA N N sing 
+CA  HA   ALA N N sing 
+C   O    ALA N N doub 
+C   OXT  ALA N N sing 
+CB  HB1  ALA N N sing 
+CB  HB2  ALA N N sing 
+CB  HB3  ALA N N sing 
+OXT HXT  ALA N N sing 
+N   CA   ARG N N sing 
+N   H    ARG N N sing 
+N   H2   ARG N N sing 
+CA  C    ARG N N sing 
+CA  CB   ARG N N sing 
+CA  HA   ARG N N sing 
+C   O    ARG N N doub 
+C   OXT  ARG N N sing 
+CB  CG   ARG N N sing 
+CB  HB2  ARG N N sing 
+CB  HB3  ARG N N sing 
+CG  CD   ARG N N sing 
+CG  HG2  ARG N N sing 
+CG  HG3  ARG N N sing 
+CD  NE   ARG N N sing 
+CD  HD2  ARG N N sing 
+CD  HD3  ARG N N sing 
+NE  CZ   ARG N N sing 
+NE  HE   ARG N N sing 
+CZ  NH1  ARG N N sing 
+CZ  NH2  ARG N N doub 
+NH1 HH11 ARG N N sing 
+NH1 HH12 ARG N N sing 
+NH2 HH21 ARG N N sing 
+NH2 HH22 ARG N N sing 
+OXT HXT  ARG N N sing 
+N   CA   ASN N N sing 
+N   H    ASN N N sing 
+N   H2   ASN N N sing 
+CA  C    ASN N N sing 
+CA  CB   ASN N N sing 
+CA  HA   ASN N N sing 
+C   O    ASN N N doub 
+C   OXT  ASN N N sing 
+CB  CG   ASN N N sing 
+CB  HB2  ASN N N sing 
+CB  HB3  ASN N N sing 
+CG  OD1  ASN N N doub 
+CG  ND2  ASN N N sing 
+ND2 HD21 ASN N N sing 
+ND2 HD22 ASN N N sing 
+OXT HXT  ASN N N sing 
+N   CA   ASP N N sing 
+N   H    ASP N N sing 
+N   H2   ASP N N sing 
+CA  C    ASP N N sing 
+CA  CB   ASP N N sing 
+CA  HA   ASP N N sing 
+C   O    ASP N N doub 
+C   OXT  ASP N N sing 
+CB  CG   ASP N N sing 
+CB  HB2  ASP N N sing 
+CB  HB3  ASP N N sing 
+CG  OD1  ASP N N doub 
+CG  OD2  ASP N N sing 
+OD2 HD2  ASP N N sing 
+OXT HXT  ASP N N sing 
+C1  O1   CDL N N sing 
+C1  CA2  CDL N N sing 
+C1  CB2  CDL N N sing 
+C1  H1   CDL N N sing 
+O1  H1O1 CDL N N sing 
+CA2 OA2  CDL N N sing 
+CA2 HA22 CDL N N sing 
+CA2 HA21 CDL N N sing 
+OA2 PA1  CDL N N sing 
+PA1 OA3  CDL N N doub 
+PA1 OA4  CDL N N sing 
+PA1 OA5  CDL N N sing 
+OA5 CA3  CDL N N sing 
+CA3 CA4  CDL N N sing 
+CA3 HA32 CDL N N sing 
+CA3 HA31 CDL N N sing 
+CA4 OA6  CDL N N sing 
+CA4 CA6  CDL N N sing 
+CA4 HA4  CDL N N sing 
+OA6 CA5  CDL N N sing 
+CA5 OA7  CDL N N doub 
+CA5 C11  CDL N N sing 
+C11 C12  CDL N N sing 
+C11 H112 CDL N N sing 
+C11 H111 CDL N N sing 
+C12 C13  CDL N N sing 
+C12 H122 CDL N N sing 
+C12 H121 CDL N N sing 
+C13 C14  CDL N N sing 
+C13 H132 CDL N N sing 
+C13 H131 CDL N N sing 
+C14 C15  CDL N N sing 
+C14 H142 CDL N N sing 
+C14 H141 CDL N N sing 
+C15 C16  CDL N N sing 
+C15 H152 CDL N N sing 
+C15 H151 CDL N N sing 
+C16 C17  CDL N N sing 
+C16 H162 CDL N N sing 
+C16 H161 CDL N N sing 
+C17 C18  CDL N N sing 
+C17 H172 CDL N N sing 
+C17 H171 CDL N N sing 
+C18 C19  CDL N N sing 
+C18 H182 CDL N N sing 
+C18 H181 CDL N N sing 
+C19 C20  CDL N N sing 
+C19 H192 CDL N N sing 
+C19 H191 CDL N N sing 
+C20 C21  CDL N N sing 
+C20 H202 CDL N N sing 
+C20 H201 CDL N N sing 
+C21 C22  CDL N N sing 
+C21 H212 CDL N N sing 
+C21 H211 CDL N N sing 
+C22 C23  CDL N N sing 
+C22 H222 CDL N N sing 
+C22 H221 CDL N N sing 
+C23 C24  CDL N N sing 
+C23 H232 CDL N N sing 
+C23 H231 CDL N N sing 
+C24 C25  CDL N N sing 
+C24 H242 CDL N N sing 
+C24 H241 CDL N N sing 
+C25 C26  CDL N N sing 
+C25 H252 CDL N N sing 
+C25 H251 CDL N N sing 
+C26 C27  CDL N N sing 
+C26 H262 CDL N N sing 
+C26 H261 CDL N N sing 
+C27 H273 CDL N N sing 
+C27 H272 CDL N N sing 
+C27 H271 CDL N N sing 
+CA6 OA8  CDL N N sing 
+CA6 HA62 CDL N N sing 
+CA6 HA61 CDL N N sing 
+OA8 CA7  CDL N N sing 
+CA7 OA9  CDL N N doub 
+CA7 C31  CDL N N sing 
+C31 C32  CDL N N sing 
+C31 H312 CDL N N sing 
+C31 H311 CDL N N sing 
+C32 C33  CDL N N sing 
+C32 H322 CDL N N sing 
+C32 H321 CDL N N sing 
+C33 C34  CDL N N sing 
+C33 H332 CDL N N sing 
+C33 H331 CDL N N sing 
+C34 C35  CDL N N sing 
+C34 H342 CDL N N sing 
+C34 H341 CDL N N sing 
+C35 C36  CDL N N sing 
+C35 H352 CDL N N sing 
+C35 H351 CDL N N sing 
+C36 C37  CDL N N sing 
+C36 H362 CDL N N sing 
+C36 H361 CDL N N sing 
+C37 C38  CDL N N sing 
+C37 H372 CDL N N sing 
+C37 H371 CDL N N sing 
+C38 C39  CDL N N sing 
+C38 H382 CDL N N sing 
+C38 H381 CDL N N sing 
+C39 C40  CDL N N sing 
+C39 H392 CDL N N sing 
+C39 H391 CDL N N sing 
+C40 C41  CDL N N sing 
+C40 H402 CDL N N sing 
+C40 H401 CDL N N sing 
+C41 C42  CDL N N sing 
+C41 H412 CDL N N sing 
+C41 H411 CDL N N sing 
+C42 C43  CDL N N sing 
+C42 H422 CDL N N sing 
+C42 H421 CDL N N sing 
+C43 C44  CDL N N sing 
+C43 H432 CDL N N sing 
+C43 H431 CDL N N sing 
+C44 C45  CDL N N sing 
+C44 H442 CDL N N sing 
+C44 H441 CDL N N sing 
+C45 C46  CDL N N sing 
+C45 H452 CDL N N sing 
+C45 H451 CDL N N sing 
+C46 C47  CDL N N sing 
+C46 H462 CDL N N sing 
+C46 H461 CDL N N sing 
+C47 H473 CDL N N sing 
+C47 H472 CDL N N sing 
+C47 H471 CDL N N sing 
+CB2 OB2  CDL N N sing 
+CB2 HB22 CDL N N sing 
+CB2 HB21 CDL N N sing 
+OB2 PB2  CDL N N sing 
+PB2 OB3  CDL N N doub 
+PB2 OB4  CDL N N sing 
+PB2 OB5  CDL N N sing 
+OB5 CB3  CDL N N sing 
+CB3 CB4  CDL N N sing 
+CB3 HB32 CDL N N sing 
+CB3 HB31 CDL N N sing 
+CB4 OB6  CDL N N sing 
+CB4 CB6  CDL N N sing 
+CB4 HB4  CDL N N sing 
+OB6 CB5  CDL N N sing 
+CB5 OB7  CDL N N doub 
+CB5 C51  CDL N N sing 
+C51 C52  CDL N N sing 
+C51 H512 CDL N N sing 
+C51 H511 CDL N N sing 
+C52 C53  CDL N N sing 
+C52 H522 CDL N N sing 
+C52 H521 CDL N N sing 
+C53 C54  CDL N N sing 
+C53 H532 CDL N N sing 
+C53 H531 CDL N N sing 
+C54 C55  CDL N N sing 
+C54 H542 CDL N N sing 
+C54 H541 CDL N N sing 
+C55 C56  CDL N N sing 
+C55 H552 CDL N N sing 
+C55 H551 CDL N N sing 
+C56 C57  CDL N N sing 
+C56 H562 CDL N N sing 
+C56 H561 CDL N N sing 
+C57 C58  CDL N N sing 
+C57 H572 CDL N N sing 
+C57 H571 CDL N N sing 
+C58 C59  CDL N N sing 
+C58 H582 CDL N N sing 
+C58 H581 CDL N N sing 
+C59 C60  CDL N N sing 
+C59 H592 CDL N N sing 
+C59 H591 CDL N N sing 
+C60 C61  CDL N N sing 
+C60 H602 CDL N N sing 
+C60 H601 CDL N N sing 
+C61 C62  CDL N N sing 
+C61 H612 CDL N N sing 
+C61 H611 CDL N N sing 
+C62 C63  CDL N N sing 
+C62 H622 CDL N N sing 
+C62 H621 CDL N N sing 
+C63 C64  CDL N N sing 
+C63 H632 CDL N N sing 
+C63 H631 CDL N N sing 
+C64 C65  CDL N N sing 
+C64 H642 CDL N N sing 
+C64 H641 CDL N N sing 
+C65 C66  CDL N N sing 
+C65 H652 CDL N N sing 
+C65 H651 CDL N N sing 
+C66 C67  CDL N N sing 
+C66 H662 CDL N N sing 
+C66 H661 CDL N N sing 
+C67 H673 CDL N N sing 
+C67 H672 CDL N N sing 
+C67 H671 CDL N N sing 
+CB6 OB8  CDL N N sing 
+CB6 HB62 CDL N N sing 
+CB6 HB61 CDL N N sing 
+OB8 CB7  CDL N N sing 
+CB7 OB9  CDL N N doub 
+CB7 C71  CDL N N sing 
+C71 C72  CDL N N sing 
+C71 H712 CDL N N sing 
+C71 H711 CDL N N sing 
+C72 C73  CDL N N sing 
+C72 H722 CDL N N sing 
+C72 H721 CDL N N sing 
+C73 C74  CDL N N sing 
+C73 H732 CDL N N sing 
+C73 H731 CDL N N sing 
+C74 C75  CDL N N sing 
+C74 H742 CDL N N sing 
+C74 H741 CDL N N sing 
+C75 C76  CDL N N sing 
+C75 H752 CDL N N sing 
+C75 H751 CDL N N sing 
+C76 C77  CDL N N sing 
+C76 H762 CDL N N sing 
+C76 H761 CDL N N sing 
+C77 C78  CDL N N sing 
+C77 H772 CDL N N sing 
+C77 H771 CDL N N sing 
+C78 C79  CDL N N sing 
+C78 H782 CDL N N sing 
+C78 H781 CDL N N sing 
+C79 C80  CDL N N sing 
+C79 H792 CDL N N sing 
+C79 H791 CDL N N sing 
+C80 C81  CDL N N sing 
+C80 H802 CDL N N sing 
+C80 H801 CDL N N sing 
+C81 C82  CDL N N sing 
+C81 H812 CDL N N sing 
+C81 H811 CDL N N sing 
+C82 C83  CDL N N sing 
+C82 H822 CDL N N sing 
+C82 H821 CDL N N sing 
+C83 C84  CDL N N sing 
+C83 H832 CDL N N sing 
+C83 H831 CDL N N sing 
+C84 C85  CDL N N sing 
+C84 H842 CDL N N sing 
+C84 H841 CDL N N sing 
+C85 C86  CDL N N sing 
+C85 H852 CDL N N sing 
+C85 H851 CDL N N sing 
+C86 C87  CDL N N sing 
+C86 H862 CDL N N sing 
+C86 H861 CDL N N sing 
+C87 H873 CDL N N sing 
+C87 H872 CDL N N sing 
+C87 H871 CDL N N sing 
+N   CA   CYS N N sing 
+N   H    CYS N N sing 
+N   H2   CYS N N sing 
+CA  C    CYS N N sing 
+CA  CB   CYS N N sing 
+CA  HA   CYS N N sing 
+C   O    CYS N N doub 
+C   OXT  CYS N N sing 
+CB  SG   CYS N N sing 
+CB  HB2  CYS N N sing 
+CB  HB3  CYS N N sing 
+SG  HG   CYS N N sing 
+OXT HXT  CYS N N sing 
+FE1 S1   FES N N sing 
+FE1 S2   FES N N sing 
+FE2 S1   FES N N sing 
+FE2 S2   FES N N sing 
+N   CA   GLN N N sing 
+N   H    GLN N N sing 
+N   H2   GLN N N sing 
+CA  C    GLN N N sing 
+CA  CB   GLN N N sing 
+CA  HA   GLN N N sing 
+C   O    GLN N N doub 
+C   OXT  GLN N N sing 
+CB  CG   GLN N N sing 
+CB  HB2  GLN N N sing 
+CB  HB3  GLN N N sing 
+CG  CD   GLN N N sing 
+CG  HG2  GLN N N sing 
+CG  HG3  GLN N N sing 
+CD  OE1  GLN N N doub 
+CD  NE2  GLN N N sing 
+NE2 HE21 GLN N N sing 
+NE2 HE22 GLN N N sing 
+OXT HXT  GLN N N sing 
+N   CA   GLU N N sing 
+N   H    GLU N N sing 
+N   H2   GLU N N sing 
+CA  C    GLU N N sing 
+CA  CB   GLU N N sing 
+CA  HA   GLU N N sing 
+C   O    GLU N N doub 
+C   OXT  GLU N N sing 
+CB  CG   GLU N N sing 
+CB  HB2  GLU N N sing 
+CB  HB3  GLU N N sing 
+CG  CD   GLU N N sing 
+CG  HG2  GLU N N sing 
+CG  HG3  GLU N N sing 
+CD  OE1  GLU N N doub 
+CD  OE2  GLU N N sing 
+OE2 HE2  GLU N N sing 
+OXT HXT  GLU N N sing 
+N   CA   GLY N N sing 
+N   H    GLY N N sing 
+N   H2   GLY N N sing 
+CA  C    GLY N N sing 
+CA  HA2  GLY N N sing 
+CA  HA3  GLY N N sing 
+C   O    GLY N N doub 
+C   OXT  GLY N N sing 
+OXT HXT  GLY N N sing 
+C1  O1   GOL N N sing 
+C1  C2   GOL N N sing 
+C1  H11  GOL N N sing 
+C1  H12  GOL N N sing 
+O1  HO1  GOL N N sing 
+C2  O2   GOL N N sing 
+C2  C3   GOL N N sing 
+C2  H2   GOL N N sing 
+O2  HO2  GOL N N sing 
+C3  O3   GOL N N sing 
+C3  H31  GOL N N sing 
+C3  H32  GOL N N sing 
+O3  HO3  GOL N N sing 
+FE  NA   HEC N N sing 
+FE  NB   HEC N N sing 
+FE  NC   HEC N N sing 
+FE  ND   HEC N N sing 
+CHA C1A  HEC N N doub 
+CHA C4D  HEC N N sing 
+CHA HHA  HEC N N sing 
+CHB C4A  HEC N N doub 
+CHB C1B  HEC N N sing 
+CHB HHB  HEC N N sing 
+CHC C4B  HEC N N doub 
+CHC C1C  HEC N N sing 
+CHC HHC  HEC N N sing 
+CHD C4C  HEC N N doub 
+CHD C1D  HEC N N sing 
+CHD HHD  HEC N N sing 
+NA  C1A  HEC Y N sing 
+NA  C4A  HEC Y N sing 
+C1A C2A  HEC Y N sing 
+C2A C3A  HEC Y N doub 
+C2A CAA  HEC N N sing 
+C3A C4A  HEC Y N sing 
+C3A CMA  HEC N N sing 
+CMA HMA1 HEC N N sing 
+CMA HMA2 HEC N N sing 
+CMA HMA3 HEC N N sing 
+CAA CBA  HEC N N sing 
+CAA HAA1 HEC N N sing 
+CAA HAA2 HEC N N sing 
+CBA CGA  HEC N N sing 
+CBA HBA1 HEC N N sing 
+CBA HBA2 HEC N N sing 
+CGA O1A  HEC N N doub 
+CGA O2A  HEC N N sing 
+O2A H2A  HEC N N sing 
+NB  C1B  HEC Y N sing 
+NB  C4B  HEC Y N sing 
+C1B C2B  HEC Y N doub 
+C2B C3B  HEC Y N sing 
+C2B CMB  HEC N N sing 
+C3B C4B  HEC Y N sing 
+C3B CAB  HEC N E doub 
+CMB HMB1 HEC N N sing 
+CMB HMB2 HEC N N sing 
+CMB HMB3 HEC N N sing 
+CAB CBB  HEC N N sing 
+CAB HAB  HEC N N sing 
+CBB HBB1 HEC N N sing 
+CBB HBB2 HEC N N sing 
+CBB HBB3 HEC N N sing 
+NC  C1C  HEC Y N sing 
+NC  C4C  HEC Y N sing 
+C1C C2C  HEC Y N doub 
+C2C C3C  HEC Y N sing 
+C2C CMC  HEC N N sing 
+C3C C4C  HEC Y N sing 
+C3C CAC  HEC N E doub 
+CMC HMC1 HEC N N sing 
+CMC HMC2 HEC N N sing 
+CMC HMC3 HEC N N sing 
+CAC CBC  HEC N N sing 
+CAC HAC  HEC N N sing 
+CBC HBC1 HEC N N sing 
+CBC HBC2 HEC N N sing 
+CBC HBC3 HEC N N sing 
+ND  C1D  HEC Y N sing 
+ND  C4D  HEC Y N sing 
+C1D C2D  HEC Y N doub 
+C2D C3D  HEC Y N sing 
+C2D CMD  HEC N N sing 
+C3D C4D  HEC Y N doub 
+C3D CAD  HEC N N sing 
+CMD HMD1 HEC N N sing 
+CMD HMD2 HEC N N sing 
+CMD HMD3 HEC N N sing 
+CAD CBD  HEC N N sing 
+CAD HAD1 HEC N N sing 
+CAD HAD2 HEC N N sing 
+CBD CGD  HEC N N sing 
+CBD HBD1 HEC N N sing 
+CBD HBD2 HEC N N sing 
+CGD O1D  HEC N N doub 
+CGD O2D  HEC N N sing 
+O2D H2D  HEC N N sing 
+CHA C1A  HEM N N sing 
+CHA C4D  HEM N N doub 
+CHA HHA  HEM N N sing 
+CHB C4A  HEM N N sing 
+CHB C1B  HEM N N doub 
+CHB HHB  HEM N N sing 
+CHC C4B  HEM N N sing 
+CHC C1C  HEM N N doub 
+CHC HHC  HEM N N sing 
+CHD C4C  HEM N N doub 
+CHD C1D  HEM N N sing 
+CHD HHD  HEM N N sing 
+C1A C2A  HEM Y N doub 
+C1A NA   HEM Y N sing 
+C2A C3A  HEM Y N sing 
+C2A CAA  HEM N N sing 
+C3A C4A  HEM Y N doub 
+C3A CMA  HEM N N sing 
+C4A NA   HEM Y N sing 
+CMA HMA  HEM N N sing 
+CMA HMAA HEM N N sing 
+CMA HMAB HEM N N sing 
+CAA CBA  HEM N N sing 
+CAA HAA  HEM N N sing 
+CAA HAAA HEM N N sing 
+CBA CGA  HEM N N sing 
+CBA HBA  HEM N N sing 
+CBA HBAA HEM N N sing 
+CGA O1A  HEM N N doub 
+CGA O2A  HEM N N sing 
+C1B C2B  HEM N N sing 
+C1B NB   HEM N N sing 
+C2B C3B  HEM N N doub 
+C2B CMB  HEM N N sing 
+C3B C4B  HEM N N sing 
+C3B CAB  HEM N N sing 
+C4B NB   HEM N N doub 
+CMB HMB  HEM N N sing 
+CMB HMBA HEM N N sing 
+CMB HMBB HEM N N sing 
+CAB CBB  HEM N N doub 
+CAB HAB  HEM N N sing 
+CBB HBB  HEM N N sing 
+CBB HBBA HEM N N sing 
+C1C C2C  HEM Y N sing 
+C1C NC   HEM Y N sing 
+C2C C3C  HEM Y N doub 
+C2C CMC  HEM N N sing 
+C3C C4C  HEM Y N sing 
+C3C CAC  HEM N N sing 
+C4C NC   HEM Y N sing 
+CMC HMC  HEM N N sing 
+CMC HMCA HEM N N sing 
+CMC HMCB HEM N N sing 
+CAC CBC  HEM N N doub 
+CAC HAC  HEM N N sing 
+CBC HBC  HEM N N sing 
+CBC HBCA HEM N N sing 
+C1D C2D  HEM N N sing 
+C1D ND   HEM N N doub 
+C2D C3D  HEM N N doub 
+C2D CMD  HEM N N sing 
+C3D C4D  HEM N N sing 
+C3D CAD  HEM N N sing 
+C4D ND   HEM N N sing 
+CMD HMD  HEM N N sing 
+CMD HMDA HEM N N sing 
+CMD HMDB HEM N N sing 
+CAD CBD  HEM N N sing 
+CAD HAD  HEM N N sing 
+CAD HADA HEM N N sing 
+CBD CGD  HEM N N sing 
+CBD HBD  HEM N N sing 
+CBD HBDA HEM N N sing 
+CGD O1D  HEM N N doub 
+CGD O2D  HEM N N sing 
+O2A H2A  HEM N N sing 
+O2D H2D  HEM N N sing 
+FE  NA   HEM N N sing 
+FE  NB   HEM N N sing 
+FE  NC   HEM N N sing 
+FE  ND   HEM N N sing 
+N   CA   HIS N N sing 
+N   H    HIS N N sing 
+N   H2   HIS N N sing 
+CA  C    HIS N N sing 
+CA  CB   HIS N N sing 
+CA  HA   HIS N N sing 
+C   O    HIS N N doub 
+C   OXT  HIS N N sing 
+CB  CG   HIS N N sing 
+CB  HB2  HIS N N sing 
+CB  HB3  HIS N N sing 
+CG  ND1  HIS Y N sing 
+CG  CD2  HIS Y N doub 
+ND1 CE1  HIS Y N doub 
+ND1 HD1  HIS N N sing 
+CD2 NE2  HIS Y N sing 
+CD2 HD2  HIS N N sing 
+CE1 NE2  HIS Y N sing 
+CE1 HE1  HIS N N sing 
+NE2 HE2  HIS N N sing 
+OXT HXT  HIS N N sing 
+N   CA   ILE N N sing 
+N   H    ILE N N sing 
+N   H2   ILE N N sing 
+CA  C    ILE N N sing 
+CA  CB   ILE N N sing 
+CA  HA   ILE N N sing 
+C   O    ILE N N doub 
+C   OXT  ILE N N sing 
+CB  CG1  ILE N N sing 
+CB  CG2  ILE N N sing 
+CB  HB   ILE N N sing 
+CG1 CD1  ILE N N sing 
+CG1 HG12 ILE N N sing 
+CG1 HG13 ILE N N sing 
+CG2 HG21 ILE N N sing 
+CG2 HG22 ILE N N sing 
+CG2 HG23 ILE N N sing 
+CD1 HD11 ILE N N sing 
+CD1 HD12 ILE N N sing 
+CD1 HD13 ILE N N sing 
+OXT HXT  ILE N N sing 
+N   CA   LEU N N sing 
+N   H    LEU N N sing 
+N   H2   LEU N N sing 
+CA  C    LEU N N sing 
+CA  CB   LEU N N sing 
+CA  HA   LEU N N sing 
+C   O    LEU N N doub 
+C   OXT  LEU N N sing 
+CB  CG   LEU N N sing 
+CB  HB2  LEU N N sing 
+CB  HB3  LEU N N sing 
+CG  CD1  LEU N N sing 
+CG  CD2  LEU N N sing 
+CG  HG   LEU N N sing 
+CD1 HD11 LEU N N sing 
+CD1 HD12 LEU N N sing 
+CD1 HD13 LEU N N sing 
+CD2 HD21 LEU N N sing 
+CD2 HD22 LEU N N sing 
+CD2 HD23 LEU N N sing 
+OXT HXT  LEU N N sing 
+N   CA   LYS N N sing 
+N   H    LYS N N sing 
+N   H2   LYS N N sing 
+CA  C    LYS N N sing 
+CA  CB   LYS N N sing 
+CA  HA   LYS N N sing 
+C   O    LYS N N doub 
+C   OXT  LYS N N sing 
+CB  CG   LYS N N sing 
+CB  HB2  LYS N N sing 
+CB  HB3  LYS N N sing 
+CG  CD   LYS N N sing 
+CG  HG2  LYS N N sing 
+CG  HG3  LYS N N sing 
+CD  CE   LYS N N sing 
+CD  HD2  LYS N N sing 
+CD  HD3  LYS N N sing 
+CE  NZ   LYS N N sing 
+CE  HE2  LYS N N sing 
+CE  HE3  LYS N N sing 
+NZ  HZ1  LYS N N sing 
+NZ  HZ2  LYS N N sing 
+NZ  HZ3  LYS N N sing 
+OXT HXT  LYS N N sing 
+N   CA   MET N N sing 
+N   H    MET N N sing 
+N   H2   MET N N sing 
+CA  C    MET N N sing 
+CA  CB   MET N N sing 
+CA  HA   MET N N sing 
+C   O    MET N N doub 
+C   OXT  MET N N sing 
+CB  CG   MET N N sing 
+CB  HB2  MET N N sing 
+CB  HB3  MET N N sing 
+CG  SD   MET N N sing 
+CG  HG2  MET N N sing 
+CG  HG3  MET N N sing 
+SD  CE   MET N N sing 
+CE  HE1  MET N N sing 
+CE  HE2  MET N N sing 
+CE  HE3  MET N N sing 
+OXT HXT  MET N N sing 
+N   C5   PEE N N sing 
+C5  C4   PEE N N sing 
+C4  O4P  PEE N N sing 
+O4P P    PEE N N sing 
+O1P P    PEE N N doub 
+C1  O3P  PEE N N sing 
+C1  C2   PEE N N sing 
+O3P P    PEE N N sing 
+P   O2P  PEE N N sing 
+C2  C3   PEE N N sing 
+C2  O2   PEE N N sing 
+C3  O3   PEE N N sing 
+O2  C10  PEE N N sing 
+C31 C30  PEE N N sing 
+C31 C32  PEE N N sing 
+C33 C32  PEE N N sing 
+C33 C34  PEE N N sing 
+C30 O3   PEE N N sing 
+C30 O5   PEE N N doub 
+C10 O4   PEE N N doub 
+C10 C11  PEE N N sing 
+C34 C35  PEE N N sing 
+C11 C12  PEE N N sing 
+C35 C36  PEE N N sing 
+C36 C37  PEE N N sing 
+C37 C38  PEE N N sing 
+C38 C39  PEE N Z doub 
+C12 C13  PEE N N sing 
+C39 C40  PEE N N sing 
+C13 C14  PEE N N sing 
+C14 C15  PEE N N sing 
+C40 C41  PEE N N sing 
+C15 C16  PEE N N sing 
+C41 C42  PEE N N sing 
+C16 C17  PEE N N sing 
+C42 C43  PEE N N sing 
+C17 C18  PEE N N sing 
+C43 C44  PEE N N sing 
+C18 C19  PEE N Z doub 
+C46 C47  PEE N N sing 
+C46 C45  PEE N N sing 
+C44 C45  PEE N N sing 
+C19 C20  PEE N N sing 
+C20 C21  PEE N N sing 
+C21 C22  PEE N N sing 
+C22 C23  PEE N N sing 
+C23 C24  PEE N N sing 
+C24 C25  PEE N N sing 
+C26 C25  PEE N N sing 
+C26 C27  PEE N N sing 
+C27 H7   PEE N N sing 
+C27 H8   PEE N N sing 
+C27 H82  PEE N N sing 
+C26 H5   PEE N N sing 
+C26 H6   PEE N N sing 
+C25 H12  PEE N N sing 
+C25 H4   PEE N N sing 
+C24 H10  PEE N N sing 
+C24 H11  PEE N N sing 
+C23 H83  PEE N N sing 
+C23 H9   PEE N N sing 
+C22 H2   PEE N N sing 
+C22 H3   PEE N N sing 
+C21 H14  PEE N N sing 
+C21 H1   PEE N N sing 
+C20 H16  PEE N N sing 
+C20 H13  PEE N N sing 
+C19 H18  PEE N N sing 
+C18 H20  PEE N N sing 
+C17 H22  PEE N N sing 
+C17 H19  PEE N N sing 
+C16 H21  PEE N N sing 
+C16 H28  PEE N N sing 
+C15 H23  PEE N N sing 
+C15 H24  PEE N N sing 
+C14 H25  PEE N N sing 
+C14 H26  PEE N N sing 
+C13 H17  PEE N N sing 
+C13 H27  PEE N N sing 
+C12 H15  PEE N N sing 
+C12 H29  PEE N N sing 
+C11 H30  PEE N N sing 
+C11 H31  PEE N N sing 
+C2  H32  PEE N N sing 
+C1  H33  PEE N N sing 
+C1  H34  PEE N N sing 
+O2P H35  PEE N N sing 
+C4  H36  PEE N N sing 
+C4  H37  PEE N N sing 
+C5  H38  PEE N N sing 
+C5  H39  PEE N N sing 
+N   H40  PEE N N sing 
+N   H41  PEE N N sing 
+C3  H43  PEE N N sing 
+C3  H44  PEE N N sing 
+C31 H45  PEE N N sing 
+C31 H46  PEE N N sing 
+C32 H47  PEE N N sing 
+C32 H48  PEE N N sing 
+C33 H49  PEE N N sing 
+C33 H50  PEE N N sing 
+C34 H51  PEE N N sing 
+C34 H52  PEE N N sing 
+C35 H53  PEE N N sing 
+C35 H54  PEE N N sing 
+C36 H55  PEE N N sing 
+C36 H56  PEE N N sing 
+C37 H57  PEE N N sing 
+C37 H58  PEE N N sing 
+C38 H59  PEE N N sing 
+C39 H60  PEE N N sing 
+C40 H81  PEE N N sing 
+C40 H61  PEE N N sing 
+C41 H80  PEE N N sing 
+C41 H62  PEE N N sing 
+C42 H63  PEE N N sing 
+C42 H64  PEE N N sing 
+C43 H65  PEE N N sing 
+C43 H66  PEE N N sing 
+C44 H67  PEE N N sing 
+C44 H68  PEE N N sing 
+C45 H69  PEE N N sing 
+C45 H70  PEE N N sing 
+C46 H71  PEE N N sing 
+C46 H72  PEE N N sing 
+C47 H73  PEE N N sing 
+C47 H74  PEE N N sing 
+C47 H75  PEE N N sing 
+N   CA   PHE N N sing 
+N   H    PHE N N sing 
+N   H2   PHE N N sing 
+CA  C    PHE N N sing 
+CA  CB   PHE N N sing 
+CA  HA   PHE N N sing 
+C   O    PHE N N doub 
+C   OXT  PHE N N sing 
+CB  CG   PHE N N sing 
+CB  HB2  PHE N N sing 
+CB  HB3  PHE N N sing 
+CG  CD1  PHE Y N doub 
+CG  CD2  PHE Y N sing 
+CD1 CE1  PHE Y N sing 
+CD1 HD1  PHE N N sing 
+CD2 CE2  PHE Y N doub 
+CD2 HD2  PHE N N sing 
+CE1 CZ   PHE Y N doub 
+CE1 HE1  PHE N N sing 
+CE2 CZ   PHE Y N sing 
+CE2 HE2  PHE N N sing 
+CZ  HZ   PHE N N sing 
+OXT HXT  PHE N N sing 
+P   O1   PO4 N N doub 
+P   O2   PO4 N N sing 
+P   O3   PO4 N N sing 
+P   O4   PO4 N N sing 
+N   CA   PRO N N sing 
+N   CD   PRO N N sing 
+N   H    PRO N N sing 
+CA  C    PRO N N sing 
+CA  CB   PRO N N sing 
+CA  HA   PRO N N sing 
+C   O    PRO N N doub 
+C   OXT  PRO N N sing 
+CB  CG   PRO N N sing 
+CB  HB2  PRO N N sing 
+CB  HB3  PRO N N sing 
+CG  CD   PRO N N sing 
+CG  HG2  PRO N N sing 
+CG  HG3  PRO N N sing 
+CD  HD2  PRO N N sing 
+CD  HD3  PRO N N sing 
+OXT HXT  PRO N N sing 
+N   CA   SER N N sing 
+N   H    SER N N sing 
+N   H2   SER N N sing 
+CA  C    SER N N sing 
+CA  CB   SER N N sing 
+CA  HA   SER N N sing 
+C   O    SER N N doub 
+C   OXT  SER N N sing 
+CB  OG   SER N N sing 
+CB  HB2  SER N N sing 
+CB  HB3  SER N N sing 
+OG  HG   SER N N sing 
+OXT HXT  SER N N sing 
+N   CA   THR N N sing 
+N   H    THR N N sing 
+N   H2   THR N N sing 
+CA  C    THR N N sing 
+CA  CB   THR N N sing 
+CA  HA   THR N N sing 
+C   O    THR N N doub 
+C   OXT  THR N N sing 
+CB  OG1  THR N N sing 
+CB  CG2  THR N N sing 
+CB  HB   THR N N sing 
+OG1 HG1  THR N N sing 
+CG2 HG21 THR N N sing 
+CG2 HG22 THR N N sing 
+CG2 HG23 THR N N sing 
+OXT HXT  THR N N sing 
+N   CA   TRP N N sing 
+N   H    TRP N N sing 
+N   H2   TRP N N sing 
+CA  C    TRP N N sing 
+CA  CB   TRP N N sing 
+CA  HA   TRP N N sing 
+C   O    TRP N N doub 
+C   OXT  TRP N N sing 
+CB  CG   TRP N N sing 
+CB  HB2  TRP N N sing 
+CB  HB3  TRP N N sing 
+CG  CD1  TRP Y N doub 
+CG  CD2  TRP Y N sing 
+CD1 NE1  TRP Y N sing 
+CD1 HD1  TRP N N sing 
+CD2 CE2  TRP Y N doub 
+CD2 CE3  TRP Y N sing 
+NE1 CE2  TRP Y N sing 
+NE1 HE1  TRP N N sing 
+CE2 CZ2  TRP Y N sing 
+CE3 CZ3  TRP Y N doub 
+CE3 HE3  TRP N N sing 
+CZ2 CH2  TRP Y N doub 
+CZ2 HZ2  TRP N N sing 
+CZ3 CH2  TRP Y N sing 
+CZ3 HZ3  TRP N N sing 
+CH2 HH2  TRP N N sing 
+OXT HXT  TRP N N sing 
+N   CA   TYR N N sing 
+N   H    TYR N N sing 
+N   H2   TYR N N sing 
+CA  C    TYR N N sing 
+CA  CB   TYR N N sing 
+CA  HA   TYR N N sing 
+C   O    TYR N N doub 
+C   OXT  TYR N N sing 
+CB  CG   TYR N N sing 
+CB  HB2  TYR N N sing 
+CB  HB3  TYR N N sing 
+CG  CD1  TYR Y N doub 
+CG  CD2  TYR Y N sing 
+CD1 CE1  TYR Y N sing 
+CD1 HD1  TYR N N sing 
+CD2 CE2  TYR Y N doub 
+CD2 HD2  TYR N N sing 
+CE1 CZ   TYR Y N doub 
+CE1 HE1  TYR N N sing 
+CE2 CZ   TYR Y N sing 
+CE2 HE2  TYR N N sing 
+CZ  OH   TYR N N sing 
+OH  HH   TYR N N sing 
+OXT HXT  TYR N N sing 
+N   CA   VAL N N sing 
+N   H    VAL N N sing 
+N   H2   VAL N N sing 
+CA  C    VAL N N sing 
+CA  CB   VAL N N sing 
+CA  HA   VAL N N sing 
+C   O    VAL N N doub 
+C   OXT  VAL N N sing 
+CB  CG1  VAL N N sing 
+CB  CG2  VAL N N sing 
+CB  HB   VAL N N sing 
+CG1 HG11 VAL N N sing 
+CG1 HG12 VAL N N sing 
+CG1 HG13 VAL N N sing 
+CG2 HG21 VAL N N sing 
+CG2 HG22 VAL N N sing 
+CG2 HG23 VAL N N sing 
+OXT HXT  VAL N N sing 
+#
+_entity.id               11
+_entity.pdbx_description "CYTOCHROME B-C1 COMPLEX SUBUNIT RIESKE, MITOCHONDRIAL"
+_entity.type             polymer
+#
+_entity_poly.entity_id      11
+_entity_poly.pdbx_strand_id V
+_entity_poly.type           polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+11 n MET 1   
+11 n LEU 2   
+11 n SER 3   
+11 n VAL 4   
+11 n ALA 5   
+11 n ALA 6   
+11 n ARG 7   
+11 n SER 8   
+11 n GLY 9   
+11 n PRO 10  
+11 n PHE 11  
+11 n ALA 12  
+11 n PRO 13  
+11 n VAL 14  
+11 n LEU 15  
+11 n SER 16  
+11 n ALA 17  
+11 n THR 18  
+11 n SER 19  
+11 n ARG 20  
+11 n GLY 21  
+11 n VAL 22  
+11 n ALA 23  
+11 n GLY 24  
+11 n ALA 25  
+11 n LEU 26  
+11 n ARG 27  
+11 n PRO 28  
+11 n LEU 29  
+11 n VAL 30  
+11 n GLN 31  
+11 n ALA 32  
+11 n ALA 33  
+11 n VAL 34  
+11 n PRO 35  
+11 n ALA 36  
+11 n THR 37  
+11 n SER 38  
+11 n GLU 39  
+11 n SER 40  
+11 n PRO 41  
+11 n VAL 42  
+11 n LEU 43  
+11 n ASP 44  
+11 n LEU 45  
+11 n LYS 46  
+11 n ARG 47  
+11 n SER 48  
+11 n VAL 49  
+11 n LEU 50  
+11 n CYS 51  
+11 n ARG 52  
+11 n GLU 53  
+11 n SER 54  
+11 n LEU 55  
+11 n ARG 56  
+11 n GLY 57  
+11 n GLN 58  
+11 n ALA 59  
+11 n ALA 60  
+11 n GLY 61  
+11 n ARG 62  
+11 n PRO 63  
+11 n VAL 64  
+11 n VAL 65  
+11 n ALA 66  
+11 n SER 67  
+11 n VAL 68  
+11 n SER 69  
+11 n LEU 70  
+11 n ASN 71  
+11 n VAL 72  
+11 n PRO 73  
+11 n ALA 74  
+11 n SER 75  
+11 n VAL 76  
+11 n ARG 77  
+11 n TYR 78  
+11 n SER 79  
+11 n HIS 80  
+11 n THR 81  
+11 n ASP 82  
+11 n ILE 83  
+11 n LYS 84  
+11 n VAL 85  
+11 n PRO 86  
+11 n ASP 87  
+11 n PHE 88  
+11 n SER 89  
+11 n ASP 90  
+11 n TYR 91  
+11 n ARG 92  
+11 n ARG 93  
+11 n PRO 94  
+11 n GLU 95  
+11 n VAL 96  
+11 n LEU 97  
+11 n ASP 98  
+11 n SER 99  
+11 n THR 100 
+11 n LYS 101 
+11 n SER 102 
+11 n SER 103 
+11 n LYS 104 
+11 n GLU 105 
+11 n SER 106 
+11 n SER 107 
+11 n GLU 108 
+11 n ALA 109 
+11 n ARG 110 
+11 n LYS 111 
+11 n GLY 112 
+11 n PHE 113 
+11 n SER 114 
+11 n TYR 115 
+11 n LEU 116 
+11 n VAL 117 
+11 n THR 118 
+11 n ALA 119 
+11 n THR 120 
+11 n THR 121 
+11 n THR 122 
+11 n VAL 123 
+11 n GLY 124 
+11 n VAL 125 
+11 n ALA 126 
+11 n TYR 127 
+11 n ALA 128 
+11 n ALA 129 
+11 n LYS 130 
+11 n ASN 131 
+11 n VAL 132 
+11 n VAL 133 
+11 n SER 134 
+11 n GLN 135 
+11 n PHE 136 
+11 n VAL 137 
+11 n SER 138 
+11 n SER 139 
+11 n MET 140 
+11 n SER 141 
+11 n ALA 142 
+11 n SER 143 
+11 n ALA 144 
+11 n ASP 145 
+11 n VAL 146 
+11 n LEU 147 
+11 n ALA 148 
+11 n MET 149 
+11 n SER 150 
+11 n LYS 151 
+11 n ILE 152 
+11 n GLU 153 
+11 n ILE 154 
+11 n LYS 155 
+11 n LEU 156 
+11 n SER 157 
+11 n ASP 158 
+11 n ILE 159 
+11 n PRO 160 
+11 n GLU 161 
+11 n GLY 162 
+11 n LYS 163 
+11 n ASN 164 
+11 n MET 165 
+11 n ALA 166 
+11 n PHE 167 
+11 n LYS 168 
+11 n TRP 169 
+11 n ARG 170 
+11 n GLY 171 
+11 n LYS 172 
+11 n PRO 173 
+11 n LEU 174 
+11 n PHE 175 
+11 n VAL 176 
+11 n ARG 177 
+11 n HIS 178 
+11 n ARG 179 
+11 n THR 180 
+11 n LYS 181 
+11 n LYS 182 
+11 n GLU 183 
+11 n ILE 184 
+11 n ASP 185 
+11 n GLN 186 
+11 n GLU 187 
+11 n ALA 188 
+11 n ALA 189 
+11 n VAL 190 
+11 n GLU 191 
+11 n VAL 192 
+11 n SER 193 
+11 n GLN 194 
+11 n LEU 195 
+11 n ARG 196 
+11 n ASP 197 
+11 n PRO 198 
+11 n GLN 199 
+11 n HIS 200 
+11 n ASP 201 
+11 n LEU 202 
+11 n GLU 203 
+11 n ARG 204 
+11 n VAL 205 
+11 n LYS 206 
+11 n LYS 207 
+11 n PRO 208 
+11 n GLU 209 
+11 n TRP 210 
+11 n VAL 211 
+11 n ILE 212 
+11 n LEU 213 
+11 n ILE 214 
+11 n GLY 215 
+11 n VAL 216 
+11 n CYS 217 
+11 n THR 218 
+11 n HIS 219 
+11 n LEU 220 
+11 n GLY 221 
+11 n CYS 222 
+11 n VAL 223 
+11 n PRO 224 
+11 n ILE 225 
+11 n ALA 226 
+11 n ASN 227 
+11 n ALA 228 
+11 n GLY 229 
+11 n ASP 230 
+11 n PHE 231 
+11 n GLY 232 
+11 n GLY 233 
+11 n TYR 234 
+11 n TYR 235 
+11 n CYS 236 
+11 n PRO 237 
+11 n CYS 238 
+11 n HIS 239 
+11 n GLY 240 
+11 n SER 241 
+11 n HIS 242 
+11 n TYR 243 
+11 n ASP 244 
+11 n ALA 245 
+11 n SER 246 
+11 n GLY 247 
+11 n ARG 248 
+11 n ILE 249 
+11 n ARG 250 
+11 n LYS 251 
+11 n GLY 252 
+11 n PRO 253 
+11 n ALA 254 
+11 n PRO 255 
+11 n LEU 256 
+11 n ASN 257 
+11 n LEU 258 
+11 n GLU 259 
+11 n VAL 260 
+11 n PRO 261 
+11 n SER 262 
+11 n TYR 263 
+11 n GLU 264 
+11 n PHE 265 
+11 n THR 266 
+11 n SER 267 
+11 n ASP 268 
+11 n ASP 269 
+11 n MET 270 
+11 n VAL 271 
+11 n ILE 272 
+11 n VAL 273 
+11 n GLY 274 
+#
+_exptl.method "X-RAY DIFFRACTION"
+#
+_pdbx_audit_revision_history.revision_date 2015-01-14
+#
+_pdbx_database_status.recvd_initial_deposition_date 2015-01-14
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+S ?  11 n MET . 1   V 1   
+S ?  11 n LEU . 2   V 2   
+S ?  11 n SER . 3   V 3   
+S ?  11 n VAL . 4   V 4   
+S ?  11 n ALA . 5   V 5   
+S ?  11 n ALA . 6   V 6   
+S ?  11 n ARG . 7   V 7   
+S ?  11 n SER . 8   V 8   
+S ?  11 n GLY . 9   V 9   
+S ?  11 n PRO . 10  V 10  
+S ?  11 n PHE . 11  V 11  
+S ?  11 n ALA . 12  V 12  
+S ?  11 n PRO . 13  V 13  
+S ?  11 n VAL . 14  V 14  
+S ?  11 n LEU . 15  V 15  
+S ?  11 n SER . 16  V 16  
+S ?  11 n ALA . 17  V 17  
+S ?  11 n THR . 18  V 18  
+S ?  11 n SER . 19  V 19  
+S ?  11 n ARG . 20  V 20  
+S ?  11 n GLY . 21  V 21  
+S ?  11 n VAL . 22  V 22  
+S ?  11 n ALA . 23  V 23  
+S ?  11 n GLY . 24  V 24  
+S ?  11 n ALA . 25  V 25  
+S ?  11 n LEU . 26  V 26  
+S ?  11 n ARG . 27  V 27  
+S ?  11 n PRO . 28  V 28  
+S ?  11 n LEU . 29  V 29  
+S ?  11 n VAL . 30  V 30  
+S ?  11 n GLN . 31  V 31  
+S ?  11 n ALA . 32  V 32  
+S ?  11 n ALA . 33  V 33  
+S ?  11 n VAL . 34  V 34  
+S ?  11 n PRO . 35  V 35  
+S ?  11 n ALA . 36  V 36  
+S ?  11 n THR . 37  V 37  
+S ?  11 n SER . 38  V 38  
+S ?  11 n GLU . 39  V 39  
+S ?  11 n SER . 40  V 40  
+S ?  11 n PRO . 41  V 41  
+S ?  11 n VAL . 42  V 42  
+S ?  11 n LEU . 43  V 43  
+S ?  11 n ASP . 44  V 44  
+S ?  11 n LEU . 45  V 45  
+S ?  11 n LYS . 46  V 46  
+S ?  11 n ARG . 47  V 47  
+S ?  11 n SER . 48  V 48  
+S ?  11 n VAL . 49  V 49  
+S ?  11 n LEU . 50  V 50  
+S ?  11 n CYS . 51  V 51  
+S ?  11 n ARG . 52  V 52  
+S ?  11 n GLU . 53  V 53  
+S ?  11 n SER . 54  V 54  
+S ?  11 n LEU . 55  V 55  
+S ?  11 n ARG . 56  V 56  
+S ?  11 n GLY . 57  V 57  
+S ?  11 n GLN . 58  V 58  
+S ?  11 n ALA . 59  V 59  
+S ?  11 n ALA . 60  V 60  
+S ?  11 n GLY . 61  V 61  
+S 62 11 n ARG . 62  V 62  
+S 63 11 n PRO . 63  V 63  
+S 64 11 n VAL . 64  V 64  
+S 65 11 n VAL . 65  V 65  
+S 66 11 n ALA . 66  V 66  
+S 67 11 n SER . 67  V 67  
+S 68 11 n VAL . 68  V 68  
+S 69 11 n SER . 69  V 69  
+S 70 11 n LEU . 70  V 70  
+S 71 11 n ASN . 71  V 71  
+S 72 11 n VAL . 72  V 72  
+S 73 11 n PRO . 73  V 73  
+S 74 11 n ALA . 74  V 74  
+S 75 11 n SER . 75  V 75  
+S 76 11 n VAL . 76  V 76  
+S 77 11 n ARG . 77  V 77  
+S 78 11 n TYR . 78  V 78  
+S ?  11 n SER . 79  V 79  
+S ?  11 n HIS . 80  V 80  
+S ?  11 n THR . 81  V 81  
+S ?  11 n ASP . 82  V 82  
+S ?  11 n ILE . 83  V 83  
+S ?  11 n LYS . 84  V 84  
+S ?  11 n VAL . 85  V 85  
+S ?  11 n PRO . 86  V 86  
+S ?  11 n ASP . 87  V 87  
+S ?  11 n PHE . 88  V 88  
+S ?  11 n SER . 89  V 89  
+S ?  11 n ASP . 90  V 90  
+S ?  11 n TYR . 91  V 91  
+S ?  11 n ARG . 92  V 92  
+S ?  11 n ARG . 93  V 93  
+S ?  11 n PRO . 94  V 94  
+S ?  11 n GLU . 95  V 95  
+S ?  11 n VAL . 96  V 96  
+S ?  11 n LEU . 97  V 97  
+S ?  11 n ASP . 98  V 98  
+S ?  11 n SER . 99  V 99  
+S ?  11 n THR . 100 V 100 
+S ?  11 n LYS . 101 V 101 
+S ?  11 n SER . 102 V 102 
+S ?  11 n SER . 103 V 103 
+S ?  11 n LYS . 104 V 104 
+S ?  11 n GLU . 105 V 105 
+S ?  11 n SER . 106 V 106 
+S ?  11 n SER . 107 V 107 
+S ?  11 n GLU . 108 V 108 
+S ?  11 n ALA . 109 V 109 
+S ?  11 n ARG . 110 V 110 
+S ?  11 n LYS . 111 V 111 
+S ?  11 n GLY . 112 V 112 
+S ?  11 n PHE . 113 V 113 
+S ?  11 n SER . 114 V 114 
+S ?  11 n TYR . 115 V 115 
+S ?  11 n LEU . 116 V 116 
+S ?  11 n VAL . 117 V 117 
+S ?  11 n THR . 118 V 118 
+S ?  11 n ALA . 119 V 119 
+S ?  11 n THR . 120 V 120 
+S ?  11 n THR . 121 V 121 
+S ?  11 n THR . 122 V 122 
+S ?  11 n VAL . 123 V 123 
+S ?  11 n GLY . 124 V 124 
+S ?  11 n VAL . 125 V 125 
+S ?  11 n ALA . 126 V 126 
+S ?  11 n TYR . 127 V 127 
+S ?  11 n ALA . 128 V 128 
+S ?  11 n ALA . 129 V 129 
+S ?  11 n LYS . 130 V 130 
+S ?  11 n ASN . 131 V 131 
+S ?  11 n VAL . 132 V 132 
+S ?  11 n VAL . 133 V 133 
+S ?  11 n SER . 134 V 134 
+S ?  11 n GLN . 135 V 135 
+S ?  11 n PHE . 136 V 136 
+S ?  11 n VAL . 137 V 137 
+S ?  11 n SER . 138 V 138 
+S ?  11 n SER . 139 V 139 
+S ?  11 n MET . 140 V 140 
+S ?  11 n SER . 141 V 141 
+S ?  11 n ALA . 142 V 142 
+S ?  11 n SER . 143 V 143 
+S ?  11 n ALA . 144 V 144 
+S ?  11 n ASP . 145 V 145 
+S ?  11 n VAL . 146 V 146 
+S ?  11 n LEU . 147 V 147 
+S ?  11 n ALA . 148 V 148 
+S ?  11 n MET . 149 V 149 
+S ?  11 n SER . 150 V 150 
+S ?  11 n LYS . 151 V 151 
+S ?  11 n ILE . 152 V 152 
+S ?  11 n GLU . 153 V 153 
+S ?  11 n ILE . 154 V 154 
+S ?  11 n LYS . 155 V 155 
+S ?  11 n LEU . 156 V 156 
+S ?  11 n SER . 157 V 157 
+S ?  11 n ASP . 158 V 158 
+S ?  11 n ILE . 159 V 159 
+S ?  11 n PRO . 160 V 160 
+S ?  11 n GLU . 161 V 161 
+S ?  11 n GLY . 162 V 162 
+S ?  11 n LYS . 163 V 163 
+S ?  11 n ASN . 164 V 164 
+S ?  11 n MET . 165 V 165 
+S ?  11 n ALA . 166 V 166 
+S ?  11 n PHE . 167 V 167 
+S ?  11 n LYS . 168 V 168 
+S ?  11 n TRP . 169 V 169 
+S ?  11 n ARG . 170 V 170 
+S ?  11 n GLY . 171 V 171 
+S ?  11 n LYS . 172 V 172 
+S ?  11 n PRO . 173 V 173 
+S ?  11 n LEU . 174 V 174 
+S ?  11 n PHE . 175 V 175 
+S ?  11 n VAL . 176 V 176 
+S ?  11 n ARG . 177 V 177 
+S ?  11 n HIS . 178 V 178 
+S ?  11 n ARG . 179 V 179 
+S ?  11 n THR . 180 V 180 
+S ?  11 n LYS . 181 V 181 
+S ?  11 n LYS . 182 V 182 
+S ?  11 n GLU . 183 V 183 
+S ?  11 n ILE . 184 V 184 
+S ?  11 n ASP . 185 V 185 
+S ?  11 n GLN . 186 V 186 
+S ?  11 n GLU . 187 V 187 
+S ?  11 n ALA . 188 V 188 
+S ?  11 n ALA . 189 V 189 
+S ?  11 n VAL . 190 V 190 
+S ?  11 n GLU . 191 V 191 
+S ?  11 n VAL . 192 V 192 
+S ?  11 n SER . 193 V 193 
+S ?  11 n GLN . 194 V 194 
+S ?  11 n LEU . 195 V 195 
+S ?  11 n ARG . 196 V 196 
+S ?  11 n ASP . 197 V 197 
+S ?  11 n PRO . 198 V 198 
+S ?  11 n GLN . 199 V 199 
+S ?  11 n HIS . 200 V 200 
+S ?  11 n ASP . 201 V 201 
+S ?  11 n LEU . 202 V 202 
+S ?  11 n GLU . 203 V 203 
+S ?  11 n ARG . 204 V 204 
+S ?  11 n VAL . 205 V 205 
+S ?  11 n LYS . 206 V 206 
+S ?  11 n LYS . 207 V 207 
+S ?  11 n PRO . 208 V 208 
+S ?  11 n GLU . 209 V 209 
+S ?  11 n TRP . 210 V 210 
+S ?  11 n VAL . 211 V 211 
+S ?  11 n ILE . 212 V 212 
+S ?  11 n LEU . 213 V 213 
+S ?  11 n ILE . 214 V 214 
+S ?  11 n GLY . 215 V 215 
+S ?  11 n VAL . 216 V 216 
+S ?  11 n CYS . 217 V 217 
+S ?  11 n THR . 218 V 218 
+S ?  11 n HIS . 219 V 219 
+S ?  11 n LEU . 220 V 220 
+S ?  11 n GLY . 221 V 221 
+S ?  11 n CYS . 222 V 222 
+S ?  11 n VAL . 223 V 223 
+S ?  11 n PRO . 224 V 224 
+S ?  11 n ILE . 225 V 225 
+S ?  11 n ALA . 226 V 226 
+S ?  11 n ASN . 227 V 227 
+S ?  11 n ALA . 228 V 228 
+S ?  11 n GLY . 229 V 229 
+S ?  11 n ASP . 230 V 230 
+S ?  11 n PHE . 231 V 231 
+S ?  11 n GLY . 232 V 232 
+S ?  11 n GLY . 233 V 233 
+S ?  11 n TYR . 234 V 234 
+S ?  11 n TYR . 235 V 235 
+S ?  11 n CYS . 236 V 236 
+S ?  11 n PRO . 237 V 237 
+S ?  11 n CYS . 238 V 238 
+S ?  11 n HIS . 239 V 239 
+S ?  11 n GLY . 240 V 240 
+S ?  11 n SER . 241 V 241 
+S ?  11 n HIS . 242 V 242 
+S ?  11 n TYR . 243 V 243 
+S ?  11 n ASP . 244 V 244 
+S ?  11 n ALA . 245 V 245 
+S ?  11 n SER . 246 V 246 
+S ?  11 n GLY . 247 V 247 
+S ?  11 n ARG . 248 V 248 
+S ?  11 n ILE . 249 V 249 
+S ?  11 n ARG . 250 V 250 
+S ?  11 n LYS . 251 V 251 
+S ?  11 n GLY . 252 V 252 
+S ?  11 n PRO . 253 V 253 
+S ?  11 n ALA . 254 V 254 
+S ?  11 n PRO . 255 V 255 
+S ?  11 n LEU . 256 V 256 
+S ?  11 n ASN . 257 V 257 
+S ?  11 n LEU . 258 V 258 
+S ?  11 n GLU . 259 V 259 
+S ?  11 n VAL . 260 V 260 
+S ?  11 n PRO . 261 V 261 
+S ?  11 n SER . 262 V 262 
+S ?  11 n TYR . 263 V 263 
+S ?  11 n GLU . 264 V 264 
+S ?  11 n PHE . 265 V 265 
+S ?  11 n THR . 266 V 266 
+S ?  11 n SER . 267 V 267 
+S ?  11 n ASP . 268 V 268 
+S ?  11 n ASP . 269 V 269 
+S ?  11 n MET . 270 V 270 
+S ?  11 n VAL . 271 V 271 
+S ?  11 n ILE . 272 V 272 
+S ?  11 n VAL . 273 V 273 
+S ?  11 n GLY . 274 V 274 
+#
+loop_
+_pdbx_struct_assembly.details
+_pdbx_struct_assembly.id
+_pdbx_struct_assembly.method_details
+_pdbx_struct_assembly.oligomeric_count
+_pdbx_struct_assembly.oligomeric_details
+software_defined_assembly 1 PQS 10 decameric 
+software_defined_assembly 2 PQS 10 decameric 
+#
+loop_
+_pdbx_struct_assembly_gen.assembly_id
+_pdbx_struct_assembly_gen.asym_id_list
+_pdbx_struct_assembly_gen.oper_expression
+1 A,B,C,D,E,F,G,H,I,J,U,V,W,X,Y,Z,AA,BA,CA,DA,EA,FA,GA,HA          1 
+2 K,L,M,N,O,P,Q,R,S,T,IA,JA,KA,LA,MA,NA,OA,PA,QA,RA,SA,TA,UA,VA,WA 1 
+#
+_pdbx_struct_oper_list.id                 1
+_pdbx_struct_oper_list.matrix[1][1]       1.0000000000
+_pdbx_struct_oper_list.matrix[1][2]       0.0000000000
+_pdbx_struct_oper_list.matrix[1][3]       0.0000000000
+_pdbx_struct_oper_list.matrix[2][1]       0.0000000000
+_pdbx_struct_oper_list.matrix[2][2]       1.0000000000
+_pdbx_struct_oper_list.matrix[2][3]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][1]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][2]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][3]       1.0000000000
+_pdbx_struct_oper_list.name               1_555
+_pdbx_struct_oper_list.symmetry_operation x,y,z
+_pdbx_struct_oper_list.type               "identity operation"
+_pdbx_struct_oper_list.vector[1]          0.0000000000
+_pdbx_struct_oper_list.vector[2]          0.0000000000
+_pdbx_struct_oper_list.vector[3]          0.0000000000
+#
+_refine.ls_d_res_high 3.57
+#
+_software.classification other
+_software.name           "DeepMind Structure Class"
+_software.pdbx_ordinal   1
+_software.version        2.0.0
+#
+_struct_asym.entity_id 11
+_struct_asym.id        S
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1   N N   . ARG S 11 62 ? 81.069 46.902 -35.025 1.00 188.35 62 V 1 
+ATOM 2   C CA  . ARG S 11 62 ? 82.522 47.037 -34.696 1.00 189.53 62 V 1 
+ATOM 3   C C   . ARG S 11 62 ? 82.926 46.036 -33.597 1.00 199.11 62 V 1 
+ATOM 4   O O   . ARG S 11 62 ? 82.042 45.489 -32.938 1.00 192.94 62 V 1 
+ATOM 5   C CB  . ARG S 11 62 ? 82.835 48.494 -34.349 1.00 186.35 62 V 1 
+ATOM 6   C CG  . ARG S 11 62 ? 83.105 49.316 -35.602 1.00 179.92 62 V 1 
+ATOM 7   C CD  . ARG S 11 62 ? 83.415 50.757 -35.274 1.00 183.59 62 V 1 
+ATOM 8   N NE  . ARG S 11 62 ? 84.739 50.910 -34.671 1.00 200.76 62 V 1 
+ATOM 9   C CZ  . ARG S 11 62 ? 85.144 51.994 -34.006 1.00 220.57 62 V 1 
+ATOM 10  N NH1 . ARG S 11 62 ? 84.336 53.039 -33.843 1.00 235.65 62 V 1 
+ATOM 11  N NH2 . ARG S 11 62 ? 86.368 52.036 -33.492 1.00 221.43 62 V 1 
+ATOM 12  N N   . PRO S 11 63 ? 84.251 45.764 -33.424 1.00 219.78 63 V 1 
+ATOM 13  C CA  . PRO S 11 63 ? 84.726 44.585 -32.638 1.00 218.51 63 V 1 
+ATOM 14  C C   . PRO S 11 63 ? 84.089 44.345 -31.261 1.00 217.94 63 V 1 
+ATOM 15  O O   . PRO S 11 63 ? 83.450 45.235 -30.692 1.00 244.70 63 V 1 
+ATOM 16  C CB  . PRO S 11 63 ? 86.248 44.809 -32.502 1.00 200.29 63 V 1 
+ATOM 17  C CG  . PRO S 11 63 ? 86.528 46.153 -33.091 1.00 206.05 63 V 1 
+ATOM 18  C CD  . PRO S 11 63 ? 85.392 46.493 -34.012 1.00 210.11 63 V 1 
+ATOM 19  N N   . VAL S 11 64 ? 84.318 43.152 -30.724 1.00 186.30 64 V 1 
+ATOM 20  C CA  . VAL S 11 64 ? 83.488 42.616 -29.659 1.00 191.89 64 V 1 
+ATOM 21  C C   . VAL S 11 64 ? 84.076 43.028 -28.276 1.00 193.09 64 V 1 
+ATOM 22  O O   . VAL S 11 64 ? 85.255 42.812 -28.007 1.00 155.12 64 V 1 
+ATOM 23  C CB  . VAL S 11 64 ? 83.262 41.074 -29.850 1.00 178.91 64 V 1 
+ATOM 24  C CG1 . VAL S 11 64 ? 82.166 40.797 -30.881 1.00 164.82 64 V 1 
+ATOM 25  C CG2 . VAL S 11 64 ? 84.531 40.353 -30.274 1.00 164.39 64 V 1 
+ATOM 26  N N   . VAL S 11 65 ? 83.253 43.668 -27.432 1.00 210.68 65 V 1 
+ATOM 27  C CA  . VAL S 11 65 ? 83.664 44.132 -26.088 1.00 196.88 65 V 1 
+ATOM 28  C C   . VAL S 11 65 ? 82.622 43.833 -24.997 1.00 205.82 65 V 1 
+ATOM 29  O O   . VAL S 11 65 ? 81.550 44.452 -24.961 1.00 239.52 65 V 1 
+ATOM 30  C CB  . VAL S 11 65 ? 83.951 45.659 -26.051 1.00 188.83 65 V 1 
+ATOM 31  C CG1 . VAL S 11 65 ? 85.373 45.917 -25.618 1.00 179.44 65 V 1 
+ATOM 32  C CG2 . VAL S 11 65 ? 83.655 46.344 -27.379 1.00 185.63 65 V 1 
+ATOM 33  N N   . ALA S 11 66 ? 82.931 42.903 -24.097 1.00 183.10 66 V 1 
+ATOM 34  C CA  . ALA S 11 66 ? 82.018 42.607 -23.001 1.00 185.31 66 V 1 
+ATOM 35  C C   . ALA S 11 66 ? 82.198 43.641 -21.890 1.00 181.67 66 V 1 
+ATOM 36  O O   . ALA S 11 66 ? 83.228 44.323 -21.805 1.00 151.91 66 V 1 
+ATOM 37  C CB  . ALA S 11 66 ? 82.227 41.191 -22.483 1.00 179.76 66 V 1 
+ATOM 38  N N   . SER S 11 67 ? 81.170 43.763 -21.057 1.00 179.70 67 V 1 
+ATOM 39  C CA  . SER S 11 67 ? 81.199 44.673 -19.937 1.00 171.98 67 V 1 
+ATOM 40  C C   . SER S 11 67 ? 80.312 44.192 -18.807 1.00 168.95 67 V 1 
+ATOM 41  O O   . SER S 11 67 ? 79.172 43.818 -19.031 1.00 196.97 67 V 1 
+ATOM 42  C CB  . SER S 11 67 ? 80.762 46.060 -20.395 1.00 172.74 67 V 1 
+ATOM 43  O OG  . SER S 11 67 ? 81.839 46.958 -20.302 1.00 191.20 67 V 1 
+ATOM 44  N N   . VAL S 11 68 ? 80.834 44.210 -17.593 1.00 160.40 68 V 1 
+ATOM 45  C CA  . VAL S 11 68 ? 80.033 43.911 -16.421 1.00 181.51 68 V 1 
+ATOM 46  C C   . VAL S 11 68 ? 80.411 44.956 -15.421 1.00 202.09 68 V 1 
+ATOM 47  O O   . VAL S 11 68 ? 81.479 45.552 -15.553 1.00 227.48 68 V 1 
+ATOM 48  C CB  . VAL S 11 68 ? 80.373 42.516 -15.884 1.00 191.63 68 V 1 
+ATOM 49  C CG1 . VAL S 11 68 ? 79.760 42.274 -14.503 1.00 198.86 68 V 1 
+ATOM 50  C CG2 . VAL S 11 68 ? 79.903 41.480 -16.882 1.00 187.79 68 V 1 
+ATOM 51  N N   . SER S 11 69 ? 79.564 45.194 -14.424 1.00 206.78 69 V 1 
+ATOM 52  C CA  . SER S 11 69 ? 79.954 46.111 -13.370 1.00 221.07 69 V 1 
+ATOM 53  C C   . SER S 11 69 ? 79.326 45.799 -12.010 1.00 204.26 69 V 1 
+ATOM 54  O O   . SER S 11 69 ? 78.816 44.694 -11.774 1.00 189.33 69 V 1 
+ATOM 55  C CB  . SER S 11 69 ? 79.659 47.553 -13.808 1.00 223.95 69 V 1 
+ATOM 56  O OG  . SER S 11 69 ? 79.903 47.733 -15.196 1.00 211.02 69 V 1 
+ATOM 57  N N   . LEU S 11 70 ? 79.441 46.754 -11.094 1.00 204.04 70 V 1 
+ATOM 58  C CA  . LEU S 11 70 ? 78.910 46.603 -9.762  1.00 202.10 70 V 1 
+ATOM 59  C C   . LEU S 11 70 ? 77.640 47.384 -9.569  1.00 205.06 70 V 1 
+ATOM 60  O O   . LEU S 11 70 ? 77.035 47.325 -8.503  1.00 231.24 70 V 1 
+ATOM 61  C CB  . LEU S 11 70 ? 79.907 47.135 -8.745  1.00 219.43 70 V 1 
+ATOM 62  C CG  . LEU S 11 70 ? 79.385 46.908 -7.329  1.00 227.95 70 V 1 
+ATOM 63  C CD1 . LEU S 11 70 ? 80.265 45.876 -6.687  1.00 252.55 70 V 1 
+ATOM 64  C CD2 . LEU S 11 70 ? 79.346 48.184 -6.527  1.00 218.58 70 V 1 
+ATOM 65  N N   . ASN S 11 71 ? 77.276 48.200 -10.539 1.00 204.41 71 V 1 
+ATOM 66  C CA  . ASN S 11 71 ? 76.134 49.073 -10.345 1.00 211.27 71 V 1 
+ATOM 67  C C   . ASN S 11 71 ? 75.320 49.190 -11.600 1.00 182.30 71 V 1 
+ATOM 68  O O   . ASN S 11 71 ? 74.262 49.798 -11.611 1.00 168.81 71 V 1 
+ATOM 69  C CB  . ASN S 11 71 ? 76.615 50.473 -9.907  1.00 238.25 71 V 1 
+ATOM 70  C CG  . ASN S 11 71 ? 75.875 51.005 -8.694  1.00 245.76 71 V 1 
+ATOM 71  O OD1 . ASN S 11 71 ? 74.855 50.462 -8.298  1.00 265.66 71 V 1 
+ATOM 72  N ND2 . ASN S 11 71 ? 76.392 52.071 -8.097  1.00 234.42 71 V 1 
+ATOM 73  N N   . VAL S 11 72 ? 75.829 48.611 -12.665 1.00 185.12 72 V 1 
+ATOM 74  C CA  . VAL S 11 72 ? 75.284 48.824 -13.975 1.00 217.97 72 V 1 
+ATOM 75  C C   . VAL S 11 72 ? 74.898 47.431 -14.414 1.00 264.35 72 V 1 
+ATOM 76  O O   . VAL S 11 72 ? 75.378 46.450 -13.822 1.00 298.55 72 V 1 
+ATOM 77  C CB  . VAL S 11 72 ? 76.346 49.528 -14.867 1.00 213.57 72 V 1 
+ATOM 78  C CG1 . VAL S 11 72 ? 76.271 49.165 -16.343 1.00 198.25 72 V 1 
+ATOM 79  C CG2 . VAL S 11 72 ? 76.223 51.029 -14.707 1.00 216.78 72 V 1 
+ATOM 80  N N   . PRO S 11 73 ? 73.983 47.327 -15.398 1.00 283.94 73 V 1 
+ATOM 81  C CA  . PRO S 11 73 ? 73.807 46.014 -15.981 1.00 279.38 73 V 1 
+ATOM 82  C C   . PRO S 11 73 ? 74.933 45.718 -16.917 1.00 257.63 73 V 1 
+ATOM 83  O O   . PRO S 11 73 ? 75.682 46.608 -17.298 1.00 235.18 73 V 1 
+ATOM 84  C CB  . PRO S 11 73 ? 72.527 46.131 -16.799 1.00 271.10 73 V 1 
+ATOM 85  C CG  . PRO S 11 73 ? 72.233 47.570 -16.943 1.00 269.84 73 V 1 
+ATOM 86  C CD  . PRO S 11 73 ? 73.151 48.351 -16.056 1.00 277.83 73 V 1 
+ATOM 87  N N   . ALA S 11 74 ? 75.029 44.470 -17.329 1.00 242.38 74 V 1 
+ATOM 88  C CA  . ALA S 11 74 ? 76.092 44.112 -18.213 1.00 230.44 74 V 1 
+ATOM 89  C C   . ALA S 11 74 ? 75.642 44.491 -19.617 1.00 209.54 74 V 1 
+ATOM 90  O O   . ALA S 11 74 ? 74.491 44.279 -19.994 1.00 197.99 74 V 1 
+ATOM 91  C CB  . ALA S 11 74 ? 76.412 42.638 -18.092 1.00 232.30 74 V 1 
+ATOM 92  N N   . SER S 11 75 ? 76.549 45.101 -20.366 1.00 198.27 75 V 1 
+ATOM 93  C CA  . SER S 11 75 ? 76.297 45.456 -21.749 1.00 195.82 75 V 1 
+ATOM 94  C C   . SER S 11 75 ? 77.299 44.745 -22.642 1.00 202.06 75 V 1 
+ATOM 95  O O   . SER S 11 75 ? 78.476 44.607 -22.302 1.00 213.44 75 V 1 
+ATOM 96  C CB  . SER S 11 75 ? 76.401 46.968 -21.951 1.00 203.09 75 V 1 
+ATOM 97  O OG  . SER S 11 75 ? 77.750 47.408 -21.915 1.00 217.09 75 V 1 
+ATOM 98  N N   . VAL S 11 76 ? 76.824 44.320 -23.804 1.00 208.00 76 V 1 
+ATOM 99  C CA  . VAL S 11 76 ? 77.636 43.592 -24.775 1.00 214.98 76 V 1 
+ATOM 100 C C   . VAL S 11 76 ? 77.890 44.587 -25.884 1.00 225.51 76 V 1 
+ATOM 101 O O   . VAL S 11 76 ? 77.338 44.502 -26.990 1.00 228.59 76 V 1 
+ATOM 102 C CB  . VAL S 11 76 ? 76.939 42.282 -25.224 1.00 216.34 76 V 1 
+ATOM 103 C CG1 . VAL S 11 76 ? 77.313 41.839 -26.642 1.00 205.67 76 V 1 
+ATOM 104 C CG2 . VAL S 11 76 ? 77.267 41.187 -24.226 1.00 207.31 76 V 1 
+ATOM 105 N N   . ARG S 11 77 ? 78.721 45.568 -25.543 1.00 237.00 77 V 1 
+ATOM 106 C CA  . ARG S 11 77 ? 79.095 46.613 -26.482 1.00 242.19 77 V 1 
+ATOM 107 C C   . ARG S 11 77 ? 79.629 45.934 -27.736 1.00 228.34 77 V 1 
+ATOM 108 O O   . ARG S 11 77 ? 80.592 45.178 -27.673 1.00 233.71 77 V 1 
+ATOM 109 C CB  . ARG S 11 77 ? 80.174 47.537 -25.899 1.00 238.34 77 V 1 
+ATOM 110 C CG  . ARG S 11 77 ? 79.805 48.275 -24.618 1.00 222.65 77 V 1 
+ATOM 111 C CD  . ARG S 11 77 ? 80.898 49.270 -24.259 1.00 207.56 77 V 1 
+ATOM 112 N NE  . ARG S 11 77 ? 80.930 49.579 -22.832 1.00 205.94 77 V 1 
+ATOM 113 C CZ  . ARG S 11 77 ? 81.811 50.396 -22.254 1.00 196.52 77 V 1 
+ATOM 114 N NH1 . ARG S 11 77 ? 82.750 51.002 -22.974 1.00 178.81 77 V 1 
+ATOM 115 N NH2 . ARG S 11 77 ? 81.754 50.615 -20.944 1.00 200.37 77 V 1 
+ATOM 116 N N   . TYR S 11 78 ? 78.977 46.168 -28.865 1.00 212.11 78 V 1 
+ATOM 117 C CA  . TYR S 11 78 ? 79.478 45.690 -30.140 1.00 197.12 78 V 1 
+ATOM 118 C C   . TYR S 11 78 ? 79.882 44.223 -30.137 1.00 179.37 78 V 1 
+ATOM 119 O O   . TYR S 11 78 ? 80.367 43.712 -31.149 1.00 165.38 78 V 1 
+ATOM 120 C CB  . TYR S 11 78 ? 80.670 46.547 -30.560 1.00 196.45 78 V 1 
+ATOM 121 C CG  . TYR S 11 78 ? 80.273 47.883 -31.121 1.00 219.29 78 V 1 
+ATOM 122 C CD1 . TYR S 11 78 ? 79.262 47.984 -32.082 1.00 229.11 78 V 1 
+ATOM 123 C CD2 . TYR S 11 78 ? 80.905 49.047 -30.708 1.00 226.18 78 V 1 
+ATOM 124 C CE1 . TYR S 11 78 ? 78.886 49.206 -32.603 1.00 230.68 78 V 1 
+ATOM 125 C CE2 . TYR S 11 78 ? 80.537 50.277 -31.228 1.00 239.36 78 V 1 
+ATOM 126 C CZ  . TYR S 11 78 ? 79.527 50.349 -32.176 1.00 243.21 78 V 1 
+ATOM 127 O OH  . TYR S 11 78 ? 79.143 51.559 -32.706 1.00 249.39 78 V 1 
+#
