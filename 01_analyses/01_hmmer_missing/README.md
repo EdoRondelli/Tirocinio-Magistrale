@@ -20,3 +20,6 @@ iqtree -s 02_trimmed2COX-m MFP -B 1000 -T 20
 ```
 
 We then realized that COX proteins are not paralogs, creating an alignment of all the COX proteins revealed that they only share 1 identical region of AAs consistently, so creating a tree or HMMER model of this group is useless, so the work done here is simply a practice on creating species-based trees, using the 18 OGs of the COX proteins.
+
+Initial tree failed (considered each header containing species + orthogroup as a different individual instead of grouping by species, so we removed the portion after the header), thus the tree could group by the species indicator in the header.
+
