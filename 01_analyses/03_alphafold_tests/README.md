@@ -17,3 +17,7 @@ ANother option, since RMSDs are usually low and TMs high, since its the same pro
 <img width="260" height="75" alt="image" src="https://github.com/user-attachments/assets/5faf60ff-3b40-45f9-8e83-cdd20ea056d0" />
 
 AVerage score of unrelated proteins is 0.13-0.2, thus giving error of 80%, Xu & Zhang, 2010 (I-TASSER benchmarking), but here the errors are all <1%.
+
+
+# Found that nd3, when being locally translated from the ncbi nucleotide to the assumed AA, was incorrect. A frameshift anomaly causes the actual AA sequence to be different to what a simple
+# translation would give. Re-created complex 1 using the direct AA sequence isolated, and taken from NCBI. 
