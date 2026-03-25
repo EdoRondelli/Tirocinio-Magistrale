@@ -21,3 +21,5 @@ AVerage score of unrelated proteins is 0.13-0.2, thus giving error of 80%, Xu & 
 
 ### Found that nd3, when being locally translated from the ncbi nucleotide to the assumed AA, was incorrect. A frameshift anomaly causes the actual AA sequence to be different to what a simple
 ### translation would give. Re-created complex 1 using the direct AA sequence isolated, and taken from NCBI. 
+
+MUST DO MATCHMAKER CHAIN BY CHAIN BUT THIS WAY WE OBTAIN THE ENTIRE RMSD.
