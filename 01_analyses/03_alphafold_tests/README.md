@@ -30,4 +30,6 @@ MUST DO MATCHMAKER CHAIN BY CHAIN BUT THIS WAY WE OBTAIN THE ENTIRE RMSD.
 matchmaker #1/A,B,C to #2/A,B,C pairing ss showAlignment true 
 or
 use menu, match each chain, it returns an average rmsd of all the matched parts, colouring has to be done by selecting each chain from the log menu individually though
+https://www.cgl.ucsf.edu/chimerax/docs/user/commands/matchmaker.html
+https://www.youtube.com/watch?v=EEV-l067T6g
 
