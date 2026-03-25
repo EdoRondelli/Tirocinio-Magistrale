@@ -23,4 +23,7 @@ AVerage score of unrelated proteins is 0.13-0.2, thus giving error of 80%, Xu & 
 ### translation would give. Re-created complex 1 using the direct AA sequence isolated, and taken from NCBI. 
 
 MUST DO MATCHMAKER CHAIN BY CHAIN BUT THIS WAY WE OBTAIN THE ENTIRE RMSD.
-matchmaker #1/A,B,C to #2/A,B,C pairing ss showAlignment true
+matchmaker #1/A,B,C to #2/A,B,C pairing ss showAlignment true 
+or
+use menu, match each chain, it returns an average rmsd of all the matched parts, colouring has to be done by selecting each chain from the log menu individually though
+
