@@ -16,6 +16,10 @@ This can be converted to a % difference --> e.g. TM 0.99 = 1% error.
 ANother option, since RMSDs are usually low and TMs high, since its the same protein, is normalizing RMSD by amount of aligned residues:
 <img width="260" height="75" alt="image" src="https://github.com/user-attachments/assets/5faf60ff-3b40-45f9-8e83-cdd20ea056d0" />
 
+https://onlinelibrary.wiley.com/doi/10.1002/prot.20264
+https://aideepmed.com/TM-score/ 
+sources for tm score approximation
+
 AVerage score of unrelated proteins is 0.13-0.2, thus giving error of 80%, Xu & Zhang, 2010 (I-TASSER benchmarking), but here the errors are all <1%.
 
 
