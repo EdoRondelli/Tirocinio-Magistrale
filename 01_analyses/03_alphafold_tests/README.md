@@ -18,7 +18,7 @@ ANother option, since RMSDs are usually low and TMs high, since its the same pro
 
 https://onlinelibrary.wiley.com/doi/10.1002/prot.20264
 https://aideepmed.com/TM-score/ 
-sources for tm score approximation
+sources for tm score approximation (basically instead of summing each individual distance for the dormula 1/summation(di/d0) it uses the average, which is the rmsd)
 
 AVerage score of unrelated proteins is 0.13-0.2, thus giving error of 80%, Xu & Zhang, 2010 (I-TASSER benchmarking), but here the errors are all <1%.
 
