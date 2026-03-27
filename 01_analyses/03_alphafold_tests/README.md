@@ -35,3 +35,6 @@ https://www.youtube.com/watch?v=EEV-l067T6g
 
 apparently must both match chains (easier if you first matchmake automatically, then select on chain of reference and click the other colour close to it, which is the same chain on the other superimposed model).
 Must generate the alignment for rmsd to work i have no  clue why
+
+If matching number error (e.g. 20refs 19 matches) probably have a dupe of one or the other inserted wihtout noticing.
+
