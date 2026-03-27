@@ -38,3 +38,5 @@ Must generate the alignment for rmsd to work i have no  clue why
 
 If matching number error (e.g. 20refs 19 matches) probably have a dupe of one or the other inserted wihtout noticing.
 
+Possible idea for colouring: Colour X (that stands out) for residues which are in alphafold model which are not in PDB reference. Colour Y for residues which are in PDB model but not in alphafold one. Rest, which is matched can be coloured based on traditional gradient.
+Alternative, residues which are incompatible can have the colour of the most distant shade of traditional gradiant colour matching (e.g. darkest blue possible if blue means large Armstrong distance).
