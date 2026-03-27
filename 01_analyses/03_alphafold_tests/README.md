@@ -16,8 +16,22 @@ This can be converted to a % difference --> e.g. TM 0.99 = 1% error.
 ANother option, since RMSDs are usually low and TMs high, since its the same protein, is normalizing RMSD by amount of aligned residues:
 <img width="260" height="75" alt="image" src="https://github.com/user-attachments/assets/5faf60ff-3b40-45f9-8e83-cdd20ea056d0" />
 
+https://onlinelibrary.wiley.com/doi/10.1002/prot.20264
+https://aideepmed.com/TM-score/ 
+sources for tm score approximation (basically instead of summing each individual distance for the dormula 1/summation(di/d0) it uses the average, which is the rmsd)
+
 AVerage score of unrelated proteins is 0.13-0.2, thus giving error of 80%, Xu & Zhang, 2010 (I-TASSER benchmarking), but here the errors are all <1%.
 
 
-# Found that nd3, when being locally translated from the ncbi nucleotide to the assumed AA, was incorrect. A frameshift anomaly causes the actual AA sequence to be different to what a simple
-# translation would give. Re-created complex 1 using the direct AA sequence isolated, and taken from NCBI. 
+### Found that nd3, when being locally translated from the ncbi nucleotide to the assumed AA, was incorrect. A frameshift anomaly causes the actual AA sequence to be different to what a simple
+### translation would give. Re-created complex 1 using the direct AA sequence isolated, and taken from NCBI. 
+
+MUST DO MATCHMAKER CHAIN BY CHAIN BUT THIS WAY WE OBTAIN THE ENTIRE RMSD.
+matchmaker #1/A,B,C to #2/A,B,C pairing ss showAlignment true 
+or
+use menu, match each chain, it returns an average rmsd of all the matched parts, colouring has to be done by selecting each chain from the log menu individually though
+https://www.cgl.ucsf.edu/chimerax/docs/user/commands/matchmaker.html
+https://www.youtube.com/watch?v=EEV-l067T6g
+
+apparently must both match chains (easier if you first matchmake automatically, then select on chain of reference and click the other colour close to it, which is the same chain on the other superimposed model).
+Must generate the alignment for rmsd to work i have no  clue why
