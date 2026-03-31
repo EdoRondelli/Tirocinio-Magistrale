@@ -38,3 +38,9 @@ for unsureOG in $(cat separated_og_names.txt); do count=$(grep -c ">" /home/SHAR
 ```
 
 Discovered that some files with over 129 species were however eliminated by DISCO processing because they were not present in the DISCO product folder, so now we checked why and how. Found that 2 files categorized as "elimninated by trimming" were actually eliminated by DISCO, as they were not present in the /home/SHARED/00_Mitochondrial_aves/01_analyses/04_orthology/02_disco_OG location. These two files are OG0009750.fa and OG0001580.fa. 
+
+
+
+# Fixing orthogroups of proteins which have targeting peptide still attached
+First check with TargetP2.0 if a peptide was recognized in the specific proteins (all subunits of comp1/3)
+If peptide is not recognized, check alignment and see if in other similar species peptide was found, if it was then it was probably missed, so use alignment to remove that portion
