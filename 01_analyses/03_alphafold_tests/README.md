@@ -21,6 +21,7 @@ https://aideepmed.com/TM-score/
 sources for tm score approximation (basically instead of summing each individual distance for the dormula 1/summation(di/d0) it uses the average, which is the rmsd)
 
 AVerage score of unrelated proteins is 0.13-0.2, thus giving error of 80%, Xu & Zhang, 2010 (I-TASSER benchmarking), but here the errors are all <1%.
+ANOTHER NORMALIZATION OPTION - 100RESIDUE NORMALIZED RMSD - https://pmc.ncbi.nlm.nih.gov/articles/PMC2374114/
 
 
 ### Found that nd3, when being locally translated from the ncbi nucleotide to the assumed AA, was incorrect. A frameshift anomaly causes the actual AA sequence to be different to what a simple
