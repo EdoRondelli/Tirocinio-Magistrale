@@ -42,3 +42,8 @@ Possible idea for colouring: Colour X (that stands out) for residues which are i
 Alternative, residues which are incompatible can have the colour of the most distant shade of traditional gradiant colour matching (e.g. darkest blue possible if blue means large Armstrong distance).
 
 Seeing the RMSD results for complex 1 perhaps it makes sense to use unpruned metrics, as complex1 appears much better than it is, in the others pruning makes little difference but in complex1 it is a large difference in average rmsd if we prune with chimera rmsd calculation. Calulating rmsd returns a pruned and non pruned rmsd, pruning basically cuts off atom pairs which are over a chosen threshold, which i think  is 2A. In other complexes there are very few paired atoms over this distance but because of the angle change in the L shape in complex 1 between alphafold and PDB models there are many atoms over that distance. Either change threshold, or use non-pruned for all?
+
+## TARGETING PEPTIDES
+noticed that not all targeting peptides (which localize nuclear subunits to mitochondria) were removed and thus the models created still contained them
+first ran program TargetP2.0 on our own sequences, which found some, others which wrere not able to be located were then derived from aligning mature / full / peptides of similar organisms in aliview to get an idea of possible target peptide of our chosen model and protein (seeing other tpS of similar organisms, and seeing similar mature sequences of similar organisms, compared to the full uncleaved target organism proteins). THis was done for complexes 1/2 (which were both fully constructed with our own orthogroups excepd sdhb which was just in our annotated genomes).
+Then aim to re-construct complex 3+4 as well. 
