@@ -48,3 +48,5 @@ Seeing the RMSD results for complex 1 perhaps it makes sense to use unpruned met
 noticed that not all targeting peptides (which localize nuclear subunits to mitochondria) were removed and thus the models created still contained them
 first ran program TargetP2.0 on our own sequences, which found some, others which wrere not able to be located were then derived from aligning mature / full / peptides of similar organisms in aliview to get an idea of possible target peptide of our chosen model and protein (seeing other tpS of similar organisms, and seeing similar mature sequences of similar organisms, compared to the full uncleaved target organism proteins). THis was done for complexes 1/2 (which were both fully constructed with our own orthogroups excepd sdhb which was just in our annotated genomes).
 Then aim to re-construct complex 3+4 as well. 
+
+Some sequences of these complexes were not available in mature form, so alignment was done manually comparing to others which had the mature, cutting the TP at conserved locations.
