@@ -23,3 +23,7 @@ We then realized that COX proteins are not paralogs, creating an alignment of al
 
 Initial tree failed (considered each header containing species + orthogroup as a different individual instead of grouping by species, so we removed the portion after the header), thus the tree could group by the species indicator in the header.
 
+
+# Search of CYC 1 in gagal
+we found cyc1 sequences in some species, and used diamond to transform the gagal proteome fasta into a searchable database, then allowing us to search the cyc1 sequences in it but found no results.
+next step is downloading the entire gagal genome and searching in that.
