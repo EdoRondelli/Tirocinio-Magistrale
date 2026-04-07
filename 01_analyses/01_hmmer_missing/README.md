@@ -27,3 +27,4 @@ Initial tree failed (considered each header containing species + orthogroup as a
 # Search of CYC 1 in gagal
 we found cyc1 sequences in some species, and used diamond to transform the gagal proteome fasta into a searchable database, then allowing us to search the cyc1 sequences in it but found no results.
 next step is downloading the entire gagal genome and searching in that.
+CYC1 is unable to be found in any gagal genome through blast, in our local genome or online genomes either, so we construct a hmmer model of the cyc proteins we have and then use that to search against a db.
