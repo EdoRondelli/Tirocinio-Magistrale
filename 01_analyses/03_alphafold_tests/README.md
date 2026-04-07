@@ -56,3 +56,6 @@ COX6B -> didnt get throguh disco. had to retrieve the orthgroups and process the
 COX6C -> orthogroup didnt have a mature strain, so wasnt processed by targetp, so we manually compared with pdb structure crystals and other uniprot sequences, and here we also found two reasonable cleavage sites, so will work alphafold on both
 COX8A -> didnt get through disco but ran target tp program on it and a clear cut site presented, even when compared to available sequences on unipro.
 WILL RUN 2 SEPARATE ALPHAFOLDS, ONE WITH BOTH SHORTER AND ONE WITH BOTH LONGER REASONABLE SEQUENCES.
+
+COMPLEX 3 RECONSTRUCTION
+Only two main proteins gave issues, cyc1 (which we did not have at all) and uqcrhl. For UQCRHL the alignment was weird but we manually cut the target peptide.
