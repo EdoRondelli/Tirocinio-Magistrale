@@ -29,3 +29,5 @@ we found cyc1 sequences in some species, and used diamond to transform the gagal
 next step is downloading the entire gagal genome and searching in that.
 CYC1 is unable to be found in any gagal genome through blast, in our local genome or online genomes either, so we construct a hmmer model of the cyc proteins we have and then use that to search against a db.
 Found 1 hit of 280bp with the hmmer model agains tthe gagal genome (using nhmmer command), bit value 44 and very low e value, so likely relevant, however doesnt contain the whole gene, so our goal is to expand this region 1500bp in both directions so we can perhaps annotate it and find the gene it is a part of.
+Used samtools to expansd and download, the annotated with agusutus prediction, found nohting.
+COmpared these results to a search in the Ancyg genome, which showed both a much better match of sequences in hmm model, and also the +-1500 bp extract at the match showed results in augustus.
