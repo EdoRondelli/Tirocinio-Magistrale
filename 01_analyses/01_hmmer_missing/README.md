@@ -31,3 +31,5 @@ CYC1 is unable to be found in any gagal genome through blast, in our local genom
 Found 1 hit of 280bp with the hmmer model agains tthe gagal genome (using nhmmer command), bit value 44 and very low e value, so likely relevant, however doesnt contain the whole gene, so our goal is to expand this region 1500bp in both directions so we can perhaps annotate it and find the gene it is a part of.
 Used samtools to expansd and download, the annotated with agusutus prediction, found nohting.
 COmpared these results to a search in the Ancyg genome, which showed both a much better match of sequences in hmm model, and also the +-1500 bp extract at the match showed results in augustus.
+
+Another thing we tried was searching for cyc1 by curating manually the alignments of cyc1 which go to create the hmm model, to try and make the model better, by eliminating those species which greatly deviated from the average alignment.
