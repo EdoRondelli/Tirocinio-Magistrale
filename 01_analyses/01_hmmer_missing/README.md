@@ -32,4 +32,4 @@ Found 1 hit of 280bp with the hmmer model agains tthe gagal genome (using nhmmer
 Used samtools to expansd and download, the annotated with agusutus prediction, found nohting.
 COmpared these results to a search in the Ancyg genome, which showed both a much better match of sequences in hmm model, and also the +-1500 bp extract at the match showed results in augustus.
 
-Another thing we tried was searching for cyc1 by curating manually the alignments of cyc1 which go to create the hmm model, to try and make the model better, by eliminating those species which greatly deviated from the average alignment.
+Another thing we tried was searching for cyc1 by curating manually the alignments of cyc1 which go to create the hmm model, to try and make the model better, by eliminating those species which greatly deviated from the average alignment. Still found low scoring matches with this model vs the gagal genome.
