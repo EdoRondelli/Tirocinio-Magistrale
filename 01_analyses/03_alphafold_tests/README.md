@@ -55,7 +55,13 @@ Some sequences of these complexes were not available in mature form, so alignmen
 COX6B -> didnt get throguh disco. had to retrieve the orthgroups and process them with targetp. results were compared with available sequences from uniprot and then also the sequences found in the crystal structures in PDB, and we concluded that there were two possible reasonable cut points for the mature sequence, so we will test alphafold structure with both.
 COX6C -> orthogroup didnt have a mature strain, so wasnt processed by targetp, so we manually compared with pdb structure crystals and other uniprot sequences, and here we also found two reasonable cleavage sites, so will work alphafold on both
 COX8A -> didnt get through disco but ran target tp program on it and a clear cut site presented, even when compared to available sequences on unipro.
-WILL RUN 2 SEPARATE ALPHAFOLDS, ONE WITH BOTH SHORTER AND ONE WITH BOTH LONGER REASONABLE SEQUENCES.
+ RUN 2 SEPARATE ALPHAFOLDS, ONE WITH BOTH SHORTER AND ONE WITH BOTH LONGER REASONABLE SEQUENCES.
 
 COMPLEX 3 RECONSTRUCTION
 Only two main proteins gave issues, cyc1 (which we did not have at all) and uqcrhl. For UQCRHL the alignment was weird but we manually cut the target peptide.
+
+
+
+## Completion of models
+Completed thus the 4 models with alphafold, and obtained superimposition of them all with either botau/gagal/both. Added Fa4 (COX4A) subunit to complex 4 which is included in literature and some pdb structured.
+
