@@ -23,3 +23,13 @@ We then realized that COX proteins are not paralogs, creating an alignment of al
 
 Initial tree failed (considered each header containing species + orthogroup as a different individual instead of grouping by species, so we removed the portion after the header), thus the tree could group by the species indicator in the header.
 
+
+# Search of CYC 1 in gagal
+we found cyc1 sequences in some species, and used diamond to transform the gagal proteome fasta into a searchable database, then allowing us to search the cyc1 sequences in it but found no results.
+next step is downloading the entire gagal genome and searching in that.
+CYC1 is unable to be found in any gagal genome through blast, in our local genome or online genomes either, so we construct a hmmer model of the cyc proteins we have and then use that to search against a db.
+Found 1 hit of 280bp with the hmmer model agains tthe gagal genome (using nhmmer command), bit value 44 and very low e value, so likely relevant, however doesnt contain the whole gene, so our goal is to expand this region 1500bp in both directions so we can perhaps annotate it and find the gene it is a part of.
+Used samtools to expansd and download, the annotated with agusutus prediction, found nohting.
+COmpared these results to a search in the Ancyg genome, which showed both a much better match of sequences in hmm model, and also the +-1500 bp extract at the match showed results in augustus.
+
+Another thing we tried was searching for cyc1 by curating manually the alignments of cyc1 which go to create the hmm model, to try and make the model better, by eliminating those species which greatly deviated from the average alignment. Still found low scoring matches with this model vs the gagal genome.
