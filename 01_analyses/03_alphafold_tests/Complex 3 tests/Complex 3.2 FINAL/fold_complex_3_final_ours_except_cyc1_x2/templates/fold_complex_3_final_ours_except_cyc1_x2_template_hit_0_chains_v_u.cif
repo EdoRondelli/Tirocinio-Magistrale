@@ -1,0 +1,662 @@
+data_5gup
+#
+_entry.id 5gup
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"         89.093   ALA y ALANINE                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C6 H15 N4 O2 1"     175.209  ARG y ARGININE                                                                                                                              ?                                                                                  "L-peptide linking" 
+"C4 H8 N2 O3"        132.118  ASN y ASPARAGINE                                                                                                                            ?                                                                                  "L-peptide linking" 
+"C4 H7 N O4"         133.103  ASP y "ASPARTIC ACID"                                                                                                                       ?                                                                                  "L-peptide linking" 
+"C81 H156 O17 P2 -2" 1464.043 CDL . CARDIOLIPIN                                                                                                                           "DIPHOSPHATIDYL GLYCEROL; BIS-(1,2-DIACYL-SN-GLYCERO-3-PHOSPHO)-1',3'-SN-GLYCEROL" non-polymer         
+"Cu 2"               63.546   CU  . "COPPER (II) ION"                                                                                                                     ?                                                                                  non-polymer         
+"C3 H7 N O2 S"       121.158  CYS y CYSTEINE                                                                                                                              ?                                                                                  "L-peptide linking" 
+"Fe2 S2"             175.820  FES . "FE2/S2 (INORGANIC) CLUSTER"                                                                                                          ?                                                                                  non-polymer         
+"C17 H21 N4 O9 P"    456.344  FMN . "FLAVIN MONONUCLEOTIDE"                                                                                                               "RIBOFLAVIN MONOPHOSPHATE"                                                         non-polymer         
+"C5 H10 N2 O3"       146.144  GLN y GLUTAMINE                                                                                                                             ?                                                                                  "L-peptide linking" 
+"C5 H9 N O4"         147.129  GLU y "GLUTAMIC ACID"                                                                                                                       ?                                                                                  "L-peptide linking" 
+"C2 H5 N O2"         75.067   GLY y GLYCINE                                                                                                                               ?                                                                                  "peptide linking"   
+"C49 H56 Fe N4 O6"   852.837  HEA . HEME-A                                                                                                                                ?                                                                                  non-polymer         
+"C34 H34 Fe N4 O4"   618.503  HEC . "HEME C"                                                                                                                              ?                                                                                  non-polymer         
+"C34 H32 Fe N4 O4"   616.487  HEM . "PROTOPORPHYRIN IX CONTAINING FE"                                                                                                     HEME                                                                               non-polymer         
+"C6 H10 N3 O2 1"     156.162  HIS y HISTIDINE                                                                                                                             ?                                                                                  "L-peptide linking" 
+"C6 H13 N O2"        131.173  ILE y ISOLEUCINE                                                                                                                            ?                                                                                  "L-peptide linking" 
+"C6 H13 N O2"        131.173  LEU y LEUCINE                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C6 H15 N2 O2 1"     147.195  LYS y LYSINE                                                                                                                                ?                                                                                  "L-peptide linking" 
+"C5 H11 N O2 S"      149.211  MET y METHIONINE                                                                                                                            ?                                                                                  "L-peptide linking" 
+"Mg 2"               24.305   MG  . "MAGNESIUM ION"                                                                                                                       ?                                                                                  non-polymer         
+"C21 H30 N7 O17 P3"  745.421  NDP . "NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE"                                                                           ?                                                                                  non-polymer         
+"C41 H83 N O8 P 1"   749.073  PEE . 1,2-Dioleoyl-sn-glycero-3-phosphoethanolamine                                                                                         DOPE                                                                               non-polymer         
+"C9 H11 N O2"        165.189  PHE y PHENYLALANINE                                                                                                                         ?                                                                                  "L-peptide linking" 
+"C42 H89 N O8 P 1"   767.132  PLX . (9R,11S)-9-({[(1S)-1-HYDROXYHEXADECYL]OXY}METHYL)-2,2-DIMETHYL-5,7,10-TRIOXA-2LAMBDA~5~-AZA-6LAMBDA~5~-PHOSPHAOCTACOSANE-6,6,11-TRIOL ?                                                                                  non-polymer         
+"C5 H9 N O2"         115.130  PRO y PROLINE                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C3 H7 N O3"         105.093  SER y SERINE                                                                                                                                ?                                                                                  "L-peptide linking" 
+"Fe4 S4"             351.640  SF4 . "IRON/SULFUR CLUSTER"                                                                                                                 ?                                                                                  non-polymer         
+"C4 H9 N O3"         119.119  THR y THREONINE                                                                                                                             ?                                                                                  "L-peptide linking" 
+"C11 H12 N2 O2"      204.225  TRP y TRYPTOPHAN                                                                                                                            ?                                                                                  "L-peptide linking" 
+"C9 H11 N O3"        181.189  TYR y TYROSINE                                                                                                                              ?                                                                                  "L-peptide linking" 
+"C4 H9 N O2"         103.120  UNK . UNKNOWN                                                                                                                               ?                                                                                  "L-peptide linking" 
+"C5 H11 N O2"        117.146  VAL y VALINE                                                                                                                                ?                                                                                  "L-peptide linking" 
+"C25 H49 N2 O8 P S"  568.704  ZMP . "S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] tetradecanethioate"                         ?                                                                                  non-polymer         
+"Zn 2"               65.409   ZN  . "ZINC ION"                                                                                                                            ?                                                                                  non-polymer         
+#
+_entity.id               54
+_entity.pdbx_description "Cytochrome b-c1 complex subunit 10"
+_entity.type             polymer
+#
+_entity_poly.entity_id      54
+_entity_poly.pdbx_strand_id 3
+_entity_poly.type           polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+54 n MET 1  
+54 n LEU 2  
+54 n SER 3  
+54 n ARG 4  
+54 n PHE 5  
+54 n LEU 6  
+54 n GLY 7  
+54 n PRO 8  
+54 n ARG 9  
+54 n TYR 10 
+54 n ARG 11 
+54 n GLU 12 
+54 n LEU 13 
+54 n ALA 14 
+54 n ARG 15 
+54 n ASN 16 
+54 n TRP 17 
+54 n ILE 18 
+54 n PRO 19 
+54 n THR 20 
+54 n ALA 21 
+54 n SER 22 
+54 n MET 23 
+54 n TRP 24 
+54 n GLY 25 
+54 n ALA 26 
+54 n VAL 27 
+54 n GLY 28 
+54 n ALA 29 
+54 n VAL 30 
+54 n GLY 31 
+54 n LEU 32 
+54 n VAL 33 
+54 n TRP 34 
+54 n ALA 35 
+54 n THR 36 
+54 n ASP 37 
+54 n TRP 38 
+54 n ARG 39 
+54 n LEU 40 
+54 n ILE 41 
+54 n LEU 42 
+54 n ASP 43 
+54 n TRP 44 
+54 n VAL 45 
+54 n PRO 46 
+54 n TYR 47 
+54 n ILE 48 
+54 n ASN 49 
+54 n GLY 50 
+54 n LYS 51 
+54 n PHE 52 
+54 n LYS 53 
+54 n LYS 54 
+54 n GLU 55 
+54 n ASP 56 
+#
+_exptl.method "ELECTRON MICROSCOPY"
+#
+_pdbx_audit_revision_history.revision_date 2017-03-29
+#
+_pdbx_database_status.recvd_initial_deposition_date 2017-03-29
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+DB ?  54 n MET . 1  3 1  
+DB 2  54 n LEU . 2  3 2  
+DB 3  54 n SER . 3  3 3  
+DB 4  54 n ARG . 4  3 4  
+DB 5  54 n PHE . 5  3 5  
+DB 6  54 n LEU . 6  3 6  
+DB 7  54 n GLY . 7  3 7  
+DB 8  54 n PRO . 8  3 8  
+DB 9  54 n ARG . 9  3 9  
+DB 10 54 n TYR . 10 3 10 
+DB 11 54 n ARG . 11 3 11 
+DB 12 54 n GLU . 12 3 12 
+DB 13 54 n LEU . 13 3 13 
+DB 14 54 n ALA . 14 3 14 
+DB 15 54 n ARG . 15 3 15 
+DB 16 54 n ASN . 16 3 16 
+DB 17 54 n TRP . 17 3 17 
+DB 18 54 n ILE . 18 3 18 
+DB 19 54 n PRO . 19 3 19 
+DB 20 54 n THR . 20 3 20 
+DB 21 54 n ALA . 21 3 21 
+DB 22 54 n SER . 22 3 22 
+DB 23 54 n MET . 23 3 23 
+DB 24 54 n TRP . 24 3 24 
+DB 25 54 n GLY . 25 3 25 
+DB 26 54 n ALA . 26 3 26 
+DB 27 54 n VAL . 27 3 27 
+DB 28 54 n GLY . 28 3 28 
+DB 29 54 n ALA . 29 3 29 
+DB 30 54 n VAL . 30 3 30 
+DB 31 54 n GLY . 31 3 31 
+DB 32 54 n LEU . 32 3 32 
+DB 33 54 n VAL . 33 3 33 
+DB 34 54 n TRP . 34 3 34 
+DB 35 54 n ALA . 35 3 35 
+DB 36 54 n THR . 36 3 36 
+DB 37 54 n ASP . 37 3 37 
+DB 38 54 n TRP . 38 3 38 
+DB 39 54 n ARG . 39 3 39 
+DB 40 54 n LEU . 40 3 40 
+DB 41 54 n ILE . 41 3 41 
+DB 42 54 n LEU . 42 3 42 
+DB 43 54 n ASP . 43 3 43 
+DB 44 54 n TRP . 44 3 44 
+DB 45 54 n VAL . 45 3 45 
+DB 46 54 n PRO . 46 3 46 
+DB 47 54 n TYR . 47 3 47 
+DB 48 54 n ILE . 48 3 48 
+DB 49 54 n ASN . 49 3 49 
+DB 50 54 n GLY . 50 3 50 
+DB 51 54 n LYS . 51 3 51 
+DB 52 54 n PHE . 52 3 52 
+DB ?  54 n LYS . 53 3 53 
+DB ?  54 n LYS . 54 3 54 
+DB ?  54 n GLU . 55 3 55 
+DB ?  54 n ASP . 56 3 56 
+#
+_pdbx_struct_assembly.details            author_defined_assembly
+_pdbx_struct_assembly.id                 1
+_pdbx_struct_assembly.method_details     ?
+_pdbx_struct_assembly.oligomeric_count   80
+_pdbx_struct_assembly.oligomeric_details 80-meric
+#
+_pdbx_struct_assembly_gen.assembly_id     1
+_pdbx_struct_assembly_gen.asym_id_list    A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,BA,CA,DA,EA,FA,GA,HA,IA,JA,KA,LA,MA,NA,OA,PA,QA,RA,SA,TA,UA,VA,WA,XA,YA,ZA,AB,BB,CB,DB,EB,FB,GB,HB,IB,JB,KB,LB,MB,NB,OB,PB,QB,RB,SB,TB,UB,VB,WB,XB,YB,ZB,AC,BC,CC,DC,EC,FC,GC,HC,IC,JC,KC,LC,MC,NC,OC,PC,QC,RC,SC,TC,UC,VC,WC,XC,YC,ZC,AD,BD,CD,DD,ED,FD,GD,HD,ID,JD,KD,LD,MD,ND,OD,PD,QD,RD,SD,TD,UD,VD,WD,XD,YD,ZD,AE,BE
+_pdbx_struct_assembly_gen.oper_expression 1
+#
+_pdbx_struct_oper_list.id                 1
+_pdbx_struct_oper_list.matrix[1][1]       1.0000000000
+_pdbx_struct_oper_list.matrix[1][2]       0.0000000000
+_pdbx_struct_oper_list.matrix[1][3]       0.0000000000
+_pdbx_struct_oper_list.matrix[2][1]       0.0000000000
+_pdbx_struct_oper_list.matrix[2][2]       1.0000000000
+_pdbx_struct_oper_list.matrix[2][3]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][1]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][2]       0.0000000000
+_pdbx_struct_oper_list.matrix[3][3]       1.0000000000
+_pdbx_struct_oper_list.name               1_555
+_pdbx_struct_oper_list.symmetry_operation ?
+_pdbx_struct_oper_list.type               "identity operation"
+_pdbx_struct_oper_list.vector[1]          0.0000000000
+_pdbx_struct_oper_list.vector[2]          0.0000000000
+_pdbx_struct_oper_list.vector[3]          0.0000000000
+#
+_refine.ls_d_res_high 4.00
+#
+_software.classification other
+_software.name           "DeepMind Structure Class"
+_software.pdbx_ordinal   1
+_software.version        2.0.0
+#
+_struct_asym.entity_id 54
+_struct_asym.id        DB
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1   N N   . LEU DB 54 2  ? 240.500 318.469 267.510 1.00 37.09 2  3 1 
+ATOM 2   C CA  . LEU DB 54 2  ? 241.537 318.304 266.501 1.00 36.77 2  3 1 
+ATOM 3   C C   . LEU DB 54 2  ? 242.907 318.634 267.083 1.00 36.38 2  3 1 
+ATOM 4   O O   . LEU DB 54 2  ? 243.933 318.174 266.586 1.00 36.34 2  3 1 
+ATOM 5   C CB  . LEU DB 54 2  ? 241.243 319.185 265.285 1.00 36.75 2  3 1 
+ATOM 6   C CG  . LEU DB 54 2  ? 242.261 319.162 264.139 1.00 37.55 2  3 1 
+ATOM 7   C CD1 . LEU DB 54 2  ? 242.344 317.775 263.522 1.00 39.75 2  3 1 
+ATOM 8   C CD2 . LEU DB 54 2  ? 241.936 320.212 263.081 1.00 35.03 2  3 1 
+ATOM 9   N N   . SER DB 54 3  ? 242.886 319.491 268.098 1.00 36.04 3  3 1 
+ATOM 10  C CA  . SER DB 54 3  ? 244.076 319.976 268.786 1.00 35.61 3  3 1 
+ATOM 11  C C   . SER DB 54 3  ? 244.783 318.895 269.586 1.00 35.18 3  3 1 
+ATOM 12  O O   . SER DB 54 3  ? 245.951 319.042 269.944 1.00 35.10 3  3 1 
+ATOM 13  C CB  . SER DB 54 3  ? 243.726 321.162 269.688 1.00 30.00 3  3 1 
+ATOM 14  O OG  . SER DB 54 3  ? 242.593 320.875 270.487 1.00 30.00 3  3 1 
+ATOM 15  N N   . ARG DB 54 4  ? 244.075 317.809 269.869 1.00 34.89 4  3 1 
+ATOM 16  C CA  . ARG DB 54 4  ? 244.659 316.744 270.661 1.00 34.58 4  3 1 
+ATOM 17  C C   . ARG DB 54 4  ? 245.896 316.204 269.963 1.00 34.45 4  3 1 
+ATOM 18  O O   . ARG DB 54 4  ? 246.906 315.951 270.617 1.00 34.39 4  3 1 
+ATOM 19  C CB  . ARG DB 54 4  ? 243.663 315.604 270.873 1.00 34.45 4  3 1 
+ATOM 20  C CG  . ARG DB 54 4  ? 243.785 314.496 269.840 1.00 32.66 4  3 1 
+ATOM 21  C CD  . ARG DB 54 4  ? 243.315 313.163 270.397 1.00 31.50 4  3 1 
+ATOM 22  N NE  . ARG DB 54 4  ? 243.864 312.036 269.648 1.00 29.66 4  3 1 
+ATOM 23  C CZ  . ARG DB 54 4  ? 243.236 311.423 268.650 1.00 29.39 4  3 1 
+ATOM 24  N NH1 . ARG DB 54 4  ? 242.030 311.826 268.275 1.00 30.09 4  3 1 
+ATOM 25  N NH2 . ARG DB 54 4  ? 243.814 310.406 268.027 1.00 28.53 4  3 1 
+ATOM 26  N N   . PHE DB 54 5  ? 245.850 316.038 268.644 1.00 34.45 5  3 1 
+ATOM 27  C CA  . PHE DB 54 5  ? 247.047 315.532 267.987 1.00 34.30 5  3 1 
+ATOM 28  C C   . PHE DB 54 5  ? 248.304 316.183 268.551 1.00 33.91 5  3 1 
+ATOM 29  O O   . PHE DB 54 5  ? 249.371 315.575 268.565 1.00 33.83 5  3 1 
+ATOM 30  C CB  . PHE DB 54 5  ? 246.989 315.772 266.476 1.00 34.41 5  3 1 
+ATOM 31  C CG  . PHE DB 54 5  ? 245.945 314.961 265.760 1.00 38.82 5  3 1 
+ATOM 32  C CD1 . PHE DB 54 5  ? 246.206 313.653 265.385 1.00 38.94 5  3 1 
+ATOM 33  C CD2 . PHE DB 54 5  ? 244.721 315.514 265.429 1.00 40.05 5  3 1 
+ATOM 34  C CE1 . PHE DB 54 5  ? 245.257 312.907 264.711 1.00 40.46 5  3 1 
+ATOM 35  C CE2 . PHE DB 54 5  ? 243.769 314.774 264.756 1.00 39.96 5  3 1 
+ATOM 36  C CZ  . PHE DB 54 5  ? 244.038 313.469 264.397 1.00 40.81 5  3 1 
+ATOM 37  N N   . LEU DB 54 6  ? 248.179 317.427 268.997 1.00 33.59 6  3 1 
+ATOM 38  C CA  . LEU DB 54 6  ? 249.313 318.148 269.561 1.00 33.32 6  3 1 
+ATOM 39  C C   . LEU DB 54 6  ? 249.688 317.560 270.915 1.00 32.80 6  3 1 
+ATOM 40  O O   . LEU DB 54 6  ? 248.812 317.183 271.691 1.00 32.88 6  3 1 
+ATOM 41  C CB  . LEU DB 54 6  ? 248.986 319.637 269.686 1.00 33.51 6  3 1 
+ATOM 42  C CG  . LEU DB 54 6  ? 250.116 320.603 270.044 1.00 37.69 6  3 1 
+ATOM 43  C CD1 . LEU DB 54 6  ? 249.885 321.938 269.357 1.00 35.04 6  3 1 
+ATOM 44  C CD2 . LEU DB 54 6  ? 250.220 320.797 271.547 1.00 36.96 6  3 1 
+ATOM 45  N N   . GLY DB 54 7  ? 250.985 317.489 271.204 1.00 32.09 7  3 1 
+ATOM 46  C CA  . GLY DB 54 7  ? 251.436 316.949 272.475 1.00 31.28 7  3 1 
+ATOM 47  C C   . GLY DB 54 7  ? 252.902 316.563 272.547 1.00 30.58 7  3 1 
+ATOM 48  O O   . GLY DB 54 7  ? 253.492 316.150 271.547 1.00 30.44 7  3 1 
+ATOM 49  N N   . PRO DB 54 8  ? 253.497 316.698 273.743 1.00 30.09 8  3 1 
+ATOM 50  C CA  . PRO DB 54 8  ? 254.922 316.443 273.968 1.00 29.68 8  3 1 
+ATOM 51  C C   . PRO DB 54 8  ? 255.369 315.041 273.582 1.00 29.36 8  3 1 
+ATOM 52  O O   . PRO DB 54 8  ? 256.482 314.875 273.088 1.00 29.33 8  3 1 
+ATOM 53  C CB  . PRO DB 54 8  ? 255.072 316.645 275.476 1.00 29.66 8  3 1 
+ATOM 54  C CG  . PRO DB 54 8  ? 253.999 317.592 275.832 1.00 28.91 8  3 1 
+ATOM 55  C CD  . PRO DB 54 8  ? 252.848 317.274 274.932 1.00 30.04 8  3 1 
+ATOM 56  N N   . ARG DB 54 9  ? 254.513 314.047 273.791 1.00 29.08 9  3 1 
+ATOM 57  C CA  . ARG DB 54 9  ? 254.872 312.682 273.439 1.00 28.78 9  3 1 
+ATOM 58  C C   . ARG DB 54 9  ? 254.681 312.504 271.950 1.00 28.68 9  3 1 
+ATOM 59  O O   . ARG DB 54 9  ? 255.450 311.810 271.291 1.00 28.68 9  3 1 
+ATOM 60  C CB  . ARG DB 54 9  ? 254.035 311.668 274.226 1.00 28.68 9  3 1 
+ATOM 61  C CG  . ARG DB 54 9  ? 252.545 311.697 273.927 1.00 26.13 9  3 1 
+ATOM 62  C CD  . ARG DB 54 9  ? 251.766 310.779 274.852 1.00 22.35 9  3 1 
+ATOM 63  N NE  . ARG DB 54 9  ? 252.088 309.364 274.699 1.00 27.41 9  3 1 
+ATOM 64  C CZ  . ARG DB 54 9  ? 251.503 308.556 273.822 1.00 24.04 9  3 1 
+ATOM 65  N NH1 . ARG DB 54 9  ? 250.571 309.027 273.007 1.00 24.71 9  3 1 
+ATOM 66  N NH2 . ARG DB 54 9  ? 251.849 307.278 273.756 1.00 19.84 9  3 1 
+ATOM 67  N N   . TYR DB 54 10 ? 253.659 313.172 271.428 1.00 28.54 10 3 1 
+ATOM 68  C CA  . TYR DB 54 10 ? 253.278 313.042 270.034 1.00 28.40 10 3 1 
+ATOM 69  C C   . TYR DB 54 10 ? 254.381 313.521 269.118 1.00 28.30 10 3 1 
+ATOM 70  O O   . TYR DB 54 10 ? 254.566 312.989 268.029 1.00 28.39 10 3 1 
+ATOM 71  C CB  . TYR DB 54 10 ? 251.989 313.817 269.773 1.00 28.26 10 3 1 
+ATOM 72  C CG  . TYR DB 54 10 ? 250.786 313.221 270.464 1.00 27.35 10 3 1 
+ATOM 73  C CD1 . TYR DB 54 10 ? 250.575 311.854 270.460 1.00 30.05 10 3 1 
+ATOM 74  C CD2 . TYR DB 54 10 ? 249.875 314.019 271.131 1.00 27.20 10 3 1 
+ATOM 75  C CE1 . TYR DB 54 10 ? 249.484 311.300 271.083 1.00 30.38 10 3 1 
+ATOM 76  C CE2 . TYR DB 54 10 ? 248.780 313.473 271.762 1.00 30.02 10 3 1 
+ATOM 77  C CZ  . TYR DB 54 10 ? 248.591 312.112 271.734 1.00 31.64 10 3 1 
+ATOM 78  O OH  . TYR DB 54 10 ? 247.501 311.558 272.359 1.00 34.32 10 3 1 
+ATOM 79  N N   . ARG DB 54 11 ? 255.122 314.522 269.571 1.00 28.11 11 3 1 
+ATOM 80  C CA  . ARG DB 54 11 ? 256.252 315.008 268.804 1.00 28.17 11 3 1 
+ATOM 81  C C   . ARG DB 54 11 ? 257.321 313.930 268.801 1.00 28.15 11 3 1 
+ATOM 82  O O   . ARG DB 54 11 ? 257.841 313.540 267.748 1.00 28.14 11 3 1 
+ATOM 83  C CB  . ARG DB 54 11 ? 256.778 316.314 269.394 1.00 28.27 11 3 1 
+ATOM 84  C CG  . ARG DB 54 11 ? 255.757 317.437 269.330 1.00 29.88 11 3 1 
+ATOM 85  C CD  . ARG DB 54 11 ? 256.258 318.726 269.955 1.00 34.47 11 3 1 
+ATOM 86  N NE  . ARG DB 54 11 ? 255.259 319.786 269.855 1.00 37.33 11 3 1 
+ATOM 87  C CZ  . ARG DB 54 11 ? 254.268 319.967 270.723 1.00 38.29 11 3 1 
+ATOM 88  N NH1 . ARG DB 54 11 ? 254.147 319.169 271.772 1.00 39.02 11 3 1 
+ATOM 89  N NH2 . ARG DB 54 11 ? 253.405 320.955 270.548 1.00 37.73 11 3 1 
+ATOM 90  N N   . GLU DB 54 12 ? 257.607 313.422 269.994 1.00 28.21 12 3 1 
+ATOM 91  C CA  . GLU DB 54 12 ? 258.573 312.352 270.153 1.00 28.30 12 3 1 
+ATOM 92  C C   . GLU DB 54 12 ? 258.069 311.095 269.467 1.00 28.31 12 3 1 
+ATOM 93  O O   . GLU DB 54 12 ? 258.847 310.340 268.893 1.00 28.29 12 3 1 
+ATOM 94  C CB  . GLU DB 54 12 ? 258.845 312.081 271.634 1.00 30.00 12 3 1 
+ATOM 95  N N   . LEU DB 54 13 ? 256.755 310.893 269.510 1.00 28.48 13 3 1 
+ATOM 96  C CA  . LEU DB 54 13 ? 256.161 309.684 268.958 1.00 28.93 13 3 1 
+ATOM 97  C C   . LEU DB 54 13 ? 256.296 309.659 267.449 1.00 29.33 13 3 1 
+ATOM 98  O O   . LEU DB 54 13 ? 256.736 308.661 266.876 1.00 29.43 13 3 1 
+ATOM 99  C CB  . LEU DB 54 13 ? 254.691 309.568 269.370 1.00 29.01 13 3 1 
+ATOM 100 C CG  . LEU DB 54 13 ? 253.925 308.309 268.960 1.00 27.27 13 3 1 
+ATOM 101 C CD1 . LEU DB 54 13 ? 252.980 307.884 270.063 1.00 26.49 13 3 1 
+ATOM 102 C CD2 . LEU DB 54 13 ? 253.138 308.572 267.687 1.00 28.09 13 3 1 
+ATOM 103 N N   . ALA DB 54 14 ? 255.935 310.762 266.806 1.00 29.48 14 3 1 
+ATOM 104 C CA  . ALA DB 54 14 ? 256.055 310.837 265.362 1.00 29.73 14 3 1 
+ATOM 105 C C   . ALA DB 54 14 ? 257.515 310.703 265.028 1.00 30.01 14 3 1 
+ATOM 106 O O   . ALA DB 54 14 ? 257.890 310.035 264.065 1.00 29.86 14 3 1 
+ATOM 107 C CB  . ALA DB 54 14 ? 255.498 312.146 264.834 1.00 29.65 14 3 1 
+ATOM 108 N N   . ARG DB 54 15 ? 258.351 311.277 265.874 1.00 30.34 15 3 1 
+ATOM 109 C CA  . ARG DB 54 15 ? 259.777 311.234 265.648 1.00 30.73 15 3 1 
+ATOM 110 C C   . ARG DB 54 15 ? 260.188 309.777 265.615 1.00 30.99 15 3 1 
+ATOM 111 O O   . ARG DB 54 15 ? 261.068 309.386 264.848 1.00 31.17 15 3 1 
+ATOM 112 C CB  . ARG DB 54 15 ? 260.513 311.970 266.765 1.00 30.86 15 3 1 
+ATOM 113 C CG  . ARG DB 54 15 ? 261.926 311.471 267.018 1.00 38.97 15 3 1 
+ATOM 114 C CD  . ARG DB 54 15 ? 262.819 311.638 265.800 1.00 46.90 15 3 1 
+ATOM 115 N NE  . ARG DB 54 15 ? 264.178 311.179 266.072 1.00 51.68 15 3 1 
+ATOM 116 C CZ  . ARG DB 54 15 ? 265.098 311.901 266.704 1.00 53.24 15 3 1 
+ATOM 117 N NH2 . ARG DB 54 15 ? 266.308 311.401 266.910 1.00 52.20 15 3 1 
+ATOM 118 N NH1 . ARG DB 54 15 ? 264.808 313.122 267.131 1.00 53.21 15 3 1 
+ATOM 119 N N   . ASN DB 54 16 ? 259.546 308.974 266.454 1.00 30.99 16 3 1 
+ATOM 120 C CA  . ASN DB 54 16 ? 259.881 307.562 266.536 1.00 30.95 16 3 1 
+ATOM 121 C C   . ASN DB 54 16 ? 259.347 306.741 265.369 1.00 31.04 16 3 1 
+ATOM 122 O O   . ASN DB 54 16 ? 260.019 305.831 264.889 1.00 31.05 16 3 1 
+ATOM 123 C CB  . ASN DB 54 16 ? 259.365 306.976 267.846 1.00 30.86 16 3 1 
+ATOM 124 C CG  . ASN DB 54 16 ? 260.011 307.610 269.054 1.00 27.84 16 3 1 
+ATOM 125 O OD1 . ASN DB 54 16 ? 259.337 307.957 270.023 1.00 26.29 16 3 1 
+ATOM 126 N ND2 . ASN DB 54 16 ? 261.324 307.790 268.994 1.00 28.82 16 3 1 
+ATOM 127 N N   . TRP DB 54 17 ? 258.102 307.004 264.989 1.00 31.09 17 3 1 
+ATOM 128 C CA  . TRP DB 54 17 ? 257.428 306.282 263.909 1.00 31.23 17 3 1 
+ATOM 129 C C   . TRP DB 54 17 ? 257.874 306.641 262.495 1.00 31.75 17 3 1 
+ATOM 130 O O   . TRP DB 54 17 ? 257.541 305.942 261.541 1.00 31.93 17 3 1 
+ATOM 131 C CB  . TRP DB 54 17 ? 255.911 306.454 264.014 1.00 30.98 17 3 1 
+ATOM 132 C CG  . TRP DB 54 17 ? 255.247 305.473 264.923 1.00 32.49 17 3 1 
+ATOM 133 C CD1 . TRP DB 54 17 ? 254.377 305.753 265.936 1.00 29.84 17 3 1 
+ATOM 134 C CD2 . TRP DB 54 17 ? 255.394 304.049 264.904 1.00 34.63 17 3 1 
+ATOM 135 N NE1 . TRP DB 54 17 ? 253.972 304.592 266.547 1.00 31.29 17 3 1 
+ATOM 136 C CE2 . TRP DB 54 17 ? 254.583 303.532 265.932 1.00 32.72 17 3 1 
+ATOM 137 C CE3 . TRP DB 54 17 ? 256.132 303.162 264.117 1.00 34.65 17 3 1 
+ATOM 138 C CZ2 . TRP DB 54 17 ? 254.491 302.168 266.194 1.00 29.80 17 3 1 
+ATOM 139 C CZ3 . TRP DB 54 17 ? 256.038 301.809 264.379 1.00 32.82 17 3 1 
+ATOM 140 C CH2 . TRP DB 54 17 ? 255.224 301.325 265.408 1.00 31.66 17 3 1 
+ATOM 141 N N   . ILE DB 54 18 ? 258.630 307.722 262.358 1.00 31.97 18 3 1 
+ATOM 142 C CA  . ILE DB 54 18 ? 259.038 308.188 261.039 1.00 32.22 18 3 1 
+ATOM 143 C C   . ILE DB 54 18 ? 259.864 307.203 260.220 1.00 32.47 18 3 1 
+ATOM 144 O O   . ILE DB 54 18 ? 259.654 307.079 259.015 1.00 32.60 18 3 1 
+ATOM 145 C CB  . ILE DB 54 18 ? 259.821 309.508 261.134 1.00 30.00 18 3 1 
+ATOM 146 C CG1 . ILE DB 54 18 ? 258.877 310.657 261.488 1.00 30.00 18 3 1 
+ATOM 147 C CG2 . ILE DB 54 18 ? 260.541 309.790 259.826 1.00 30.00 18 3 1 
+ATOM 148 C CD1 . ILE DB 54 18 ? 259.559 312.004 261.582 1.00 30.00 18 3 1 
+ATOM 149 N N   . PRO DB 54 19 ? 260.799 306.506 260.850 1.00 32.41 19 3 1 
+ATOM 150 C CA  . PRO DB 54 19 ? 261.627 305.560 260.095 1.00 32.32 19 3 1 
+ATOM 151 C C   . PRO DB 54 19 ? 260.814 304.422 259.481 1.00 32.38 19 3 1 
+ATOM 152 O O   . PRO DB 54 19 ? 261.020 304.086 258.316 1.00 32.52 19 3 1 
+ATOM 153 C CB  . PRO DB 54 19 ? 262.575 305.001 261.158 1.00 32.28 19 3 1 
+ATOM 154 C CG  . PRO DB 54 19 ? 262.633 306.058 262.208 1.00 30.77 19 3 1 
+ATOM 155 C CD  . PRO DB 54 19 ? 261.264 306.670 262.236 1.00 32.42 19 3 1 
+ATOM 156 N N   . THR DB 54 20 ? 259.896 303.849 260.254 1.00 32.34 20 3 1 
+ATOM 157 C CA  . THR DB 54 20 ? 259.062 302.749 259.768 1.00 32.19 20 3 1 
+ATOM 158 C C   . THR DB 54 20 ? 258.100 303.118 258.640 1.00 32.30 20 3 1 
+ATOM 159 O O   . THR DB 54 20 ? 257.931 302.353 257.691 1.00 32.29 20 3 1 
+ATOM 160 C CB  . THR DB 54 20 ? 258.275 302.068 260.905 1.00 31.98 20 3 1 
+ATOM 161 O OG1 . THR DB 54 20 ? 259.141 301.175 261.616 1.00 29.16 20 3 1 
+ATOM 162 C CG2 . THR DB 54 20 ? 257.114 301.269 260.341 1.00 27.62 20 3 1 
+ATOM 163 N N   . ALA DB 54 21 ? 257.474 304.286 258.741 1.00 32.45 21 3 1 
+ATOM 164 C CA  . ALA DB 54 21 ? 256.513 304.701 257.732 1.00 32.62 21 3 1 
+ATOM 165 C C   . ALA DB 54 21 ? 257.207 305.354 256.541 1.00 32.61 21 3 1 
+ATOM 166 O O   . ALA DB 54 21 ? 256.737 305.247 255.408 1.00 32.57 21 3 1 
+ATOM 167 C CB  . ALA DB 54 21 ? 255.492 305.648 258.337 1.00 32.65 21 3 1 
+ATOM 168 N N   . SER DB 54 22 ? 258.323 306.030 256.792 1.00 32.66 22 3 1 
+ATOM 169 C CA  . SER DB 54 22 ? 259.083 306.599 255.694 1.00 32.60 22 3 1 
+ATOM 170 C C   . SER DB 54 22 ? 259.675 305.490 254.846 1.00 32.14 22 3 1 
+ATOM 171 O O   . SER DB 54 22 ? 259.704 305.588 253.616 1.00 31.97 22 3 1 
+ATOM 172 C CB  . SER DB 54 22 ? 260.185 307.514 256.206 1.00 32.85 22 3 1 
+ATOM 173 O OG  . SER DB 54 22 ? 259.630 308.603 256.918 1.00 20.00 22 3 1 
+ATOM 174 N N   . MET DB 54 23 ? 260.088 304.418 255.515 1.00 31.81 23 3 1 
+ATOM 175 C CA  . MET DB 54 23 ? 260.657 303.262 254.845 1.00 31.54 23 3 1 
+ATOM 176 C C   . MET DB 54 23 ? 259.600 302.673 253.926 1.00 31.46 23 3 1 
+ATOM 177 O O   . MET DB 54 23 ? 259.892 302.267 252.802 1.00 31.52 23 3 1 
+ATOM 178 C CB  . MET DB 54 23 ? 261.100 302.215 255.867 1.00 30.00 23 3 1 
+ATOM 179 N N   . TRP DB 54 24 ? 258.362 302.640 254.407 1.00 31.37 24 3 1 
+ATOM 180 C CA  . TRP DB 54 24 ? 257.262 302.107 253.618 1.00 31.47 24 3 1 
+ATOM 181 C C   . TRP DB 54 24 ? 257.052 302.930 252.360 1.00 31.56 24 3 1 
+ATOM 182 O O   . TRP DB 54 24 ? 256.821 302.383 251.284 1.00 31.69 24 3 1 
+ATOM 183 C CB  . TRP DB 54 24 ? 255.974 302.076 254.437 1.00 31.44 24 3 1 
+ATOM 184 C CG  . TRP DB 54 24 ? 255.942 300.968 255.422 1.00 32.03 24 3 1 
+ATOM 185 C CD1 . TRP DB 54 24 ? 256.006 301.074 256.776 1.00 30.51 24 3 1 
+ATOM 186 C CD2 . TRP DB 54 24 ? 255.852 299.573 255.130 1.00 30.62 24 3 1 
+ATOM 187 N NE1 . TRP DB 54 24 ? 255.955 299.829 257.349 1.00 27.08 24 3 1 
+ATOM 188 C CE2 . TRP DB 54 24 ? 255.861 298.889 256.358 1.00 27.84 24 3 1 
+ATOM 189 C CE3 . TRP DB 54 24 ? 255.762 298.835 253.948 1.00 32.50 24 3 1 
+ATOM 190 C CZ2 . TRP DB 54 24 ? 255.783 297.504 256.440 1.00 26.50 24 3 1 
+ATOM 191 C CZ3 . TRP DB 54 24 ? 255.685 297.462 254.030 1.00 29.06 24 3 1 
+ATOM 192 C CH2 . TRP DB 54 24 ? 255.696 296.809 255.267 1.00 26.98 24 3 1 
+ATOM 193 N N   . GLY DB 54 25 ? 257.148 304.248 252.492 1.00 31.41 25 3 1 
+ATOM 194 C CA  . GLY DB 54 25 ? 256.963 305.115 251.347 1.00 31.34 25 3 1 
+ATOM 195 C C   . GLY DB 54 25 ? 258.023 304.838 250.301 1.00 31.16 25 3 1 
+ATOM 196 O O   . GLY DB 54 25 ? 257.724 304.779 249.108 1.00 31.07 25 3 1 
+ATOM 197 N N   . ALA DB 54 26 ? 259.266 304.672 250.742 1.00 31.04 26 3 1 
+ATOM 198 C CA  . ALA DB 54 26 ? 260.344 304.364 249.818 1.00 30.83 26 3 1 
+ATOM 199 C C   . ALA DB 54 26 ? 260.086 303.000 249.187 1.00 30.72 26 3 1 
+ATOM 200 O O   . ALA DB 54 26 ? 260.241 302.818 247.980 1.00 30.82 26 3 1 
+ATOM 201 C CB  . ALA DB 54 26 ? 261.680 304.374 250.541 1.00 30.75 26 3 1 
+ATOM 202 N N   . VAL DB 54 27 ? 259.686 302.043 250.020 1.00 30.47 27 3 1 
+ATOM 203 C CA  . VAL DB 54 27 ? 259.379 300.698 249.552 1.00 30.13 27 3 1 
+ATOM 204 C C   . VAL DB 54 27 ? 258.170 300.724 248.629 1.00 30.00 27 3 1 
+ATOM 205 O O   . VAL DB 54 27 ? 258.140 300.055 247.599 1.00 30.03 27 3 1 
+ATOM 206 C CB  . VAL DB 54 27 ? 259.118 299.735 250.723 1.00 30.06 27 3 1 
+ATOM 207 C CG1 . VAL DB 54 27 ? 258.436 298.470 250.228 1.00 27.92 27 3 1 
+ATOM 208 C CG2 . VAL DB 54 27 ? 260.421 299.402 251.434 1.00 29.66 27 3 1 
+ATOM 209 N N   . GLY DB 54 28 ? 257.177 301.516 249.011 1.00 29.79 28 3 1 
+ATOM 210 C CA  . GLY DB 54 28 ? 255.964 301.657 248.239 1.00 29.85 28 3 1 
+ATOM 211 C C   . GLY DB 54 28 ? 256.241 302.367 246.933 1.00 30.12 28 3 1 
+ATOM 212 O O   . GLY DB 54 28 ? 255.664 302.023 245.906 1.00 30.09 28 3 1 
+ATOM 213 N N   . ALA DB 54 29 ? 257.144 303.343 246.963 1.00 30.23 29 3 1 
+ATOM 214 C CA  . ALA DB 54 29 ? 257.462 304.102 245.758 1.00 30.35 29 3 1 
+ATOM 215 C C   . ALA DB 54 29 ? 258.262 303.270 244.761 1.00 30.40 29 3 1 
+ATOM 216 O O   . ALA DB 54 29 ? 257.897 303.177 243.587 1.00 30.41 29 3 1 
+ATOM 217 C CB  . ALA DB 54 29 ? 258.221 305.363 246.115 1.00 30.33 29 3 1 
+ATOM 218 N N   . VAL DB 54 30 ? 259.341 302.654 245.231 1.00 30.23 30 3 1 
+ATOM 219 C CA  . VAL DB 54 30 ? 260.177 301.840 244.357 1.00 29.99 30 3 1 
+ATOM 220 C C   . VAL DB 54 30 ? 259.407 300.628 243.853 1.00 29.77 30 3 1 
+ATOM 221 O O   . VAL DB 54 30 ? 259.546 300.217 242.700 1.00 29.72 30 3 1 
+ATOM 222 C CB  . VAL DB 54 30 ? 261.452 301.366 245.080 1.00 30.05 30 3 1 
+ATOM 223 C CG1 . VAL DB 54 30 ? 262.257 300.426 244.194 1.00 30.88 30 3 1 
+ATOM 224 C CG2 . VAL DB 54 30 ? 262.292 302.556 245.501 1.00 31.65 30 3 1 
+ATOM 225 N N   . GLY DB 54 31 ? 258.562 300.082 244.717 1.00 29.69 31 3 1 
+ATOM 226 C CA  . GLY DB 54 31 ? 257.761 298.939 244.342 1.00 29.63 31 3 1 
+ATOM 227 C C   . GLY DB 54 31 ? 256.720 299.332 243.319 1.00 29.68 31 3 1 
+ATOM 228 O O   . GLY DB 54 31 ? 256.413 298.564 242.414 1.00 29.70 31 3 1 
+ATOM 229 N N   . LEU DB 54 32 ? 256.169 300.531 243.468 1.00 29.68 32 3 1 
+ATOM 230 C CA  . LEU DB 54 32 ? 255.168 301.014 242.530 1.00 29.52 32 3 1 
+ATOM 231 C C   . LEU DB 54 32 ? 255.814 301.275 241.176 1.00 29.16 32 3 1 
+ATOM 232 O O   . LEU DB 54 32 ? 255.197 301.064 240.132 1.00 29.22 32 3 1 
+ATOM 233 C CB  . LEU DB 54 32 ? 254.492 302.272 243.073 1.00 29.63 32 3 1 
+ATOM 234 C CG  . LEU DB 54 32 ? 253.334 302.861 242.274 1.00 33.36 32 3 1 
+ATOM 235 C CD1 . LEU DB 54 32 ? 252.211 301.845 242.189 1.00 34.48 32 3 1 
+ATOM 236 C CD2 . LEU DB 54 32 ? 252.842 304.142 242.928 1.00 31.04 32 3 1 
+ATOM 237 N N   . VAL DB 54 33 ? 257.067 301.717 241.199 1.00 28.78 33 3 1 
+ATOM 238 C CA  . VAL DB 54 33 ? 257.834 301.870 239.971 1.00 28.44 33 3 1 
+ATOM 239 C C   . VAL DB 54 33 ? 258.052 300.511 239.335 1.00 28.28 33 3 1 
+ATOM 240 O O   . VAL DB 54 33 ? 258.016 300.361 238.116 1.00 28.22 33 3 1 
+ATOM 241 C CB  . VAL DB 54 33 ? 259.198 302.538 240.235 1.00 28.28 33 3 1 
+ATOM 242 C CG1 . VAL DB 54 33 ? 260.079 302.495 238.994 1.00 24.92 33 3 1 
+ATOM 243 C CG2 . VAL DB 54 33 ? 259.000 303.970 240.697 1.00 27.14 33 3 1 
+ATOM 244 N N   . TRP DB 54 34 ? 258.254 299.515 240.186 1.00 28.09 34 3 1 
+ATOM 245 C CA  . TRP DB 54 34 ? 258.428 298.150 239.729 1.00 28.01 34 3 1 
+ATOM 246 C C   . TRP DB 54 34 ? 257.136 297.579 239.154 1.00 28.25 34 3 1 
+ATOM 247 O O   . TRP DB 54 34 ? 257.167 296.673 238.329 1.00 28.44 34 3 1 
+ATOM 248 C CB  . TRP DB 54 34 ? 258.923 297.276 240.876 1.00 27.81 34 3 1 
+ATOM 249 C CG  . TRP DB 54 34 ? 259.172 295.875 240.475 1.00 22.93 34 3 1 
+ATOM 250 C CD1 . TRP DB 54 34 ? 260.337 295.355 240.015 1.00 21.48 34 3 1 
+ATOM 251 C CD2 . TRP DB 54 34 ? 258.226 294.806 240.477 1.00 21.77 34 3 1 
+ATOM 252 N NE1 . TRP DB 54 34 ? 260.184 294.020 239.739 1.00 18.44 34 3 1 
+ATOM 253 C CE2 . TRP DB 54 34 ? 258.893 293.659 240.014 1.00 20.07 34 3 1 
+ATOM 254 C CE3 . TRP DB 54 34 ? 256.879 294.708 240.827 1.00 20.92 34 3 1 
+ATOM 255 C CZ2 . TRP DB 54 34 ? 258.262 292.427 239.894 1.00 18.58 34 3 1 
+ATOM 256 C CZ3 . TRP DB 54 34 ? 256.255 293.486 240.709 1.00 21.37 34 3 1 
+ATOM 257 C CH2 . TRP DB 54 34 ? 256.946 292.362 240.246 1.00 18.09 34 3 1 
+ATOM 258 N N   . ALA DB 54 35 ? 256.002 298.105 239.606 1.00 28.26 35 3 1 
+ATOM 259 C CA  . ALA DB 54 35 ? 254.698 297.585 239.205 1.00 28.40 35 3 1 
+ATOM 260 C C   . ALA DB 54 35 ? 254.170 298.227 237.926 1.00 28.64 35 3 1 
+ATOM 261 O O   . ALA DB 54 35 ? 253.604 297.543 237.076 1.00 28.66 35 3 1 
+ATOM 262 C CB  . ALA DB 54 35 ? 253.701 297.771 240.326 1.00 28.31 35 3 1 
+ATOM 263 N N   . THR DB 54 36 ? 254.340 299.540 237.798 1.00 28.89 36 3 1 
+ATOM 264 C CA  . THR DB 54 36 ? 253.960 300.231 236.568 1.00 29.16 36 3 1 
+ATOM 265 C C   . THR DB 54 36 ? 255.069 300.141 235.539 1.00 29.43 36 3 1 
+ATOM 266 O O   . THR DB 54 36 ? 254.879 300.514 234.382 1.00 29.46 36 3 1 
+ATOM 267 C CB  . THR DB 54 36 ? 253.632 301.713 236.803 1.00 29.22 36 3 1 
+ATOM 268 O OG1 . THR DB 54 36 ? 254.777 302.379 237.350 1.00 28.88 36 3 1 
+ATOM 269 C CG2 . THR DB 54 36 ? 252.453 301.855 237.751 1.00 27.33 36 3 1 
+ATOM 270 N N   . ASP DB 54 37 ? 256.221 299.640 235.976 1.00 29.58 37 3 1 
+ATOM 271 C CA  . ASP DB 54 37 ? 257.409 299.550 235.137 1.00 29.52 37 3 1 
+ATOM 272 C C   . ASP DB 54 37 ? 257.771 300.934 234.613 1.00 29.50 37 3 1 
+ATOM 273 O O   . ASP DB 54 37 ? 257.985 301.131 233.417 1.00 29.57 37 3 1 
+ATOM 274 C CB  . ASP DB 54 37 ? 257.178 298.569 233.990 1.00 29.46 37 3 1 
+ATOM 275 C CG  . ASP DB 54 37 ? 256.990 297.148 234.476 1.00 29.17 37 3 1 
+ATOM 276 O OD1 . ASP DB 54 37 ? 257.364 296.862 235.630 1.00 32.06 37 3 1 
+ATOM 277 O OD2 . ASP DB 54 37 ? 256.450 296.321 233.713 1.00 26.72 37 3 1 
+ATOM 278 N N   . TRP DB 54 38 ? 257.840 301.886 235.539 1.00 29.56 38 3 1 
+ATOM 279 C CA  . TRP DB 54 38 ? 258.020 303.298 235.223 1.00 29.75 38 3 1 
+ATOM 280 C C   . TRP DB 54 38 ? 259.279 303.565 234.403 1.00 29.89 38 3 1 
+ATOM 281 O O   . TRP DB 54 38 ? 260.324 302.977 234.656 1.00 29.77 38 3 1 
+ATOM 282 C CB  . TRP DB 54 38 ? 258.073 304.102 236.515 1.00 29.83 38 3 1 
+ATOM 283 C CG  . TRP DB 54 38 ? 258.297 305.542 236.303 1.00 20.00 38 3 1 
+ATOM 284 C CD1 . TRP DB 54 38 ? 259.484 306.195 236.363 1.00 20.00 38 3 1 
+ATOM 285 C CD2 . TRP DB 54 38 ? 257.304 306.531 236.037 1.00 20.00 38 3 1 
+ATOM 286 N NE1 . TRP DB 54 38 ? 259.302 307.532 236.129 1.00 20.00 38 3 1 
+ATOM 287 C CE2 . TRP DB 54 38 ? 257.968 307.766 235.928 1.00 20.00 38 3 1 
+ATOM 288 C CE3 . TRP DB 54 38 ? 255.918 306.491 235.870 1.00 20.00 38 3 1 
+ATOM 289 C CZ2 . TRP DB 54 38 ? 257.296 308.952 235.660 1.00 20.00 38 3 1 
+ATOM 290 C CZ3 . TRP DB 54 38 ? 255.252 307.667 235.607 1.00 20.00 38 3 1 
+ATOM 291 C CH2 . TRP DB 54 38 ? 255.940 308.883 235.503 1.00 20.00 38 3 1 
+ATOM 292 N N   . ARG DB 54 39 ? 259.179 304.474 233.438 1.00 30.15 39 3 1 
+ATOM 293 C CA  . ARG DB 54 39 ? 260.242 304.656 232.453 1.00 30.38 39 3 1 
+ATOM 294 C C   . ARG DB 54 39 ? 261.539 305.268 232.972 1.00 30.58 39 3 1 
+ATOM 295 O O   . ARG DB 54 39 ? 262.527 304.559 233.139 1.00 30.50 39 3 1 
+ATOM 296 C CB  . ARG DB 54 39 ? 259.732 305.500 231.281 1.00 30.53 39 3 1 
+ATOM 297 C CG  . ARG DB 54 39 ? 260.807 305.849 230.246 1.00 30.30 39 3 1 
+ATOM 298 C CD  . ARG DB 54 39 ? 261.574 304.630 229.740 1.00 27.16 39 3 1 
+ATOM 299 N NE  . ARG DB 54 39 ? 260.721 303.630 229.114 1.00 29.56 39 3 1 
+ATOM 300 C CZ  . ARG DB 54 39 ? 260.376 303.647 227.833 1.00 30.81 39 3 1 
+ATOM 301 N NH2 . ARG DB 54 39 ? 259.597 302.696 227.339 1.00 30.20 39 3 1 
+ATOM 302 N NH1 . ARG DB 54 39 ? 260.813 304.616 227.044 1.00 31.07 39 3 1 
+ATOM 303 N N   . LEU DB 54 40 ? 261.536 306.570 233.232 1.00 30.82 40 3 1 
+ATOM 304 C CA  . LEU DB 54 40 ? 262.787 307.325 233.260 1.00 31.14 40 3 1 
+ATOM 305 C C   . LEU DB 54 40 ? 263.788 306.849 234.313 1.00 31.41 40 3 1 
+ATOM 306 O O   . LEU DB 54 40 ? 264.994 306.981 234.121 1.00 31.41 40 3 1 
+ATOM 307 C CB  . LEU DB 54 40 ? 262.486 308.819 233.441 1.00 31.21 40 3 1 
+ATOM 308 C CG  . LEU DB 54 40 ? 261.747 309.365 234.666 1.00 33.58 40 3 1 
+ATOM 309 C CD1 . LEU DB 54 40 ? 262.682 309.580 235.841 1.00 33.95 40 3 1 
+ATOM 310 C CD2 . LEU DB 54 40 ? 261.034 310.661 234.310 1.00 33.87 40 3 1 
+ATOM 311 N N   . ILE DB 54 41 ? 263.308 306.308 235.425 1.00 31.70 41 3 1 
+ATOM 312 C CA  . ILE DB 54 41 ? 264.224 305.692 236.380 1.00 31.91 41 3 1 
+ATOM 313 C C   . ILE DB 54 41 ? 264.885 304.424 235.833 1.00 32.05 41 3 1 
+ATOM 314 O O   . ILE DB 54 41 ? 266.052 304.156 236.123 1.00 32.03 41 3 1 
+ATOM 315 C CB  . ILE DB 54 41 ? 263.517 305.387 237.707 1.00 31.88 41 3 1 
+ATOM 316 C CG1 . ILE DB 54 41 ? 263.271 306.692 238.465 1.00 32.32 41 3 1 
+ATOM 317 C CG2 . ILE DB 54 41 ? 264.341 304.441 238.566 1.00 29.52 41 3 1 
+ATOM 318 C CD1 . ILE DB 54 41 ? 261.884 307.238 238.326 1.00 33.45 41 3 1 
+ATOM 319 N N   . LEU DB 54 42 ? 264.170 303.674 234.999 1.00 32.19 42 3 1 
+ATOM 320 C CA  . LEU DB 54 42 ? 264.756 302.484 234.381 1.00 32.45 42 3 1 
+ATOM 321 C C   . LEU DB 54 42 ? 265.894 302.879 233.452 1.00 32.77 42 3 1 
+ATOM 322 O O   . LEU DB 54 42 ? 266.751 302.068 233.112 1.00 32.71 42 3 1 
+ATOM 323 C CB  . LEU DB 54 42 ? 263.706 301.672 233.622 1.00 32.44 42 3 1 
+ATOM 324 C CG  . LEU DB 54 42 ? 262.671 300.969 234.496 1.00 30.64 42 3 1 
+ATOM 325 C CD1 . LEU DB 54 42 ? 261.631 300.262 233.643 1.00 29.60 42 3 1 
+ATOM 326 C CD2 . LEU DB 54 42 ? 263.357 299.992 235.431 1.00 30.02 42 3 1 
+ATOM 327 N N   . ASP DB 54 43 ? 265.887 304.130 233.023 1.00 33.11 43 3 1 
+ATOM 328 C CA  . ASP DB 54 43 ? 267.012 304.646 232.281 1.00 33.37 43 3 1 
+ATOM 329 C C   . ASP DB 54 43 ? 268.239 304.626 233.172 1.00 33.74 43 3 1 
+ATOM 330 O O   . ASP DB 54 43 ? 269.359 304.436 232.705 1.00 33.61 43 3 1 
+ATOM 331 C CB  . ASP DB 54 43 ? 266.735 306.065 231.804 1.00 33.26 43 3 1 
+ATOM 332 C CG  . ASP DB 54 43 ? 265.565 306.135 230.855 1.00 30.28 43 3 1 
+ATOM 333 O OD1 . ASP DB 54 43 ? 265.150 305.072 230.350 1.00 28.60 43 3 1 
+ATOM 334 O OD2 . ASP DB 54 43 ? 265.054 307.249 230.621 1.00 30.78 43 3 1 
+ATOM 335 N N   . TRP DB 54 44 ? 268.018 304.816 234.467 1.00 34.20 44 3 1 
+ATOM 336 C CA  . TRP DB 54 44 ? 269.124 305.038 235.386 1.00 34.62 44 3 1 
+ATOM 337 C C   . TRP DB 54 44 ? 269.653 303.742 235.998 1.00 34.74 44 3 1 
+ATOM 338 O O   . TRP DB 54 44 ? 270.631 303.761 236.744 1.00 34.83 44 3 1 
+ATOM 339 C CB  . TRP DB 54 44 ? 268.711 306.017 236.491 1.00 34.89 44 3 1 
+ATOM 340 C CG  . TRP DB 54 44 ? 268.251 307.359 235.971 1.00 43.24 44 3 1 
+ATOM 341 C CD1 . TRP DB 54 44 ? 268.055 307.711 234.666 1.00 44.76 44 3 1 
+ATOM 342 C CD2 . TRP DB 54 44 ? 267.985 308.536 236.744 1.00 45.41 44 3 1 
+ATOM 343 N NE1 . TRP DB 54 44 ? 267.652 309.020 234.582 1.00 45.91 44 3 1 
+ATOM 344 C CE2 . TRP DB 54 44 ? 267.607 309.551 235.842 1.00 46.80 44 3 1 
+ATOM 345 C CE3 . TRP DB 54 44 ? 268.021 308.827 238.110 1.00 46.08 44 3 1 
+ATOM 346 C CZ2 . TRP DB 54 44 ? 267.265 310.834 236.262 1.00 48.20 44 3 1 
+ATOM 347 C CZ3 . TRP DB 54 44 ? 267.683 310.101 238.525 1.00 47.50 44 3 1 
+ATOM 348 C CH2 . TRP DB 54 44 ? 267.309 311.089 237.604 1.00 49.31 44 3 1 
+ATOM 349 N N   . VAL DB 54 45 ? 269.011 302.618 235.697 1.00 34.76 45 3 1 
+ATOM 350 C CA  . VAL DB 54 45 ? 269.491 301.342 236.217 1.00 34.82 45 3 1 
+ATOM 351 C C   . VAL DB 54 45 ? 270.433 300.658 235.227 1.00 35.06 45 3 1 
+ATOM 352 O O   . VAL DB 54 45 ? 270.067 300.383 234.083 1.00 35.02 45 3 1 
+ATOM 353 C CB  . VAL DB 54 45 ? 268.326 300.388 236.584 1.00 34.67 45 3 1 
+ATOM 354 C CG1 . VAL DB 54 45 ? 267.534 300.951 237.748 1.00 30.20 45 3 1 
+ATOM 355 C CG2 . VAL DB 54 45 ? 267.411 300.155 235.411 1.00 33.51 45 3 1 
+ATOM 356 N N   . PRO DB 54 46 ? 271.676 300.416 235.665 1.00 35.34 46 3 1 
+ATOM 357 C CA  . PRO DB 54 46 ? 272.692 299.715 234.873 1.00 35.73 46 3 1 
+ATOM 358 C C   . PRO DB 54 46 ? 272.286 298.302 234.459 1.00 36.12 46 3 1 
+ATOM 359 O O   . PRO DB 54 46 ? 272.682 297.857 233.382 1.00 36.14 46 3 1 
+ATOM 360 C CB  . PRO DB 54 46 ? 273.895 299.674 235.817 1.00 35.68 46 3 1 
+ATOM 361 C CG  . PRO DB 54 46 ? 273.725 300.877 236.670 1.00 34.76 46 3 1 
+ATOM 362 C CD  . PRO DB 54 46 ? 272.245 300.997 236.892 1.00 35.33 46 3 1 
+ATOM 363 N N   . TYR DB 54 47 ? 271.516 297.605 235.290 1.00 36.38 47 3 1 
+ATOM 364 C CA  . TYR DB 54 47 ? 271.207 296.212 234.996 1.00 36.62 47 3 1 
+ATOM 365 C C   . TYR DB 54 47 ? 269.848 296.047 234.326 1.00 36.83 47 3 1 
+ATOM 366 O O   . TYR DB 54 47 ? 269.765 295.618 233.176 1.00 36.75 47 3 1 
+ATOM 367 C CB  . TYR DB 54 47 ? 271.253 295.362 236.267 1.00 36.64 47 3 1 
+ATOM 368 C CG  . TYR DB 54 47 ? 271.005 293.889 236.013 1.00 36.65 47 3 1 
+ATOM 369 C CD1 . TYR DB 54 47 ? 272.030 293.056 235.584 1.00 35.49 47 3 1 
+ATOM 370 C CD2 . TYR DB 54 47 ? 269.745 293.338 236.176 1.00 37.77 47 3 1 
+ATOM 371 C CE1 . TYR DB 54 47 ? 271.808 291.713 235.345 1.00 35.84 47 3 1 
+ATOM 372 C CE2 . TYR DB 54 47 ? 269.513 291.999 235.935 1.00 36.84 47 3 1 
+ATOM 373 C CZ  . TYR DB 54 47 ? 270.546 291.191 235.521 1.00 36.00 47 3 1 
+ATOM 374 O OH  . TYR DB 54 47 ? 270.312 289.857 235.285 1.00 35.96 47 3 1 
+ATOM 375 N N   . ILE DB 54 48 ? 268.783 296.397 235.040 1.00 37.08 48 3 1 
+ATOM 376 C CA  . ILE DB 54 48 ? 267.438 296.055 234.588 1.00 37.41 48 3 1 
+ATOM 377 C C   . ILE DB 54 48 ? 266.985 297.026 233.499 1.00 37.84 48 3 1 
+ATOM 378 O O   . ILE DB 54 48 ? 266.177 297.927 233.721 1.00 37.74 48 3 1 
+ATOM 379 C CB  . ILE DB 54 48 ? 266.422 296.043 235.756 1.00 37.41 48 3 1 
+ATOM 380 C CG1 . ILE DB 54 48 ? 266.855 295.040 236.818 1.00 37.30 48 3 1 
+ATOM 381 C CG2 . ILE DB 54 48 ? 265.034 295.633 235.276 1.00 36.42 48 3 1 
+ATOM 382 C CD1 . ILE DB 54 48 ? 267.616 295.665 237.945 1.00 37.37 48 3 1 
+ATOM 383 N N   . ASN DB 54 49 ? 267.548 296.838 232.315 1.00 38.54 49 3 1 
+ATOM 384 C CA  . ASN DB 54 49 ? 267.057 297.510 231.130 1.00 39.15 49 3 1 
+ATOM 385 C C   . ASN DB 54 49 ? 266.358 296.489 230.250 1.00 39.65 49 3 1 
+ATOM 386 O O   . ASN DB 54 49 ? 267.004 295.792 229.471 1.00 39.54 49 3 1 
+ATOM 387 C CB  . ASN DB 54 49 ? 268.199 298.190 230.378 1.00 39.11 49 3 1 
+ATOM 388 C CG  . ASN DB 54 49 ? 268.768 299.370 231.137 1.00 39.49 49 3 1 
+ATOM 389 O OD1 . ASN DB 54 49 ? 268.094 299.963 231.976 1.00 39.44 49 3 1 
+ATOM 390 N ND2 . ASN DB 54 49 ? 270.016 299.712 230.850 1.00 38.67 49 3 1 
+ATOM 391 N N   . GLY DB 54 50 ? 265.038 296.394 230.380 1.00 40.24 50 3 1 
+ATOM 392 C CA  . GLY DB 54 50 ? 264.285 295.402 229.638 1.00 40.77 50 3 1 
+ATOM 393 C C   . GLY DB 54 50 ? 264.263 295.796 228.180 1.00 41.37 50 3 1 
+ATOM 394 O O   . GLY DB 54 50 ? 264.060 294.968 227.295 1.00 41.45 50 3 1 
+ATOM 395 N N   . LYS DB 54 51 ? 264.481 297.083 227.943 1.00 41.86 51 3 1 
+ATOM 396 C CA  . LYS DB 54 51 ? 264.701 297.615 226.610 1.00 42.24 51 3 1 
+ATOM 397 C C   . LYS DB 54 51 ? 266.018 297.065 226.070 1.00 42.56 51 3 1 
+ATOM 398 O O   . LYS DB 54 51 ? 266.939 296.818 226.846 1.00 42.57 51 3 1 
+ATOM 399 C CB  . LYS DB 54 51 ? 264.712 299.141 226.663 1.00 42.27 51 3 1 
+ATOM 400 C CG  . LYS DB 54 51 ? 263.355 299.739 227.003 1.00 43.06 51 3 1 
+ATOM 401 C CD  . LYS DB 54 51 ? 263.429 301.244 227.206 1.00 42.65 51 3 1 
+ATOM 402 C CE  . LYS DB 54 51 ? 264.189 301.598 228.482 1.00 42.81 51 3 1 
+ATOM 403 N NZ  . LYS DB 54 51 ? 263.488 301.136 229.717 1.00 41.01 51 3 1 
+ATOM 404 N N   . PHE DB 54 52 ? 266.096 296.848 224.757 1.00 42.90 52 3 1 
+ATOM 405 C CA  . PHE DB 54 52 ? 267.307 296.310 224.131 1.00 43.22 52 3 1 
+ATOM 406 C C   . PHE DB 54 52 ? 268.569 297.040 224.581 1.00 43.33 52 3 1 
+ATOM 407 O O   . PHE DB 54 52 ? 269.077 297.911 223.876 1.00 43.40 52 3 1 
+ATOM 408 C CB  . PHE DB 54 52 ? 267.217 296.374 222.601 1.00 43.37 52 3 1 
+ATOM 409 C CG  . PHE DB 54 52 ? 266.192 295.452 222.001 1.00 46.01 52 3 1 
+ATOM 410 C CD1 . PHE DB 54 52 ? 265.642 294.420 222.740 1.00 45.76 52 3 1 
+ATOM 411 C CD2 . PHE DB 54 52 ? 265.807 295.598 220.678 1.00 45.97 52 3 1 
+ATOM 412 C CE1 . PHE DB 54 52 ? 264.707 293.570 222.174 1.00 46.17 52 3 1 
+ATOM 413 C CE2 . PHE DB 54 52 ? 264.878 294.750 220.111 1.00 46.16 52 3 1 
+ATOM 414 C CZ  . PHE DB 54 52 ? 264.330 293.736 220.856 1.00 46.40 52 3 1 
+#
