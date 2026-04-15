@@ -2,4 +2,4 @@
 2) Align outgroup with other group of orthologous genes (mitochondrial or nucoxphos)
 3) Run msa result in recur.
 
-Starting with ND1, taken from A0EQ81_CROPO uniprot.
+Starting with ND1, taken from A0EQ81_CROPO uniprot. Added this sequence to the ND1.faa file, then will align with mafft.
