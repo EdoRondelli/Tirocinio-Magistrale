@@ -65,3 +65,4 @@ Only two main proteins gave issues, cyc1 (which we did not have at all) and uqcr
 ## Completion of models
 Completed thus the 4 models with alphafold, and obtained superimposition of them all with either botau/gagal/both. Added Fa4 (COX4A) subunit to complex 4 which is included in literature and some pdb structured.
 
+COmpleted model 3. This model, on PDB, was often lacking subunit 11, there is no gagal pdb model with subunit 11 comprised, so we matched the rest.
