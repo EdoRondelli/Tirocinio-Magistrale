@@ -23,4 +23,4 @@ COX3--> A0EQ87
 for dir in */; do cd "$dir"; cat * > ${dir/\//}_out.faa; cd ..; done
 
 ### code tested to iterate over raw sequences and align them
-for dir in */; do cd $dir; do mafft --auto *.faa > ${dir/\//}.aln; cd .. ; done
+(for dir in */; do cd $dir; do mafft --auto *.faa > ${dir/\//}.aln; cd .. ; done)
