@@ -18,3 +18,6 @@ ATP8--> Q335T9
 COX1--> A0EQ83
 COX2--> Q335U0
 COX3--> A0EQ87
+
+### code to iterate over directories, append the croc seq to the raw aa unaligned sequence of all our birds.
+for dir in */; do cd "$dir"; cat * > ${dir/\//}_out.faa; cd ..; done
