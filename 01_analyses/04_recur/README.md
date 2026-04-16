@@ -6,7 +6,7 @@ Starting with ND1, taken from A0EQ81_CROPO uniprot. Added this sequence to the N
 then ran recur with the command recur [options] -f <alignment_file> --outgroups <outgroup_species/file> -st <AA|CODON> -te <treefile> -m <model_of_evolution>, adding the treefile (with outgroup added) and the corresponding best model.
 
 ND1-->A0EQ81
-Nd2--> A0EQ82. 
+Nd2--> A0EQ82 
 ND3--> A0EQ88
 ND4--> Q335T4
 ND4L--> A0EQ89
@@ -15,3 +15,6 @@ ND6--> A0EQ92
 CYTB--> A0EQ93
 ATP6--> A0EQ86
 ATP8--> Q335T9
+COX1--> A0EQ83
+COX2--> Q335U0
+COX3--> A0EQ87
