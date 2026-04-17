@@ -26,3 +26,5 @@ for dir in */; do cd "$dir"; cat * > ${dir/\//}_out.faa; cd ..; done
 for dir in */; do cd $dir; mafft --auto *_out.faa > ${dir/\//}.aln; cd .. ; done
 
 now obtained folders containing unaligned w/out, unaligned without out, and aligned.
+
+next step is to obtain the relevant mitochondrial model from the readme to iterate over all genes when we run recur
