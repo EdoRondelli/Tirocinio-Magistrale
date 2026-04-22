@@ -33,3 +33,6 @@ next step is to obtain the relevant mitochondrial model from the readme to itera
 
 # Recur on nucoxphos
 The approach to these is different. Nucoxphos sequences require trimming and deletion of target peptide so they were manually curared and grouped into orthogroups. the next step is to add the corresponding gene from the crocodile genome. FIrst we download the genome then delete isoforms and pseudogenes then we want to re-create the orthogeroup by adding this croc sequence.
+agat_sp_keep_longest_isoform.pl --gff <GFF_file> -o <output_file>
+agat_sp_extract_sequences.pl -g <GFF_longest_file> -f <FASTA_file> -t cds -p --cfs --output <output_file>
+#N.B. AGAT use a particular module that wants FASTA file to be wrappend. Here it is important NOT to have single line FASTA. If you already have, try to use the command 'fold'
