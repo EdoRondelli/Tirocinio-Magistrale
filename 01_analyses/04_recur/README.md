@@ -36,3 +36,8 @@ The approach to these is different. Nucoxphos sequences require trimming and del
 agat_sp_keep_longest_isoform.pl --gff <GFF_file> -o <output_file>
 agat_sp_extract_sequences.pl -g <GFF_longest_file> -f <FASTA_file> -t cds -p --cfs --output <output_file>
 #N.B. AGAT use a particular module that wants FASTA file to be wrappend. Here it is important NOT to have single line FASTA. If you already have, try to use the command 'fold'
+
+From the list of nucoxphos (annotated_nucOXP_OG.tsv), subset the ones which have an X in column 5, as we have the proteins of them. awk '$5 == "x" {print $4}' annotated_nucOXP_OG.tsv > nucoxphos.txt
+Iterate over this list of names and grep each name in the fasta file of the annotated croc genome. Extracted all headers into headerlist.txt.
+Made the fasta file of the entire genome into a oneliner fasta, in order to extract the sequences easily. (wk '/^>/{if(seq) print name"\n"seq; name=$0; seq=""} !/^>/{seq=seq$0} END{print name"\n"seq}' finaloutput > onelinefinaloutput.fa)
+
