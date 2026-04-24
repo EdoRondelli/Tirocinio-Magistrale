@@ -45,3 +45,6 @@ TARGETP ON THE CRPOR SEQUENCES. --> bin/targetp -fasta /home/STUDENTI/edoardo.ro
 
 Ran a code to extract all the sequences which were not found when comparing the nucoxph to the avbailable cropor genome. The ones that were not present we want to check if they are present under a different name, so we try to run a comparison blastp, between a fasta containing all of the crpor genome annotated sequences (turned into a diamond database) and the fasta containing all the files which were not found when matching the bird nucoxphos tsv and the crpor genome fasta.
 
+Code to subset sequences between our nucoxphos gene names and the corresponding names in the total crpor genome for i in $(cat nucoxphos.txt); do grep -w -A1 "$i" onelinefinaloutput.fa | grep -A1 "^>"; done | wc -l
+
+
