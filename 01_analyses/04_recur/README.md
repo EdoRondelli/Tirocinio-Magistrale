@@ -47,4 +47,4 @@ Ran a code to extract all the sequences which were not found when comparing the 
 
 Code to subset sequences between our nucoxphos gene names and the corresponding names in the total crpor genome for i in $(cat nucoxphos.txt); do grep -w -A1 "$i" onelinefinaloutput.fa | grep -A1 "^>"; done | wc -l
 
-
+Found then the names in the nucoxph table which were not found in the crpor genome, and created a fasta file containing these 46 names + a representative sequence from a bird for each of them. This sequence was the blasted against the crpor database in order to find those sequences which while not being able to be matched due to not having the same name (synonym or locus) were still the same gene, and with blast out of the 46 non present nucoxphos 33 were found by blasting.
