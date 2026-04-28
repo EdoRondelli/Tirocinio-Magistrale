@@ -49,5 +49,8 @@ Code to subset sequences between our nucoxphos gene names and the corresponding 
 
 Found then the names in the nucoxph table which were not found in the crpor genome, and created a fasta file containing these 46 names + a representative sequence from a bird for each of them. This sequence was the blasted against the crpor database in order to find those sequences which while not being able to be matched due to not having the same name (synonym or locus) were still the same gene, and with blast out of the 46 non present nucoxphos 33 were found by blasting.
 
-We then had a file containing all crpor nucoxph sequences, and had to run targetp on them. Obtained some mature files (58) with the target peptide removed, then had to run a script to extract the sequences which did not get matured and add them to the matured ones to obtain a complete set of genes, with some having TP removed and some not. 
+We then had a file containing all crpor nucoxph sequences, and had to run targetp on them. Obtained some mature files (58) with the target peptide removed, then had to run a script to extract the sequences which did not get matured and add them to the matured ones to obtain a complete set of genes, with some having TP removed and some not. for i in *_mature.fasta; do cp $i ${i/_mature/_complete}; done
+
+for i in *_complete.fasta; do name=$(basename "$i" _complete.fasta); grep ">" "$i" | fgrep -v -f - <(grep ">" ../../00_disco_OG/"$name".faa) | fgrep -A1 -f - ../../00_disco_OG/"$name".faa | grep -v "\-\-" >> "$i" ; done
+
 
