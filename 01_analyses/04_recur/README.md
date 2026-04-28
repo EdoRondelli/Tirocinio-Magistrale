@@ -41,7 +41,7 @@ From the list of nucoxphos (annotated_nucOXP_OG.tsv), subset the ones which have
 Iterate over this list of names and grep each name in the fasta file of the annotated croc genome. Extracted all headers into headerlist.txt.
 Made the fasta file of the entire genome into a oneliner fasta, in order to extract the sequences easily. (wk '/^>/{if(seq) print name"\n"seq; name=$0; seq=""} !/^>/{seq=seq$0} END{print name"\n"seq}' finaloutput > onelinefinaloutput.fa)
 
-TARGETP ON THE CRPOR SEQUENCES. --> bin/targetp -fasta /home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/nucoxph_croc.fasta -prefix /home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/CrporTP -gff3 -mature -batch 300 -tmp /home/STUDENTI/edoardo.rondelli/.tmp       
+TARGETP ON THE CRPOR SEQUENCES. --> bin/targetp -fasta /home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/nucoxph_croc.fasta -prefix /home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/CrporTP -gff3 -mature -batch 300 -tmp /home/STUDENTI/edoardo.rondelli/.tmp       Must run in the targetp 08 folder.
 
 Ran a code to extract all the sequences which were not found when comparing the nucoxph to the avbailable cropor genome. The ones that were not present we want to check if they are present under a different name, so we try to run a comparison blastp, between a fasta containing all of the crpor genome annotated sequences (turned into a diamond database) and the fasta containing all the files which were not found when matching the bird nucoxphos tsv and the crpor genome fasta.
 
