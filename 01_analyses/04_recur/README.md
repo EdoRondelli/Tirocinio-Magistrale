@@ -53,4 +53,11 @@ We then had a file containing all crpor nucoxph sequences, and had to run target
 
 for i in *_complete.fasta; do name=$(basename "$i" _complete.fasta); grep ">" "$i" | fgrep -v -f - <(grep ">" ../../00_disco_OG/"$name".faa) | fgrep -A1 -f - ../../00_disco_OG/"$name".faa | grep -v "\-\-" >> "$i" ; done
 
+We now have to move all fasta sequences from the file containing all nucoxph Crpor genes, individually each sequence to the corresponding orthogroup. Some sequences have the same annotated name in both the bird orthogroup and the crpor genome so we can use the nucoxph.tsv file to link them, but others dont have the same name "LOC"
+
+# command to move all non-matching gene names from the crpor fasta to the corresponding ortho
+for i in $(cut -f2 results.tsv); do seq=$(grep -A1 $i onelinefinaloutput.fa | tail -n1); LOC=$(grep $i results.tsv | cut -d "|" -f2 | cut -f1); OG=$(basename $(grep -l "$LOC" /home/SHARED/00_Mitochondrial_aves/01_analyses/04_orthology/02_disco_OG/*) .faa); CrLOC=$(grep "$i" onelinefinaloutput.fa | cut -d "-" -f3 | cut -d " " -f1); echo -e ">Crpor|${CrLOC}\n${seq}" >> 11_OG_update/"$OG"_mature.faa; done
+
+# command to move all matching gene names from the crpor fasta to the corresponding ortho
+for i in $(grep ">" CrporNucoxphos_complete.fasta | cut -d "|" -f 2); do grep -w -A1 "$i" CrporNucoxphos_complete.fasta >> 11_OG_update/"$(awk -v gene="$i" '$4 == gene {print $6}' /home/SHARED/00_Mitochondrial_aves/01_analyses/06_annotation/annotated_nucOXP_OG.tsv)"_mature.faa; done
 
