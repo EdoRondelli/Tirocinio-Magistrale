@@ -61,3 +61,4 @@ for i in $(cut -f2 results.tsv); do seq=$(grep -A1 $i onelinefinaloutput.fa | ta
 # command to move all matching gene names from the crpor fasta to the corresponding ortho
 for i in $(grep ">" CrporNucoxphos_complete.fasta | cut -d "|" -f 2); do grep -w -A1 "$i" CrporNucoxphos_complete.fasta >> 11_OG_update/"$(awk -v gene="$i" '$4 == gene {print $6}' /home/SHARED/00_Mitochondrial_aves/01_analyses/06_annotation/annotated_nucOXP_OG.tsv)"_mature.faa; done
 
+### then we aligned and trimmed with the snakamake using mafft aligner then 2 runs of BMGE, one deleting columns (trimming AAs) and the other run deleting species.
