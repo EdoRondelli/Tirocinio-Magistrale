@@ -50,19 +50,6 @@ Code to subset sequences between our nucoxphos gene names and the corresponding 
 Found then the names in the nucoxph table which were not found in the crpor genome, and created a fasta file containing these 46 names + a representative sequence from a bird for each of them. This sequence was the blasted against the crpor database in order to find those sequences which while not being able to be matched due to not having the same name (synonym or locus) were still the same gene, and with blast out of the 46 non present nucoxphos 33 were found by blasting.
 
 We then had a file containing all crpor nucoxph sequences, and had to run targetp on them. Obtained some mature files (58) with the target peptide removed, then had to run a script to extract the sequences which did not get matured and add them to the matured ones to obtain a complete set of genes, with some having TP removed and some not. for i in *_mature.fasta; do cp $i ${i/_mature/_complete}; done
-import os
-from ete3 import Tree
-os.makedirs(os.path.expanduser("/home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/pruned_trees"), exist_ok=True)
-for file in os.listdir("/home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/trimmed/trimmed2/"):
-    t = Tree("/home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/cladogram_recur.nwk", format=1)
-    orthoname = file.split("_trimmed.faa")[0]
-    leaflist_path = os.path.join("/home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/ortholeaves/", f"{orthoname}.txt")  
-    with open(leaflist_path) as f:
-        content = f.read().strip()
-        leaflist = [name.strip('"') for name in content.split(',')]
-    t.prune(leaflist)
-    output_path = os.path.join("/home/STUDENTI/edoardo.rondelli/tirocinio_magistrale/00_data/00_genome/GCF_001723895.1/pruned_trees", f"{orthoname}.nwk")
-    t.write(format=9, outfile=output_path)
 for i in *_complete.fasta; do name=$(basename "$i" _complete.fasta); grep ">" "$i" | fgrep -v -f - <(grep ">" ../../00_disco_OG/"$name".faa) | fgrep -A1 -f - ../../00_disco_OG/"$name".faa | grep -v "\-\-" >> "$i" ; done
 
 We now have to move all fasta sequences from the file containing all nucoxph Crpor genes, individually each sequence to the corresponding orthogroup. Some sequences have the same annotated name in both the bird orthogroup and the crpor genome so we can use the nucoxph.tsv file to link them, but others dont have the same name "LOC"
