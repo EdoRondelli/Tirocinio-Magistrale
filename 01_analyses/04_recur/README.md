@@ -62,3 +62,6 @@ for i in $(cut -f2 results.tsv); do seq=$(grep -A1 $i onelinefinaloutput.fa | ta
 for i in $(grep ">" CrporNucoxphos_complete.fasta | cut -d "|" -f 2); do grep -w -A1 "$i" CrporNucoxphos_complete.fasta >> 11_OG_update/"$(awk -v gene="$i" '$4 == gene {print $6}' /home/SHARED/00_Mitochondrial_aves/01_analyses/06_annotation/annotated_nucOXP_OG.tsv)"_mature.faa; done
 
 ### then we aligned and trimmed with the snakamake using mafft aligner then 2 runs of BMGE, one deleting columns (trimming AAs) and the other run deleting species.
+
+To run recur on the trimmed fastas, each run has to be associated to a cladogram which perfectly matches the species which represent the orthogroup. to do this, first I created a script to generate a file for each orthogroup, detailing a list of the species which are contained. After obtaining these files, we had to prune the original cladogram (which contains all 259 species) in such a way that the only leaves remaining were those of the species found in that specific orthogroup. With python (ETE3 t.prune function) i created  a script to iterate over the file containing the names, prune the full tree "cladogram_nwk" based on the specific orthogroup, so that it created a number of trees equal to the number of different orthogroups, each containing only the species specific to the orthogroup.
+
