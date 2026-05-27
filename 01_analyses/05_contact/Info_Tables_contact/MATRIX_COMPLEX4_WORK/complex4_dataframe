@@ -1,0 +1,12 @@
+library(jsonlite)
+
+# Read and fix the JSON
+raw <- paste(readLines("contact_test.json"), collapse = "")
+raw <- paste0("{", raw, "}")
+raw <- gsub(",\\s*\\}", "}", raw)
+
+# Parse and convert to dataframe
+data <- fromJSON(raw)
+df <- as.data.frame(data$contact_probs)
+
+
