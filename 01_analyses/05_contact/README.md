@@ -9,3 +9,10 @@ represented enough as an orthologue across species to be succesffully analyzed b
 of the missing AA or the missing TP (tp removal was also applied differently between the orthologues used for alphafold and those used for recur).
 This brridge allows us to easily have information regarding position of AA to be associated with the exact same AA in the alphafold structure (e.g. an aminoacid which has changesd and recur indicates
 as a lysine at position 34 will correspond to an existing lysine at position 34 of the same alphafold chain, with no inconsistencies, allowing an easier analysis).
+
+- scaffold created.
+
+
+### Information table
+Objective is to create an information table containing all the paired AA's and their respective information. Derived the pairs from the contact probs matrix extracting only pairs with 0.5> 
+probabiliyty, With the contact_dataframe script then created the table which contains aas, recur(subunit) position, global position, whether the subunit is mitochondrial or nuclear for both AAs, and the probabiliyy of contact. This table is the results_df.
