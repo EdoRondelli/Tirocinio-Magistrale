@@ -12,6 +12,10 @@ as a lysine at position 34 will correspond to an existing lysine at position 34 
 
 - scaffold created.
 
+### Modification of the recur files themselves
+
+Another important step is the modification of the recur files TSVs themselves. Each file referring to a subunit which was longer than the alphafold subunit (§NDUFS3 & SDHD), the region which was not present in alphafold was eliminated from the annotated changes in the tsv (for example if alphafold and recur overlap on the last 100aas, and recur has an extra 5aas at the front, those first 5 are cut completely from the recur data, and we switch the site indicator by -5 for each recur-annotated row, so the indicated aa6 on recur becomes aa1, and corresponds correctly with the alphafold aa1). The second step is the reverse, where if in recur sites are missing w.r.t. alphafold, and thus we added Xs to compensate in the scaffolding, those sites which were recognized by recur are all shifted to +Number of Xs, so that site 1/2/3/etc actually become 1+nX, so it will refer to the actual site isntead of the added Xs. 
+
 
 ### Information table
 Objective is to create an information table containing all the paired AA's and their respective information. Derived the pairs from the contact probs matrix extracting only pairs with 0.5> 
