@@ -1,5 +1,4 @@
 ### Combining the structural alphafold model with the analysis performed by recur
-
 The next step in the analysis is to utilize the results of alphafold, in combination with those of recur, to perform a statistical analysis of the stringency of mutation of aminoacid residues.
 The idea is that residues which are in close contact between subunits, especially between a nuclear and mitochondrial derived subunit, are more likely to be less freely able to mutate and evolve,
 and so regions of contact will be less represented in the RECUR analysis which measures aminoacid changes over time.
@@ -13,10 +12,13 @@ as a lysine at position 34 will correspond to an existing lysine at position 34 
 - scaffold created.
 
 ### Modification of the recur files themselves
-
 Another important step is the modification of the recur files TSVs themselves. Each file referring to a subunit which was longer than the alphafold subunit (§NDUFS3 & SDHD), the region which was not present in alphafold was eliminated from the annotated changes in the tsv (for example if alphafold and recur overlap on the last 100aas, and recur has an extra 5aas at the front, those first 5 are cut completely from the recur data, and we switch the site indicator by -5 for each recur-annotated row, so the indicated aa6 on recur becomes aa1, and corresponds correctly with the alphafold aa1). The second step is the reverse, where if in recur sites are missing w.r.t. alphafold, and thus we added Xs to compensate in the scaffolding, those sites which were recognized by recur are all shifted to +Number of Xs, so that site 1/2/3/etc actually become 1+nX, so it will refer to the actual site isntead of the added Xs. 
 
 
 ### Information table
 Objective is to create an information table containing all the paired AA's and their respective information. Derived the pairs from the contact probs matrix extracting only pairs with 0.5> 
 probabiliyty, With the contact_dataframe script then created the table which contains aas, recur(subunit) position, global position, whether the subunit is mitochondrial or nuclear for both AAs, and the probabiliyy of contact. This table is the results_df.
+Did this for all 4 complexes. 
+
+### Translation to chimera
+The objective from here is to translate the contact pairs found in the results_df both into a way to overlap them with the recur tsv, and then in a way to insert this into chimera, colouring all the pairs we want. 
