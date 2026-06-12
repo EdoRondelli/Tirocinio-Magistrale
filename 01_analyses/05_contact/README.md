@@ -22,3 +22,6 @@ Did this for all 4 complexes.
 
 ### Translation to chimera
 The objective from here is to translate the contact pairs found in the results_df both into a way to overlap them with the recur tsv, and then in a way to insert this into chimera, colouring all the pairs we want. 
+The idea is generating two bimodal information groups. One contains all the residues which are in fact in contact between nucleus subunits and mitochonrial subunits, and the other contains all the ones that arent. In each of these we analyze the representation % of recur variance vs invariance in both the groups.
+
+1) Construct table listing all univocal AAs which are in these contact regions. AA | GPOS | CHAIN POS | MIT/NUC
