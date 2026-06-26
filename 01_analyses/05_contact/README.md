@@ -20,8 +20,13 @@ Objective is to create an information table containing all the paired AA's and t
 probabiliyty, With the contact_dataframe script then created the table which contains aas, recur(subunit) position, global position, whether the subunit is mitochondrial or nuclear for both AAs, and the probabiliyy of contact. This table is the results_df.
 Did this for all 4 complexes. 
 
-### Translation to chimera
+### Chi2 & Chimera translation
 The objective from here is to translate the contact pairs found in the results_df both into a way to overlap them with the recur tsv, and then in a way to insert this into chimera, colouring all the pairs we want. 
 The idea is generating two bimodal information groups. One contains all the residues which are in fact in contact between nucleus subunits and mitochonrial subunits, and the other contains all the ones that arent. In each of these we analyze the representation % of recur variance vs invariance in both the groups.
 
 1) Construct table listing all univocal AAs which are in these contact regions. AA | GPOS | CHAIN POS | MIT/NUC
+This was done, in the table unique_ordered, in the Info_Tables_contact folder.
+
+2) The second step was creating a dataframe containing all the recur information. The goal of this dataframe is obtaining a number of rows equal to the number of residues in each complex, with columns indicating whether this residue had a recurring substitution or not, or was not analyzed. The first step was extracting all the "sites" from the recur tables for each subunit, then adding them together shifted by subunit length (moving from a subunit-related position to a global protein positio, e.g. in the recur file for subunit 2, recurrence at site 6 will instead be written as position 6+length of sub1). This was done manually for each subunit, then after this we had to shift also to compensate for gap differences between alphafold positions and the positions of the segments analyzed by recur. The result is the C1/2/3/4_dataframe_posizioni_recur_si_no_NA.csv files.
+
+3) Putting together the unique_ordered and C1/2/3/4_dataframe_posizioni_recur_si_no_NA files, we use the "c_master_contact_table_for_chi2" R script to obtain a master table which contains information for each residue, respectively whether it is a residue where a recur was found, not, or not analyzed by recur (either due to missing gene or due to gaps). A fourth column indicates whether that residue is one of the mito-nuclear contact residues.
