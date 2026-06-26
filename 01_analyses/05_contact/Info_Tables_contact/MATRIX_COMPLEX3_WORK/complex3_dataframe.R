@@ -27,7 +27,7 @@ new_col <- c(NA, 1:4264)
 df <- cbind(index = new_col, df)
 
 #adding nuc/mit characterization as column
-nuc_or_mit_col <- c(NA, ifelse(as.numeric(trimws(sub(",.*", "", df$V1[-1]))) < 2, "mit", "nuc"))
+nuc_or_mit_col <- c(NA, ifelse(as.numeric(trimws(sub(",.*", "", df$V1[-1]))) <= 2, "mit", "nuc"))
 df <- cbind(nuc_or_mit_col = nuc_or_mit_col, df)
 
 #adding recur coordinates as row
@@ -67,3 +67,4 @@ names(results_df) <- c("AA1", "SubPos1", "GloPos1", "AA2", "SubPos2", "GloPos2",
 
 #exports as tsv
 write.table(results_df, "results.tsv", sep = "\t", row.names = FALSE, quote = FALSE)
+
