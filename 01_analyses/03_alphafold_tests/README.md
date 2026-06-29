@@ -66,3 +66,7 @@ Only two main proteins gave issues, cyc1 (which we did not have at all) and uqcr
 Completed thus the 4 models with alphafold, and obtained superimposition of them all with either botau/gagal/both. Added Fa4 (COX4A) subunit to complex 4 which is included in literature and some pdb structured.
 
 COmpleted model 3. This model, on PDB, was often lacking subunit 11, there is no gagal pdb model with subunit 11 comprised, so we matched the rest.
+
+
+# REINDEXING OF MODELS
+To associate the global positions of the recur portion had to re-index all models so that the position corresponded to the global position in our recur & chi2 master tables. DId this with the reindex_complexes.R script, and produced the newly indexed models C_REINDEXED_FINAL.pdb.
