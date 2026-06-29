@@ -1,0 +1,16 @@
+# ChimeraX recolouring script for complex C2
+# Generated from c2_master_chi2_table.csv
+# Total residues: 1167
+# Red   (Recur_yes=1, contact=1): 0 residues
+# Blue  (Recur_no=1,  contact=1): 0 residues
+# Yellow(Recur_yes=1, contact=0): 73 residues
+
+# Step 1: colour everything grey
+color #1/A #D3D3D3
+
+# Step 2: no red residues found
+
+# Step 3: no blue residues found
+
+# Step 4: colour yellow — recurring non-contacts (Recur_yes=1 AND contact=0)
+color #1/A:312,317,328,333,366,386,394,396,398,411,441,442,443,447,448,449,451,455,459,471,473,474,479,482,486,489,498,499,506,507,509,512,515,547,549,556,565,567,569,572,579,582,583,584,588,600,601,602,1066,1068,1075,1076,1083,1094,1098,1099,1109,1126,1127,1128,1129,1131,1133,1134,1138,1141,1142,1145,1149,1152,1153,1159,1162 #E39494
