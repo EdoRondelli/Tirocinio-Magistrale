@@ -42,7 +42,7 @@ colnames(new_row5) <- colnames(df)
 df <- rbind(new_row5, df)
 
 #adding nuc/mit characterization as column
-nucmitrow <- c(NA, NA, NA, NA, ifelse(as.numeric(trimws(sub(",.*", "", as.character(df[2, 5:ncol(df)])))) < 2, "mit", "nuc"))
+nucmitrow <- c(NA, NA, NA, NA, ifelse(as.numeric(trimws(sub(",.*", "", as.character(df[2, 5:ncol(df)])))) <= 2, "mit", "nuc"))
 new_row_df <- as.data.frame(matrix(nucmitrow, nrow=1))
 colnames(new_row_df) <- colnames(df)
 df <- rbind(new_row_df, df)
