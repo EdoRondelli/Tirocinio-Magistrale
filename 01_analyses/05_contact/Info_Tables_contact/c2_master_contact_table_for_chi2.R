@@ -2,7 +2,7 @@
 all_residues_recur <- read.csv("Complex2_matched_recur/C2_dataframe_posizioni_recur_si_no_NA.csv")
 
 #import the table containing all information about the residues in contact
-contact_residue_info <- read.csv("MATRIX_COMPLEX2_WORK/unique_ordered_2.csv")
+contact_residue_info <- read.csv("MATRIX_COMPLEX2_WORK/unique_ordered_nucnuc_2.csv")
 
 # Add the contact column
 # Convert both to numeric before comparing

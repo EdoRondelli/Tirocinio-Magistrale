@@ -1,0 +1,33 @@
+
+csv_data <- read.csv("COMPLEX4_DIMER_ALLRECUR.csv", header = FALSE)
+unique_values <- csv_data[[1]]
+
+df <- data.frame(
+  Recur_yes    = integer(3720),
+  Recur_no     = integer(3720),
+  Not_analysed = integer(3720)
+)
+
+# Set Recur_yes to 1 for rows corresponding to unique values
+df$Recur_yes[unique_values] <- 1
+
+# Manual fill of N/A residues, those with X in
+# ~/tirocinio_magistrale/01_analyses/05_contact/Recur_correspondents
+df$Not_analysed[2009:2014] <- 1
+df$Not_analysed[2158:2163] <- 1
+
+df$Not_analysed[2307:2720] <- 1
+
+df$Not_analysed[2891:3082] <- 1
+df$Not_analysed[3125:3158] <- 1
+
+df$Not_analysed[3527:3615] <- 1
+df$Not_analysed[3668:3668] <- 1
+
+# Fill Recur_no with 1 where both Recur_yes and Not_analysed are 0
+df$Recur_no[df$Recur_yes == 0 & df$Not_analysed == 0] <- 1
+
+# Check that each row has exactly one 1
+all(rowSums(df) == 1)
+
+write.csv(df, "C4_dimer_dataframe_posizioni_recur_si_no_NA.csv", row.names = FALSE)
