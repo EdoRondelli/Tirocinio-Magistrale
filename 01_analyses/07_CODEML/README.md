@@ -5,8 +5,9 @@ the copies, keeping a species. these decisions are in the ChgouDV15 notepad file
 the next step is removing those removed gene tips from the tree, and then removing those duplicate genes from the current orthogroups, thus updating them. we will then have to align and trim these orthogroups.
 the code to remove the tips was in R. 
 
-'''library(ape)
+```library(ape)
 OG0009750 = read.tree("../../../../../OG0009750_tree.txt")
 toremove <- c("Spmen|FQV24_0015320", "Spmen|FQV24_0003693", "Fialb|LOC101817512", "Plnig|PLONIG_R04016", "Plnig|PLONIG_R04017")
 OG0009750 = drop.tip(OG0009750, toremove)
-write.tree(OG0009750, "../../../../../OG0009750_tree.txt")'''
+write.tree(OG0009750, "../../../../../OG0009750_tree.txt")```
+
