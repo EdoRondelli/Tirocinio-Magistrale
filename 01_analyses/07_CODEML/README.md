@@ -13,3 +13,6 @@ write.tree(OG0009750, "../../../../../OG0009750_tree.txt")``
 
 
 ### To align and trim we use the alignment_trimming.smk snakemake. 
+performed alignment and trimming.
+performed targetpepetide removal with targep2.0 (will have to remove manually too)
+performed gene tree creation for all 3 genes which had the tips removed.
