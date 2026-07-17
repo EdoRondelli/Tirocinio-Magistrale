@@ -11,3 +11,4 @@ toremove <- c("Spmen|FQV24_0015320", "Spmen|FQV24_0003693", "Fialb|LOC101817512"
 OG0009750 = drop.tip(OG0009750, toremove)
 write.tree(OG0009750, "../../../../../OG0009750_tree.txt")```
 
+### To align and trim we use the alignment_trimming.smk snakemake. 
