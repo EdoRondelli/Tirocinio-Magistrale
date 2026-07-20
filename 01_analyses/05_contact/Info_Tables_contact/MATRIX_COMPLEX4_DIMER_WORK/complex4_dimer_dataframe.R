@@ -13,7 +13,7 @@ df <- as.data.frame(contact_probs)
 df_matrix <- as.data.frame(data$contact_probs)
 
 #loading the data csv from .cif file, adding aa names + recur coordinates as a column
-csv_data <- read.csv('complex1_indexing.csv', header=FALSE, sep=" ") 
+csv_data <- read.csv('complex4_dimer_indexing.csv', header=FALSE, sep=" ") 
 df <- cbind(csv_data[, 1:2], df)
 
 #adding aa names as a row 
@@ -23,11 +23,11 @@ new_row[1, 3:ncol(df)] <- df$V2
 df <- rbind(new_row, df)
 
 #adding universal coordinates as column
-new_col <- c(NA, 1:4486)
+new_col <- c(NA, 1:3720)
 df <- cbind(index = new_col, df)
 
 #adding nuc/mit characterization as column
-nuc_or_mit_col <- c(NA, ifelse(as.numeric(trimws(sub(",.*", "", df$V1[-1]))) < 8, "mit", "nuc"))
+nuc_or_mit_col <- c(NA, ifelse(as.numeric(trimws(sub(",.*", "", df$V1[-1]))) < 7, "mit", "nuc"))
 df <- cbind(nuc_or_mit_col = nuc_or_mit_col, df)
 
 #adding recur coordinates as row
@@ -37,12 +37,12 @@ new_row2[1, 5:ncol(df)] <- csv_data[, 1]
 df <- rbind(new_row2, df)
 
 #adding universal coordinates as row
-new_row5 <- as.data.frame(matrix(c(NA, NA, NA, NA, 1:4486), nrow=1))
+new_row5 <- as.data.frame(matrix(c(NA, NA, NA, NA, 1:3720), nrow=1))
 colnames(new_row5) <- colnames(df)
 df <- rbind(new_row5, df)
 
 #adding nuc/mit characterization as column
-nucmitrow <- c(NA, NA, NA, NA, ifelse(as.numeric(trimws(sub(",.*", "", as.character(df[2, 5:ncol(df)])))) < 8, "mit", "nuc"))
+nucmitrow <- c(NA, NA, NA, NA, ifelse(as.numeric(trimws(sub(",.*", "", as.character(df[2, 5:ncol(df)])))) < 7, "mit", "nuc"))
 new_row_df <- as.data.frame(matrix(nucmitrow, nrow=1))
 colnames(new_row_df) <- colnames(df)
 df <- rbind(new_row_df, df)

@@ -14,4 +14,4 @@ combined_filtered <- rbind(filtered1, setNames(filtered2, names(filtered1)))
 # ordering, treating as number, making unique
 ordered <- combined_filtered[order(as.numeric(combined_filtered$GloPos1)), ]
 unique_ordered <- ordered[!duplicated(ordered$GloPos1), ]
-write.csv(unique_ordered, "unique_ordered_mitmit_4.csv", row.names = FALSE)
+write.csv(unique_ordered, "unique_ordered_mitmit_4_dimer.csv", row.names = FALSE)
