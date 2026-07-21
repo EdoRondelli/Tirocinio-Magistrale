@@ -16,3 +16,6 @@ write.tree(OG0009750, "../../../../../OG0009750_tree.txt")``
 performed alignment and trimming.
 performed targetpepetide removal with targep2.0 (will have to remove manually too)
 performed gene tree creation for all 3 genes which had the tips removed.
+[all this in ~/snakemake-tutorial/01_tree_paralogous_manual]
+
+manual trimming was then done for the 3 orthogroups, and then the 8 (red+blue) orthogroups were ran through CODEML to obtain the rst files.
