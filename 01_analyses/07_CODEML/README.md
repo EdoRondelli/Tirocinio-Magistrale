@@ -19,3 +19,10 @@ performed gene tree creation for all 3 genes which had the tips removed.
 [all this in ~/snakemake-tutorial/01_tree_paralogous_manual]
 
 manual trimming was then done for the 3 orthogroups, and then the 8 (red+blue) orthogroups were ran through CODEML to obtain the rst files.
+
+```bash
+# Extraction NEB
+for i in $(cat ../NEB_todo); do if [ -f "$i".rst ]; then sed -n '/Naive Empirical Bayes (NEB) probabilities for 2 classes & postmean_w/,/lnL = /{/Naive Empirical Bayes (NEB) probabilities for 2 classes & postmean_w/d ; /lnL = /d ; p}' "$i".rst | tail -n +3 | head -n -2 > "$i".txt; fi; done
+# Extract BEB
+for i in $(cat ../BEB_todo); do if [ -f "$i".rst ]; then sed -n '/Bayes Empirical Bayes (BEB) probabilities for 3 classes (class) & postmean_w/,/Positively selected sites/{/Bayes Empirical Bayes (BEB) probabilities for 3 classes (class) & postmean_w/d ; /Positively selected sites/d ; p}' "$i".rst | tail -n +3 | head -n -1 > "$i".txt; fi; done
+```
