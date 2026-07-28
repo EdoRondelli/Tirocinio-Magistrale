@@ -35,7 +35,8 @@ CYTC HAS NO GAGAL.
 
 Each subunit was aligned (alphafold vs codeml trimmed gagal) and 4 files were obtaiend (c1-4_codemltoalphafold.txt) which indicated the modifications required to apply to each .tsv file in order to make the residue number match the intended residue on the alphafold corresponding gene. using a libreoffice macro:
 
-```Sub Main
+```office
+Sub Main
     Dim sCol As String, sStartRow As String, sDelta As String
 
     sCol = InputBox("Which column do you want to shift? (1 = column A, 2 = column B, ...)", "Shift Column", "1")
@@ -90,6 +91,8 @@ Each subunit was aligned (alphafold vs codeml trimmed gagal) and 4 files were ob
     Next r
 
     MsgBox "Shifted " & nChanged & " cell(s) in column " & (col + 1) & ", starting at row " & (startRow + 1) & ", by " & delta & "."
-End Sub```
+End Sub
+```
+
 shifting of each residue and associated class was performed, then this tsv was merged with the alphafold .faa file, obtaining a 3 column tsv which has all the residues in equal positions as the alphafold, and the NEB/BEB classes from the codeml tsv.
-the goal is to then also add a contact column and colour. 
+the goal is to then also add a contact column and colour by generating a cxs file.
