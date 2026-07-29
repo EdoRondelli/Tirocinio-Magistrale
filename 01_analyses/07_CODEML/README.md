@@ -96,3 +96,16 @@ End Sub
 
 shifting of each residue and associated class was performed, then this tsv was merged with the alphafold .faa file, obtaining a 3 column tsv which has all the residues in equal positions as the alphafold, and the NEB/BEB classes from the codeml tsv.
 the goal is to then also add a contact column and colour by generating a cxs file.
+
+# the map_classes script matches a .faa to a tsv which contains residue numbers and class, row 1 will match to the first residue in the .faa, and produce a tsv.
+
+indexes the c1-c4 files which contain residue + class
+```bash
+awk 'BEGIN{FS=OFS="\t"} {print NR, $0}' c4_dimer_combined.tsv > c4_dimer_combined_indexed.tsv
+```
+
+extract contacts (4th col) from recur contact tsv and adding it to the c1-4 tsv which contains residue/class/index:
+```bash
+cut -d',' -f4 input.csv > col4.txt
+paste existing.tsv col4.txt > combined.tsv
+```
