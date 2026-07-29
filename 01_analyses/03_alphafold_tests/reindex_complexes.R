@@ -1,5 +1,5 @@
 # Read the PDB file
-lines <- readLines("~/c2_test.pdb")
+lines <- readLines("c4_dimer.pdb")
 
 # Identify rows with atom data
 atom_idx <- which(grepl("^ATOM|^HETATM", lines))
@@ -17,4 +17,4 @@ substr(lines[atom_idx], 22, 22) <- rep("A", length(atom_idx))
 substr(lines[atom_idx], 23, 26) <- sprintf("%4d", global_resnos)
 
 # Save the unified file
-writeLines(lines, "C2_redinexed.pdb")
+writeLines(lines, "C4_dimer_redinexed.pdb")
